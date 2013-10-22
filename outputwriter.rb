@@ -39,6 +39,26 @@ class OutPutWriter
 		}
 	end
 
+	def toHTMLHomepage()
+
+		outputHTML = '<table class="table table-striped">'
+
+		files_sorted_by_time = 
+		for item in Dir[@outputLocation + "*"].sort_by{ |f| File.stat(f).mtime }.reverse!
+		  next if item == '.' or item == '..' or item == @outputLocation+'index.html'
+		  date = Date.parse(item.sub(@outputLocation, '').sub(/.html/, ''))
+		  outputHTML += '<tr><td><a href="' + item.sub(@outputLocation, '') + '" >' + date.strftime("%A %d %B %Y") + '</a></td></tr>'
+		end
+		outputHTML += '</table>'
+
+		template = File.read(@@homepageTemplateFileName)
+		html = template.sub(/<<content>>/, outputHTML)
+
+		File.open(@outputLocation + 'index.html', 'w') { |file| 
+			file.write(html) 
+		}
+	end
+
 	def toEmail()
 		options = { :address          => @settings["email"]["address"],
 	            :port                 => @settings["email"]["port"],

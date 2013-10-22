@@ -14,6 +14,7 @@ begin
 
 	out = OutPutWriter.new(pages, settings)
 	out.toHTML
-	out.toEmail
+	out.toHTMLHomepage
+	# out.toEmail
 	
 end
