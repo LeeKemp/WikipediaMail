@@ -2,7 +2,7 @@ require 'json'
 require 'mail'
 require 'cgi'
 require "yaml"
-require_relative "Page"
+require_relative "page"
 
 class OutPutWriter
 

@@ -1,8 +1,8 @@
 require 'json'
 require "yaml"
-require_relative "DataSource"
-require_relative "OutPutWriter"
-require_relative "Page"
+require_relative "datasource"
+require_relative "outputwriter"
+require_relative "page"
 
 begin
 

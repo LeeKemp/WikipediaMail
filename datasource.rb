@@ -1,6 +1,6 @@
 require 'open-uri'
 require 'json'
-require_relative "Page"
+require_relative "page"
 require 'set'
 
 class DataSource
