@@ -27,7 +27,9 @@ class OutPutWriter
 
 		for page in @pages
 			outputHTML += "<h2>" + page.title + "</h2>"
-			outputHTML += page.extract
+			if(page.extract)
+				outputHTML += page.extract
+			end
 			outputHTML += "<a href='"+page.url+"' >More...</a>"
 			outputHTML += "<hr>"
 		end
@@ -80,7 +82,9 @@ class OutPutWriter
 
 		for page in @pages
 			emailHTML += "<h1>" + page.title + "</h1>"
-			emailHTML += page.extract
+			if(page.extract)
+				emailHTML += page.extract
+			end
 			emailHTML += "<a href='"+page.url+"' >More...</a>"
 			emailHTML += "<hr>"
 		end
