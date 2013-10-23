@@ -23,14 +23,14 @@ class OutPutWriter
 		# Load the template
 		template = File.read(@@templateFileName)
 		fileName = @d  + ".html"
-		outputHTML = "<h1>Popular Pages - " + @printDate + "</h1>"
+		outputHTML = "<h1>Popular Pages - #{@printDate} </h1>"
 
 		for page in @pages
-			outputHTML += "<h2>" + page.title + "</h2>"
+			outputHTML += "<h2> #{page.title}</h2>"
 			if(page.extract)
 				outputHTML += page.extract
 			end
-			outputHTML += "<a href='"+page.url+"' >More...</a>"
+			outputHTML += "<a href='#{page.url}' >More...</a>"
 			outputHTML += "<hr>"
 		end
 
@@ -46,10 +46,10 @@ class OutPutWriter
 		outputHTML = '<table class="table table-striped">'
 
 		files_sorted_by_time = 
-		for item in Dir[@outputLocation + "*"].sort_by{ |f| File.stat(f).mtime }.reverse!
+		for item in Dir[@outputLocation + "*.html"].sort_by{ |f| File.stat(f).mtime }.reverse!
 		  next if item == '.' or item == '..' or item == @outputLocation+'index.html'
 		  date = Date.parse(item.sub(@outputLocation, '').sub(/.html/, ''))
-		  outputHTML += '<tr><td><a href="' + item.sub(@outputLocation, '') + '" >' + date.strftime("%A %d %B %Y") + '</a></td></tr>'
+		  outputHTML += '<tr><td><a href="#{item.sub(@outputLocation, '')}" >#{date.strftime("%A %d %B %Y")}</a></td></tr>'
 		end
 		outputHTML += '</table>'
 
@@ -81,11 +81,11 @@ class OutPutWriter
 		from=@settings["email"]["from"]
 
 		for page in @pages
-			emailHTML += "<h1>" + page.title + "</h1>"
+			emailHTML += "<h1>#{page.title}</h1>"
 			if(page.extract)
 				emailHTML += page.extract
 			end
-			emailHTML += "<a href='"+page.url+"' >More...</a>"
+			emailHTML += "<a href='#{page.url}' >More...</a>"
 			emailHTML += "<hr>"
 		end
 

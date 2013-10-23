@@ -17,4 +17,11 @@ begin
 	out.toHTMLHomepage
 	out.toEmail
 	
+	if(settings['env'] == 'prod')
+		outputLocation = settings["outputdir"]
+		puts `cd #{outputLocation} && git add -A && cd -`
+		puts `cd #{outputLocation} && git commit -m "New Pages" && cd -`
+		puts `cd #{outputLocation} && git push && cd -`
+	end
+
 end
