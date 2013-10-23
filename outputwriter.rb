@@ -34,6 +34,7 @@ class OutPutWriter
 			outputHTML += "<hr>"
 		end
 
+		outputHTML += "<!-- #{@t} -->"
 		html = template.sub(/<<content>>/, outputHTML)
 
 		File.open(@outputLocation + fileName, 'w') { |file| 
@@ -49,9 +50,10 @@ class OutPutWriter
 		for item in Dir[@outputLocation + "*.html"].sort_by{ |f| File.stat(f).mtime }.reverse!
 		  next if item == '.' or item == '..' or item == @outputLocation+'index.html'
 		  date = Date.parse(item.sub(@outputLocation, '').sub(/.html/, ''))
-		  outputHTML += '<tr><td><a href="#{item.sub(@outputLocation, '')}" >#{date.strftime("%A %d %B %Y")}</a></td></tr>'
+		  outputHTML += '<tr><td><a href="'+item.sub(@outputLocation, '')+'" >'+date.strftime("%A %d %B %Y")+'</a></td></tr>'
 		end
 		outputHTML += '</table>'
+		outputHTML += "<!-- #{@t} -->"
 
 		template = File.read(@@homepageTemplateFileName)
 		html = template.sub(/<<content>>/, outputHTML)
