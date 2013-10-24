@@ -1,0 +1,194 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Plagues_of_Egypt
+  title: Plagues of Egypt
+  extract: |-
+    <p>The <b>Plagues of Egypt</b> (Hebrew: מכות מצרים, <i>Makot Mitzrayim</i>), also called the <b>Ten Plagues</b> (Hebrew: עשר המכות, <i>Eser HaMakot</i>) or the <b>Biblical Plagues</b>, were ten calamities that, according to the biblical Book of Exodus, Israel's God, Yahweh, inflicted upon Egypt to persuade Pharaoh to release the ill-treated Israelites from slavery. Pharaoh capitulated after the tenth plague, triggering the Exodus of the Jewish people. The plagues were designed to contrast the power of Yahweh with the impotence of Egypt's various gods. Some commentators have associated several of the plagues with judgment on specific gods associated with the Nile, fertility and natural phenomena. The plagues of Egypt are also mentioned in the Quran (7,133–136). According to the Book of Exodus, God proclaims that all the gods of Egypt will be judged through the tenth and final plague:</p>
+    <blockquote class="templatequote">
+    <p>"On that same night I will pass through Egypt and strike down every firstborn — both men and animals —and I will bring judgment on all the gods of Egypt. I am the LORD"</p>
+
+    </blockquote>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Jamie_Dornan
+  title: Jamie Dornan
+  extract: <p><b>James "Jamie" Dornan</b> (born c. 1982) is a Northern Irish actor,
+    model and musician. He is known for playing Axel von Fersen in Sofia Coppola's
+    film <i>Marie Antoinette</i>, Sheriff Graham Humbert in the ABC series <i>Once
+    Upon a Time</i> and serial killer Paul Spector in the BBC Two crime drama series
+    <i>The Fall</i>.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Cheddar_cheese
+  title: Cheddar cheese
+  extract: |-
+    <p><b>Cheddar cheese</b> is a relatively hard, pale yellow to off-white (unless artificially coloured), and sometimes sharp-tasting, cheese. Originating in the English village of Cheddar in Somerset, cheeses of this style are produced beyond this region and in several countries around the world.</p>
+    <p>The style is the most popular cheese in the United Kingdom, accounting for 51 percent of the country's £1.9 billion annual cheese market, and the second most popular cheese in the United States, behind mozzarella, with an average annual consumption of 10 lb (4.5 kg) per capita. The United States produced 3,233,380,000 lb (1,443,470 long tons; 1,466,640 tonnes) in 2010, and the UK 258,000 long tons (262,000 tonnes) in 2008. The name "cheddar cheese" is widely used and has no Protected Designation of Origin (PDO) within the European Union, but only cheddar produced from local milk within four counties of South West England may use the name "West Country Farmhouse Cheddar."</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Halloween
+  title: Halloween
+  extract: |+
+    <p><b>Halloween</b> or <b>Hallowe'en</b> (/ˌhæləˈwin, -oʊˈin, ˌhɒl-/; a contraction of "All Hallows' Evening"), also known as <b>All Hallows' Eve</b>, is a yearly celebration observed in a number of countries on October 31, the eve of the Western Christian feast of All Hallows' Day. It initiates the triduum of Hallowmas, the time in the liturgical year dedicated to remembering the dead, including saints (hallows), martyrs, and all the faithful departed believers.</p>
+    <p>According to many scholars, All Hallows' Eve is a Christianized feast initially influenced by Celtic harvest festivals, and festivals of the dead with possible pagan roots, particularly the Gaelic Samhain. Other scholars maintain that it originated independently of Samhain and has solely Christian roots.</p>
+    <p>Typical festive Halloween activities include trick-or-treating (also known as "guising"), attending costume parties, decorating, carving pumpkins into jack-o'-lanterns, lighting bonfires, apple bobbing, visiting haunted attractions, playing pranks, telling scary stories, and watching horror films.</p>
+
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Love_Canal
+  title: Love Canal
+  extract: |-
+    <p><b>Love Canal</b> was a neighborhood in Niagara Falls, New York, located in the LaSalle section of the city. It officially covers 36 square blocks in the far southeastern corner of the city, along 99th Street and Read Avenue. Two bodies of water define the northern and southern boundaries of the neighborhood: Bergholtz Creek to the north and the Niagara River one-quarter mile (400 m) to the south. In the mid-1970s Love Canal became the subject of national and international attention after it was revealed in the press that the site had formerly been used to bury 21,000 tons of toxic waste by Hooker Chemical (now Occidental Petroleum Corporation).</p>
+    <p>Hooker Chemical sold the site to the Niagara Falls School Board in 1953 for $1, with a deed explicitly detailing the presence of the waste, and including a liability limitation clause about the contamination. The construction efforts of housing development, combined with particularly heavy rainstorms, released the chemical waste, leading to a public health emergency and an urban planning scandal. Hooker Chemical was found to be negligent in their disposal of waste, though not reckless in the sale of the land, in what became a test case for liability clauses. The dumpsite was discovered and investigated by the local newspaper, the <i>Niagara Falls Gazette</i>, from 1976 through the evacuation in 1978. Potential health problems were first raised by reporter Michael H. Brown in July 1978.<sup class="Template-Fact" style="white-space:nowrap;">[<i>citation needed</i>]</sup></p>
+    <p>Ten years after the incident, New York State Health Department Commissioner David Axelrod (not to be confused with former Senior Adivsor To President Barack Obama David Axelrod) stated that Love Canal would long be remembered as a "national symbol of a failure to exercise a sense of concern for future generations." The Love Canal incident was especially significant as a situation where the inhabitants "overflowed into the wastes instead of the other way around."</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Manna_Dey
+  title: Manna Dey
+  extract: |-
+    <p><b>Prabodh Chandra Dey</b> (1 May 1919 − 24 October 2013), known by his stage name <b>Manna Dey</b>, was an Indian playback singer. He debuted in the film <i>Tamanna</i> in 1942, and went on to record more than 4000 songs during 1942-2013. The Government of India honoured him with the Padma Shri in 1971, the Padma Bhushan in 2005 and the Dadasaheb Phalke Award in 2007.</p>
+    <p>Dey sang mainly in Hindi and Bengali; he also recorded songs in several other Indian languages. His peak period in Hindi playback singing is from 1953-1976.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Facebook
+  title: Facebook
+  extract: |-
+    <p><b>Facebook</b> is an online social networking service. Its name stems from the colloquial name for the book given to students at the start of the academic year by some American university administrations to help students get to know one another. Facebook was founded in February 2004 by Mark Zuckerberg with his college roommates and fellow Harvard University students Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes. The founders had initially limited the website's membership to students of the University of Harvard, but later expanded it to colleges in the Boston area, the Ivy League, and Stanford University. It gradually added support for students at various other universities before it opened to high school students, and eventually to anyone ages 13 and over. Facebook now allows anyone who claims to be at least 13 years old to become a registered user of the website.</p>
+    <p>Users must register before using the site, after which they may create a personal profile, add other users as friends, exchange messages, and receive automatic notifications when they update their profile. Additionally, users may join common-interest user groups, organized by workplace, school or college, or other characteristics, and categorize their friends into lists such as "People From Work" or "Close Friends". As of September 2012, Facebook has over one billion active users, of which 8.7% are fake. According to a May 2011 <i>Consumer Reports</i> survey, there are 7.5 million children under 13 with accounts and 5 million under 10, violating the site's terms of service. Facebook (as of 2012) has about 180 petabytes of data a year and grows by over half a petabyte every 24 hours.</p>
+    <p>In May 2005, Accel partners invested $12.7 million in Facebook, and Jim Breyer added $1 million of his own money to the pot. A January 2009 Compete.com study ranked Facebook as the most used social networking service by worldwide monthly active users. <i>Entertainment Weekly</i> included the site on its end-of-the-decade "best-of" list, saying, "How on earth did we stalk our exes, remember our co-workers' birthdays, bug our friends, and play a rousing game of Scrabulous before Facebook?" Facebook eventually filed for an initial public offering on February 1, 2012, and was headquartered in Menlo Park, California. Facebook Inc. began selling stock to the public and trading on the NASDAQ on May 18, 2012. Based on its 2012 income of USD 5.1 Billion, Facebook joined the Fortune 500 list for the first time, being placed at position of 462 on the list published in May 2013.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/World_War_II
+  title: World War II
+  extract: |-
+    <p><b>World War II</b> (<b>WWII</b> or <b>WW2</b>), also known as the <b>Second World War</b>, was a global war. It is generally considered to have lasted from 1939 to 1945, although some conflicts in Asia that are commonly viewed as becoming part of the world war had been going on earlier than that. It involved the vast majority of the world's nations—including all of the great powers—eventually forming two opposing military alliances: the Allies and the Axis. It was the most widespread war in history, with more than 100 million people, from more than 30 different countries, serving in military units. In a state of "total war", the major participants threw their entire economic, industrial, and scientific capabilities behind the war effort, erasing the distinction between civilian and military resources. Marked by mass deaths of civilians, including the Holocaust and the only use of nuclear weapons in warfare, it resulted in an estimated 50 million to 85 million fatalities. These made World War II the deadliest conflict in human history.</p>
+    <p>The Empire of Japan aimed to dominate East Asia and was already at war with the Republic of China in 1937, but the world war is generally said to have begun on 1 September 1939 with the invasion of Poland by Germany and subsequent declarations of war on Germany by France and the United Kingdom. From late 1939 to early 1941, in a series of campaigns and treaties, Germany formed the Axis alliance with Italy, conquering or subduing much of continental Europe. Following the Molotov–Ribbentrop Pact, Germany and the Soviet Union partitioned and annexed territories between themselves of their European neighbours, including Poland and the Baltic states. The United Kingdom and the other members of the British Commonwealth were the only major Allied forces continuing the fight against the Axis, with battles taking place in North Africa as well as the long-running Battle of the Atlantic. In June 1941, the European Axis launched an invasion of the Soviet Union, giving a start to the largest land theatre of war in history, which tied down the major part of the Axis' military forces for the rest of the war. In December 1941, Japan joined the Axis, attacked the United States and European territories in the Pacific Ocean, and quickly conquered much of the Western Pacific.</p>
+    <p>The Axis advance was stopped in 1942. Japan lost a critical battle at Midway, near Hawaii, and never regained its earlier momentum. Germany was defeated in North Africa and, decisively, at Stalingrad in Russia. In 1943, with a series of German defeats in Eastern Europe, the Allied invasion of Italy which brought about that nation's surrender, and American victories in the Pacific, the Axis lost the initiative and undertook strategic retreat on all fronts. In 1944, the Western Allies invaded France, while the Soviet Union regained all of its territorial losses and invaded Germany and its allies. During 1944 and 1945 the United States defeated the Japanese Navy and captured key Western Pacific islands.</p>
+    <p>The war in Europe ended with an invasion of Germany by the Western Allies and the Soviet Union culminating in the capture of Berlin by Soviet and Polish troops and the subsequent German unconditional surrender on 8 May 1945. Following the Potsdam Declaration by the Allies on 26 July 1945, the United States dropped atomic bombs on the Japanese cities of Hiroshima and Nagasaki on 6 August and 9 August respectively. With an invasion of the Japanese archipelago (known as Operation Downfall) imminent, and the Soviet Union having declared war on Japan by invading Manchuria, Japan surrendered on 15 August 1945, ending the war in Asia and cementing the total victory of the Allies over the Axis.</p>
+    <p>World War II altered the political alignment and social structure of the world. The United Nations (UN) was established to foster international co-operation and prevent future conflicts. The great powers that were the victors of the war—the United States, the Soviet Union, China, the United Kingdom, and France—became the permanent members of the United Nations Security Council. The Soviet Union and the United States emerged as rival superpowers, setting the stage for the Cold War, which lasted for the next 46 years. Meanwhile, the influence of European great powers started to decline, while the decolonisation of Asia and Africa began. Most countries whose industries had been damaged moved towards economic recovery. Political integration, especially in Europe, emerged as an effort to stabilise postwar relations and cooperate more effectively in the Cold War.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Arrow_(TV_series)
+  title: Arrow (TV series)
+  extract: |-
+    <p><i><b>Arrow</b></i> is an American action adventure television series developed by Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg. It is based on the fictional superhero Green Arrow, a costumed crime-fighter who appears in comic books published by DC Comics. It premiered in North America on The CW on October 10, 2012, with international broadcasting to take place in late 2012. The series follows billionaire playboy Oliver Queen, portrayed by Stephen Amell, who, after five years of being stranded on a hostile island, returns home to fight crime and corruption as a secret vigilante whose weapon of choice is a bow and arrows. <i>Arrow</i> will also feature appearances by other DC Comics characters. To assist in promotion, a preview comic book was released to tie into the television series.</p>
+    <p>On October 22, 2012, <i>Arrow</i> was picked up by The CW for a full season. On February 11, 2013, <i>Arrow</i> was renewed for a second season by The CW. The second season of <i>Arrow</i> premiered on October 9, 2013 and will feature 23 episodes.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Adolf_Hitler
+  title: Adolf Hitler
+  extract: |-
+    <p><b>Adolf Hitler</b> (<small>German:</small> [ˈadɔlf ˈhɪtlɐ]<small class="nowrap"> ( listen)</small>; 20 April 1889 – 30 April 1945) was an Austrian-born German politician and the leader of the Nazi Party (German: <i>Nationalsozialistische Deutsche Arbeiterpartei</i> (NSDAP); National Socialist German Workers Party). He was chancellor of Germany from 1933 to 1945 and dictator of Nazi Germany (as Führer und Reichskanzler) from 1934 to 1945. Hitler was at the centre of Nazi Germany, World War II in Europe, and the Holocaust.</p>
+    <p>Hitler was a decorated veteran of World War I. He joined the German Workers' Party (precursor of the NSDAP) in 1919, and became leader of the NSDAP in 1921. In 1923, he attempted a <i>coup d'état</i> in Munich, known as the Beer Hall Putsch. The failed coup resulted in Hitler's imprisonment, during which time he wrote his memoir, <i>Mein Kampf</i> (<i>My Struggle</i>). After his release in 1924, Hitler gained popular support by attacking the Treaty of Versailles and promoting Pan-Germanism, antisemitism, and anti-communism with charismatic oratory and Nazi propaganda. After his appointment as chancellor in 1933, he transformed the Weimar Republic into the Third Reich, a single-party dictatorship based on the totalitarian and autocratic ideology of Nazism.</p>
+    <p>Hitler's aim was to establish a New Order of absolute Nazi German hegemony in continental Europe. To this end, his foreign and domestic policies had the aim of seizing <i>Lebensraum</i> ("living space") for the Germanic people. He directed the rearmament of Germany and the invasion of Poland by the Wehrmacht in September 1939, resulting in the outbreak of World War II in Europe. Under Hitler's rule, in 1941 German forces and their European allies occupied most of Europe and North Africa. In 1943, Germany was forced onto the defensive and suffered a series of escalating defeats. In the final days of the war, during the Battle of Berlin in 1945, Hitler married his long-time partner, Eva Braun. On 30 April 1945, less than two days later, the two committed suicide to avoid capture by the Red Army, and their corpses were burned.</p>
+    <p>Hitler's aggressive foreign policy is considered to be the primary cause of the outbreak of World War II in Europe. His antisemitic policies and racially motivated ideology resulted in the deaths of at least 5.5 million Jews, and millions of other people whom he and his followers deemed racially inferior.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Zlatan_Ibrahimovi%C4%87
+  title: Zlatan Ibrahimović
+  extract: |+
+    <p><b>Zlatan Ibrahimović</b> (<small>Swedish pronunciation: </small>[ˈslaːtan ɪbraˈhiːmɔvɪtʂ], <small>Bosnian pronunciation: </small>[ˈzlatan ibraˈxiːmɔʋitɕ]; born 3 October 1981) is a Swedish professional footballer who plays as a striker for Ligue 1 club Paris Saint-Germain and the Swedish national team for which he is captain. Ibrahimović started his career at Malmö FF in the late 1990s under Roland Andersson. He was signed by Ajax, and made a name for himself under Ronald Koeman. He later signed with Juventus for €16 million. Ibrahimović gained fame in Serie A, benefiting from his strike partnership with David Trezeguet.</p>
+    <p>In 2006, he signed with league rival Internazionale, where he won individual awards such as the Italian Oscar del Calcio and the Swedish Guldbollen, and was named in the 2007 and 2009 UEFA Team of the Year, in addition to finishing as the league's highest scorer in 2008–09 while winning three straight <i>Scudetti</i>. In the summer of 2009, he transferred to Barcelona. His time at Barcelona was short-lived, however, moving back to Serie A football with Milan the following season, in a deal which made him one of the highest paid footballers in the world and cost the Italian club €24 million. He signed a three-year contract with Paris Saint-Germain in July 2012.</p>
+    <p>He is regarded to be one of the most talented footballers of his generation. In 2012, he was ranked 5th in <i>The Guardian'</i>s <i>100 Best Footballers</i> in the world.</p>
+
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/United_States
+  title: United States
+  extract: |-
+    <p>The <b>United States of America</b> (<b>USA</b>), commonly referred to as the <b>United States</b> (<b>US</b>), <b>America</b>, or simply <b>the States</b>, is a federal republic consisting of 50 states, 16 territories, a federal district, and various overseas extraterritorial jurisdictions. The 48 contiguous states and the federal district of Washington, D.C. are in central North America between Canada and Mexico. The state of Alaska is the northwestern part of North America and the state of Hawaii is an archipelago in the mid-Pacific. The country also has five populated and nine unpopulated territories in the Pacific and the Caribbean. At 3.79 million square miles (9.83 million km<sup>2</sup>) in total and with around 316 million people, the United States is the fourth-largest country by total area and third largest by population. It is one of the world's most ethnically diverse and multicultural nations, the product of large-scale immigration from many countries. The geography and climate of the United States is also extremely diverse and it is home to a wide variety of wildlife.</p>
+    <p>Paleo-indians migrated from Asia to what is now the US mainland around 15,000 years ago, with European colonization beginning in the 16th century. The United States emerged from 13 British colonies located along the Atlantic seaboard. Disputes between Great Britain and these colonies led to the American Revolution. On July 4, 1776, delegates from the 13 colonies unanimously issued the Declaration of Independence. The ensuing war ended in 1783 with the recognition of independence of the United States from the Kingdom of Great Britain, and was the first successful war of independence against a European colonial empire. The current Constitution was adopted on September 17, 1787. The first 10 amendments, collectively named the Bill of Rights, were ratified in 1791 and guarantee many fundamental civil rights and freedoms.</p>
+    <p>Driven by the doctrine of manifest destiny, the United States embarked on a vigorous expansion across North America throughout the 19th century. This involved displacing native tribes, acquiring new territories, and gradually admitting new states. The American Civil War ended legalized slavery in the United States. By the end of the 19th century, the United States extended into the Pacific Ocean, and its economy was the world's largest. The Spanish–American War and World War I confirmed the country's status as a global military power. The United States emerged from World War II as a global superpower, the first country with nuclear weapons, and a permanent member of the United Nations Security Council. The end of the Cold War and the dissolution of the Soviet Union left the United States as the sole superpower.</p>
+    <p>The United States is a developed country and has the world's largest national economy, with an estimated 2013 GDP of $16.2 trillion –22% of global GDP at purchasing-power parity, as of 2011. The per capita GDP of the U.S. was the world's sixth-highest as of 2010 and the U.S. has the highest mean and second highest median household income in the OECD as well as the highest average wage. The U.S. has the fourth most unequal income distribution among OECD nations with roughly 16% of the population living in poverty. The economy is fueled by an abundance of natural resources, a well-developed infrastructure, and high productivity; and while its economy is considered post-industrial the US continues to be one of the world's largest manufacturers. The country accounts for 39% of global military spending, being the foremost economic and military power, a prominent political and cultural force in the world, and a leader in scientific research and technological innovation.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Lycos
+  title: Lycos
+  extract: <p><b>Lycos, Inc.</b> is a search engine and web portal established in
+    1994. Lycos also encompasses a network of email, webhosting, social networking,
+    and entertainment websites.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/October_24
+  title: October 24
+  extract: <p><b>October 24</b> is the 297th day of the year (298th in leap years)
+    in the Gregorian calendar. There are 68 days remaining until the end of the year.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Deaths_in_2013
+  title: Deaths in 2013
+  extract: ''
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Lorde
+  title: Lorde
+  extract: <p><b>Ella Maria Lani Yelich-O'Connor</b> (born 7 November 1996), known
+    by her stage name <b>Lorde</b> (/ˈlɔrd/), is a New Zealand singer-songwriter.
+    Her first EP, <i>The Love Club</i>, was released on 22 November 2012 (2012-11-22),
+    and her first single, "Royals", debuted at number one on the New Zealand Top 40,
+    and also reached number one on the <i>Billboard</i> Hot 100 in 2013, making her
+    the first New Zealand solo artist to have a number one song in the United States.
+    Her debut album, <i>Pure Heroine</i>, was released on 27 September 2013 (2013-09-27).
+    She won the Silver Scroll Award for 2013 for "Royals".</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Ravenswood_(TV_series)
+  title: Ravenswood (TV series)
+  extract: <p><i><b>Ravenswood</b></i> is an American teen drama mystery-thriller
+    television series created by I. Marlene King, Oliver Goldstick and Joseph Dougherty.
+    A spin-off of <i>Pretty Little Liars</i>, ABC Family green lit the series on March
+    26, 2013. It premiered on October 22, 2013, following the <i>Pretty Little Liars</i>
+    Halloween episode. The series began filming on August 21, 2013. Ten episodes have
+    been ordered.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Breaking_Bad
+  title: Breaking Bad
+  extract: |-
+    <p><i><b>Breaking Bad</b></i> is an American crime drama television series created and produced by Vince Gilligan. Set and produced in Albuquerque, New Mexico, <i>Breaking Bad</i> is the story of Walter White (Bryan Cranston), a struggling high school chemistry teacher who is diagnosed with inoperable lung cancer at the beginning of the series. He turns to a life of crime, producing and selling methamphetamine, in order to secure his family's financial future before he dies, teaming with his former student, Jesse Pinkman (Aaron Paul). The series has been labeled a contemporary western by its creator.</p>
+    <p>The series premiered on January 20, 2008 in the United States and Canada on the cable channel AMC and the series finale aired on September 29, 2013. The show has received widespread critical acclaim, and is considered one of the greatest television series of all time. By its end, <i>Breaking Bad</i> was among the most-watched cable shows on American television, with audience numbers that doubled in the fifth season from the previous year's episodes.</p>
+    <p>The series won ten Primetime Emmy Awards, including three consecutive wins for Best Actor for Cranston, two wins for Best Supporting Actor for Paul, a Best Supporting Actress win for Anna Gunn, and the Outstanding Drama Series in 2013, after three nominations. The series has been nominated for a Golden Globe Award for Best Television Series – Drama and Cranston three times for Best Actor, besides being nominated four times for a Screen Actors Guild Award for Best Actor, winning once at the 19th Screen Actors Guild Awards. In 2013, the Writers Guild of America named <i>Breaking Bad</i> the 13th best-written TV series of all time. That same year, Guinness World Records called it the highest-rated TV series of all time, citing its season 5 Metacritic score of 99 out of 100.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/How_I_Met_Your_Mother
+  title: How I Met Your Mother
+  extract: |-
+    <p><i><b>How I Met Your Mother</b></i> (often abbreviated to <i>HIMYM</i>) is an American sitcom that premiered on CBS on September 19, 2005. The 2013–14 season is the show's ninth and final season. The series follows the main character, Ted Mosby, and his group of friends in Manhattan. As a framing device, Ted, in the year 2030, recounts to his son and daughter the events that led to his meeting their mother.</p>
+    <p>The show was created by Craig Thomas and Carter Bays, who also serve as the show's executive producers and frequent writers. The series was loosely inspired by their friendship when they both lived in New York City. There have currently only been four directors of the show's 184 episodes: Pamela Fryman (172 episodes), Rob Greenberg (7 episodes), Michael Shea (4 episodes), and Neil Patrick Harris (1 episode).</p>
+    <p>Known for its unique structure and eccentric humor, <i>How I Met Your Mother</i> has received positive reviews throughout most of its run and has gained a cult following over the years. The show has been nominated for 28 Emmy Awards, winning nine. In 2010, Alyson Hannigan won the People's Choice Award for Favorite TV Comedy Actress. In 2012, seven years after its premiere, the series won the People's Choice Award for Favorite Network TV Comedy, and Neil Patrick Harris won the award for Favorite TV Comedy Actor.</p>
+    <p>The ninth and final season started on September 23, 2013.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/List_of_Bollywood_films_of_2013
+  title: List of Bollywood films of 2013
+  extract: '<p>2013 marks the completion of <b>100 years</b> of Bollywood. This year
+    will see many big-budget films in Bollywood releasing, as well as a number of
+    sequels and quasi-sequels lined up for release. Some of these sequels are: <i>Dhoom
+    3</i>, <i>Krrish 3</i>, <i>Murder 3</i>, <i>Race 2</i>, <i>Once Upon a Time in
+    Mumbai 2</i>, <i>Aashiqui 2</i>, <i>Shootout at Wadala</i>, <i>Saheb, Biwi Aur
+    Gangster Returns</i>, <i>Grand Masti</i>, Satya 2 and <i>Yamla Pagla Deewana 2</i>.</p>'
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Go_(game)
+  title: Go (game)
+  extract: |-
+    <p><b>Go</b> (Chinese: 圍棋 <i>wéiqí</i>, Japanese: 囲碁 <i>igo</i>, Korean: 바둑 <i>baduk</i>, Vietnamese: <i>碁圍</i> <i>cờ vây</i>, common meaning: "encircling game") is a board game for two players that originated in China more than 2,500 years ago. The game is noted for being rich in strategy despite its relatively simple rules. According to chess master Emanuel Lasker: "The rules of Go are so elegant, organic, and rigorously logical that if intelligent life forms exist elsewhere in the universe, they almost certainly play Go."</p>
+    <p>The two players alternately place black and white playing pieces, called "stones", on the vacant intersections (called "points") of a grid of 19×19 lines (beginners often play on smaller 9×9 and 13×13 boards). The object of the game is to use one's stones to surround a larger total area of the board than the opponent. Once placed on the board, stones may not be moved, but stones are removed from the board if captured; this is done by surrounding an opposing stone or group of stones by occupying all orthogonally-adjacent points. Players continue in this fashion until neither player wishes to make another move; the game has no set ending conditions. When a game concludes, the controlled points (territory) are counted along with captured stones to determine who has more points. Games may also be won by resignation.</p>
+    <p>Go originated in ancient China. Archaeological evidence shows that the early game was played on a board with a 17×17 grid, but by the time the game had spread to Korea and Japan, in about the 5th and 7th centuries AD respectively, boards with a 19×19 grid had become standard.</p>
+    <p>As of mid-2008 there were well over 40 million Go players worldwide, the overwhelming majority living in East Asia. As of May 2012<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, the International Go Federation has a total of 74 member countries and four Association Members covering multiple countries.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Iris_Chang
+  title: Iris Chang
+  extract: '<p><b>Iris Shun-Ru Chang</b> (March 28, 1968 – November 9, 2004) was an
+    American historian and journalist. She is best known for her best-selling 1997
+    account of the Nanking Massacre, <i>The Rape of Nanking</i>. She committed suicide
+    on November 9, 2004. Chang is the subject of the 2007 biography, <i>Finding Iris
+    Chang</i>, and the 2007 documentary film <i>Iris Chang: The Rape of Nanking</i>.</p>'
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Blueshift
+  title: Blueshift
+  extract: <p>A <b>blueshift</b> is any decrease in wavelength (increase in frequency);
+    the opposite effect is referred to as redshift. In visible light, this shifts
+    the color from the red end of the spectrum to the blue end. The term also applies
+    when photons outside the visible spectrum (<i>e.g.</i> x-rays and radio waves)
+    are shifted toward shorter wavelengths, as well as to shifts in the de Broglie
+    wavelength of particles. Blueshift is most commonly caused by relative motion
+    toward the observer, described by the Doppler effect. An observer in a gravity
+    well will also see infalling radiation gravitationally blueshifted, described
+    by General Relativity in the same way as gravitational redshift. In a contracting
+    universe, cosmological blueshift would be observed; the expanding universe gives
+    a cosmological redshift, and the expansion is observed to be accelerating.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Google
+  title: Google
+  extract: |-
+    <p><b>Google Inc.</b> is an American multinational corporation specializing in Internet-related services and products. These include search, cloud computing, software, and online advertising technologies. Most of its profits are derived from AdWords.</p>
+    <p>Google was founded by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University. Together they own about 16 percent of its shares. They incorporated Google as a privately held company on September 4, 1998. An initial public offering followed on August 19, 2004. Its mission statement from the outset was "to organize the world's information and make it universally accessible and useful", and its unofficial slogan was "Don't be evil". In 2006 Google moved to headquarters in Mountain View, California, nicknamed the Googleplex.</p>
+    <p>Rapid growth since incorporation has triggered a chain of products, acquisitions and partnerships beyond Google's core search engine. It offers online productivity software including email (Gmail), an office suite (Google Drive), and social networking (Google+). Desktop products include applications for web browsing, organizing and editing photos, and instant messaging. The company leads the development of the Android mobile operating system and the browser-only Chrome OS for a netbook known as a Chromebook. Google has moved increasingly into communications hardware: it partners with major electronics manufacturers in production of its high-end Nexus devices and acquired Motorola Mobility in May 2012. In 2012, a fiber-optic infrastructure was installed in Kansas City to facilitate a Google Fiber broadband service.</p>
+    <p>The corporation has been estimated to run more than one million servers in data centers around the world and to process over one billion search requests and about 24 petabytes of user-generated data each day. In December 2012 Alexa listed google.com as the most visited website in the world. Numerous Google sites in other languages figure in the top one hundred, as do several other Google-owned sites such as YouTube and Blogger. Its market dominance has led to criticism over issues including copyright, censorship, and privacy.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/USS_Forrestal_(CV-59)
+  title: USS Forrestal (CV-59)
+  extract: |-
+    <p>The <b>USS <i>Forrestal</i> (CV-59)</b>, formerly <b>AVT-59</b> and <b>CVA-59</b>, is a supercarrier that was named after former Secretary of the Navy James Forrestal and was the lead ship of her class of aircraft carriers. The other carriers of her class were the USS <i>Saratoga</i>, USS <i>Ranger</i> and USS <i>Independence</i>. She superseded <i>Shinano</i> of World War II vintage as the largest aircraft carrier ever built by full load displacement and was the first to specifically support jet aircraft. The ship was affectionately called "The FID", because James Forrestal was the first ever Secretary of Defense, FID standing for "<b>F</b>irst <b>I</b>n <b>D</b>efense". This is also the slogan on the ship's insignia and patch. She was also informally known in the fleet as the "USS Zippo" and "Forest Fire" or "Firestal" because of a number of highly publicized fires on board, most notably a 1967 incident in which 134 sailors died and 161 were injured.</p>
+    <p><i>Forrestal</i> was launched 11 December 1954 by Newport News Shipbuilding and Drydock Co., Newport News, Virginia, sponsored by Josephine Forrestal, widow of Secretary Forrestal; and commissioned 1 October 1955, Captain R. L. Johnson in command. The construction cost of the <i>Forrestal</i> just before commissioning was estimated to be $218 million.</p>
