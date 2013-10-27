@@ -1,0 +1,187 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Daniel_Luke_Barth
+  title: Daniel Luke Barth
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Marcia_Wallace
+  title: Marcia Wallace
+  extract: <p><b>Marcia Karen Wallace</b> (November 1, 1942 – October 25, 2013) was
+    an American character actress, comedienne and game show panelist, primarily known
+    for her roles in television situation comedies. She is perhaps best known for
+    her roles as receptionist Carol Kester on the 1970s sitcom <i>The Bob Newhart
+    Show</i>, and as the voice of elementary school teacher Edna Krabappel on the
+    animated series <i>The Simpsons</i>, for which she won an Emmy for Outstanding
+    Voice-Over Performance in 1992.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Halloween
+  title: Halloween
+  extract: |+
+    <p><b>Halloween</b> or <b>Hallowe'en</b> (/ˌhæləˈwin, -oʊˈin, ˌhɒl-/; a contraction of "All Hallows' Evening"), also known as <b>All Hallows' Eve</b>, is a yearly celebration observed in a number of countries on October 31, the eve of the Western Christian feast of All Hallows' Day. It initiates the triduum of Hallowmas, the time in the liturgical year dedicated to remembering the dead, including saints (hallows), martyrs, and all the faithful departed believers.</p>
+    <p>According to many scholars, All Hallows' Eve is a Christianized feast initially influenced by Celtic harvest festivals, with possible pagan roots, particularly the Gaelic Samhain. Other academics maintain that it originated independently of Samhain and has solely Christian roots.</p>
+    <p>Typical festive Halloween activities include trick-or-treating (or the related "guising" or "trunk-or-treating"), attending costume parties, decorating, carving pumpkins into jack-o'-lanterns, lighting bonfires, apple bobbing, visiting haunted attractions, playing pranks, telling scary stories, and watching horror films.</p>
+
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Yesterday
+  title: Yesterday
+  extract: |-
+    <p>"<b>Yesterday</b>" is a song originally recorded by the Beatles for their 1965 album <i>Help!</i>. Although credited to "Lennon–McCartney", the song was written solely by Paul McCartney. It remains popular today with more than 2,200 cover versions, and is one of the most covered songs in the history of recorded music. At the time of its first appearance the song was released by the Beatles' record company as a single in the United States but not in the United Kingdom (for further details see below). Consequently, whilst it topped the American chart in 1965 the song first hit the British top 10 three months after the release of <i>Help!</i> in a cover version by Matt Monro. "Yesterday" was voted the best song of the 20th century in a 1999 BBC Radio 2 poll of music experts and listeners and was also voted the No. 1 Pop song of all time by MTV and <i>Rolling Stone</i> magazine the following year. In 1997, the song was inducted into the Grammy Hall of Fame. Broadcast Music Incorporated (BMI) asserts that it was performed over seven million times in the 20th century alone.</p>
+    <p>"Yesterday" is a melancholy acoustic guitar ballad about the break-up of a relationship. McCartney is the only Beatle to appear on the recording, and it was the first official recording by the Beatles that relied upon a performance by a single member of the band. He was accompanied by a string quartet. The final recording was so different from other works by the Beatles that the band members vetoed the release of the song as a single in the United Kingdom. (However, it was issued as a single there in 1976.) In 2000 McCartney asked Yoko Ono if she would agree to change the credit on the song to read "McCartney–Lennon" in the <i>The Beatles Anthology</i>, but she refused.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Dream_of_the_Rarebit_Fiend
+  title: Dream of the Rarebit Fiend
+  extract: |-
+    <p><i><b>Dream of the Rarebit Fiend</b></i> was a newspaper comic strip by American cartoonist Winsor McCay which began September 10, 1904. As in McCay's signature strip, <i>Little Nemo</i>, the strip was made up of bizarre dreams. It was McCay's second successful strip, after <i>Little Sammy Sneeze</i> secured him a position on the cartoon staff of the <i>New York Herald</i>. <i>Rarebit Fiend</i> was printed in the <i>Evening Telegram</i>, a newspaper published by the <i>Herald</i>. For contractual reasons, McCay signed the strip with the pen name "Silas".</p>
+    <p>The strip had no continuity or recurring characters. Instead, it had a recurring theme: a character would have a nightmare or other bizarre dream, usually after eating a Welsh rarebit (a cheese-on-toast dish). The character would awaken from the dream in the last panel, regretting having eaten the rarebit. The dreams often revealed the darker sides of the dreamers' psyches—their phobias, hypocrisies, discomforts, and dark fantasies. This was in great contrast to the colorful, childlike fantasy dreams in <i>Little Nemo</i>. The strip is mostly recognized as an adult-oriented precursor to <i>Nemo</i>.</p>
+    <p>The popularity of <i>Rarebit Fiend</i> and <i>Nemo</i> led to McCay being hired for William Randolph Hearst's chain of newspapers with a star's salary. His editor there thought his highly-skilled cartooning was "serious, not funny", and he was made to give up comic strips to do editorial cartooning. The strip was revived 1923–1925 as <i>Rarebit Reveries</i>, though few examples have survived.</p>
+    <p><i>Rarebit Fiend</i> was the inspiration for a number of films, including Edwin S. Porter's live-action <i>Dream of a Rarebit Fiend</i> in 1906, and four pioneering animated films by McCay himself: <i>How a Mosquito Operates</i> in 1912, and 1921's <i>Bug Vaudeville</i>, <i>The Pet</i> and <i>The Flying House</i>. The strip is said to have anticipated a number of recurring ideas in popular culture, such as giant characters damaging cities (as later popularized by <i>King Kong</i> and <i>Godzilla</i>).</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Hobo
+  title: Hobo
+  extract: <p>A <b>hobo</b> is a migratory worker or homeless vagabond—especially
+    one who is penniless. The term originated in the Western—probably Northwestern—United
+    States around 1890. Unlike "tramps"—who work only when they are forced to and,
+    "bums"—who do not work at all, "hobos" are itinerant workers.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Facebook
+  title: Facebook
+  extract: |-
+    <p><b>Facebook</b> is an online social networking service. Its name stems from the colloquial name for the book given to students at the start of the academic year by some American university administrations to help students get to know one another. Facebook was founded in February 2004 by Mark Zuckerberg with his college roommates and fellow Harvard University students Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes. The founders had initially limited the website's membership to students of the University of Harvard, but later expanded it to colleges in the Boston area, the Ivy League, and Stanford University. It gradually added support for students at various other universities before it opened to high school students, and eventually to anyone ages 13 and over. Facebook now allows anyone who claims to be at least 13 years old to become a registered user of the website.</p>
+    <p>Users must register before using the site, after which they may create a personal profile, add other users as friends, exchange messages, and receive automatic notifications when they update their profile. Additionally, users may join common-interest user groups, organized by workplace, school or college, or other characteristics, and categorize their friends into lists such as "People From Work" or "Close Friends". As of September 2012, Facebook has over one billion active users, of which 8.7% are fake. According to a May 2011 <i>Consumer Reports</i> survey, there are 7.5 million children under 13 with accounts and 5 million under 10, violating the site's terms of service. Facebook (as of 2012) has about 180 petabytes of data a year and grows by over half a petabyte every 24 hours.</p>
+    <p>In May 2005, Accel partners invested $12.7 million in Facebook, and Jim Breyer added $1 million of his own money to the pot. A January 2009 Compete.com study ranked Facebook as the most used social networking service by worldwide monthly active users. <i>Entertainment Weekly</i> included the site on its end-of-the-decade "best-of" list, saying, "How on earth did we stalk our exes, remember our co-workers' birthdays, bug our friends, and play a rousing game of Scrabulous before Facebook?" Facebook eventually filed for an initial public offering on February 1, 2012, and was headquartered in Menlo Park, California. Facebook Inc. began selling stock to the public and trading on the NASDAQ on May 18, 2012. Based on its 2012 income of USD 5.1 Billion, Facebook joined the Fortune 500 list for the first time, being placed at position of 462 on the list published in May 2013.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Lycos
+  title: Lycos
+  extract: <p><b>Lycos, Inc.</b> is a search engine and web portal established in
+    1994. Lycos also encompasses a network of email, webhosting, social networking,
+    and entertainment websites.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Edna_Krabappel
+  title: Edna Krabappel
+  extract: <p><b>Edna Krabappel</b> /krəˈbɑːpəl/ is a fictional character from the
+    animated TV series <i>The Simpsons</i>, who was voiced by Marcia Wallace. She
+    is the teacher of Bart Simpson's 4th grade class at Springfield Elementary School,
+    and Ned Flanders's wife in later seasons. Krabappel was the only character Wallace
+    voiced on a regular basis. The show's producers intend to retire the character
+    following Wallace's death.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/List_of_Bollywood_films_of_2013
+  title: List of Bollywood films of 2013
+  extract: '<p>2013 marks the completion of <b>100 years</b> of Bollywood. This year
+    will see many big-budget films in Bollywood releasing, as well as a number of
+    sequels and quasi-sequels lined up for release. Some of these sequels are: <i>Dhoom
+    3</i>, <i>Krrish 3</i>, <i>Murder 3</i>, <i>Race 2</i>, <i>Once Upon a Time in
+    Mumbai 2</i>, <i>Aashiqui 2</i>, <i>Shootout at Wadala</i>, <i>Saheb, Biwi Aur
+    Gangster Returns</i>, <i>Grand Masti</i>, Satya 2 and <i>Yamla Pagla Deewana 2</i>.</p>'
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Deaths_in_2013
+  title: Deaths in 2013
+  extract: ''
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Breaking_Bad
+  title: Breaking Bad
+  extract: |-
+    <p><i><b>Breaking Bad</b></i> is an American crime drama television series created and produced by Vince Gilligan. Set and produced in Albuquerque, New Mexico, <i>Breaking Bad</i> is the story of Walter White (Bryan Cranston), a struggling high school chemistry teacher who is diagnosed with inoperable lung cancer at the beginning of the series. He turns to a life of crime, producing and selling methamphetamine, in order to secure his family's financial future before he dies, teaming with his former student, Jesse Pinkman (Aaron Paul). The series has been labeled a contemporary western by its creator.</p>
+    <p>The series premiered on January 20, 2008 in the United States and Canada on the cable channel AMC and the series finale aired on September 29, 2013. The show has received widespread critical acclaim, and is considered one of the greatest television series of all time. By its end, <i>Breaking Bad</i> was among the most-watched cable shows on American television, with audience numbers that doubled in the fifth season from the previous year's episodes.</p>
+    <p>The series won ten Primetime Emmy Awards, including three consecutive wins for Best Actor for Cranston, two wins for Best Supporting Actor for Paul, a Best Supporting Actress win for Anna Gunn, and the Outstanding Drama Series in 2013, after three nominations. The series has been nominated for a Golden Globe Award for Best Television Series – Drama and Cranston three times for Best Actor, besides being nominated four times for a Screen Actors Guild Award for Best Actor, winning once at the 19th Screen Actors Guild Awards. In 2013, the Writers Guild of America named <i>Breaking Bad</i> the 13th best-written TV series of all time. That same year, Guinness World Records called it the highest-rated TV series of all time, citing its season 5 Metacritic score of 99 out of 100.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Milkha_Singh
+  title: Milkha Singh
+  extract: |-
+    <p><b>Milkha Singh</b> (born 1935), also known as <i><b>The Flying Sikh</b></i>, is a former Indian track and field sprinter who was introduced to the sport while serving in the Indian Army. As of 2013, he is the only Indian male athlete to win an individual athletics gold medal at a Commonwealth Games. He represented India in the 1956 Summer Olympics in Melbourne, 1960 Summer Olympics in Rome and the 1964 Summer Olympics in Tokyo. He was awarded the Padma Shri, India's fourth highest civilian honour, in recognition of his sporting achievements.</p>
+    <p>The race for which Singh is best remembered is his fourth-place finish in the 400 metres final at the 1960 Olympic Games, which he had entered as one of the favourites. He led the race for some time before easing off, allowing others to pass him. Various records were broken in the race, which required a photo-finish and saw American Otis Davis being declared the winner by one-hundredth of a second over German Carl Kaufmann. Singh's fourth-place time of 45.73 became the Indian national record and held for almost 40 years.</p>
+    <p>From beginnings that saw him orphaned and displaced during the Partition of India, Singh has become a sporting icon in his country. In 2008, journalist Rohit Brijnath described Singh as "the finest athlete India has ever produced". In July 2012, <i>The Independent</i> said that "India's most revered Olympian is a gallant loser" and noted the paucity of success — 20 medals — achieved by Indian competitors in the Olympic Games despite the country having a population in excess of one billion.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/World_War_II
+  title: World War II
+  extract: |-
+    <p><b>World War II</b> (<b>WWII</b> or <b>WW2</b>), also known as the <b>Second World War</b>, was a global war. It is generally considered to have lasted from 1939 to 1945, although some conflicts in Asia that are commonly viewed as becoming part of the world war had been going on earlier than that. It involved the vast majority of the world's nations—including all of the great powers—eventually forming two opposing military alliances: the Allies and the Axis. It was the most widespread war in history, with more than 100 million people, from more than 30 different countries, serving in military units. In a state of "total war", the major participants threw their entire economic, industrial, and scientific capabilities behind the war effort, erasing the distinction between civilian and military resources. Marked by mass deaths of civilians, including the Holocaust and the only use of nuclear weapons in warfare, it resulted in an estimated 50 million to 85 million fatalities. These made World War II the deadliest conflict in human history.</p>
+    <p>The Empire of Japan aimed to dominate East Asia and was already at war with the Republic of China in 1937, but the world war is generally said to have begun on 1 September 1939 with the invasion of Poland by Germany and subsequent declarations of war on Germany by France and the United Kingdom. From late 1939 to early 1941, in a series of campaigns and treaties, Germany formed the Axis alliance with Italy, conquering or subduing much of continental Europe. Following the Molotov–Ribbentrop Pact, Germany and the Soviet Union partitioned and annexed territories between themselves of their European neighbours, including Poland and the Baltic states. The United Kingdom and the other members of the British Commonwealth were the only major Allied forces continuing the fight against the Axis, with battles taking place in North Africa as well as the long-running Battle of the Atlantic. In June 1941, the European Axis launched an invasion of the Soviet Union, giving a start to the largest land theatre of war in history, which tied down the major part of the Axis' military forces for the rest of the war. In December 1941, Japan joined the Axis, attacked the United States and European territories in the Pacific Ocean, and quickly conquered much of the Western Pacific.</p>
+    <p>The Axis advance was stopped in 1942. Japan lost a critical battle at Midway, near Hawaii, and never regained its earlier momentum. Germany was defeated in North Africa and, decisively, at Stalingrad in Russia. In 1943, with a series of German defeats in Eastern Europe, the Allied invasion of Italy which brought about that nation's surrender, and American victories in the Pacific, the Axis lost the initiative and undertook strategic retreat on all fronts. In 1944, the Western Allies invaded France, while the Soviet Union regained all of its territorial losses and invaded Germany and its allies. During 1944 and 1945 the United States defeated the Japanese Navy and captured key Western Pacific islands.</p>
+    <p>The war in Europe ended with an invasion of Germany by the Western Allies and the Soviet Union culminating in the capture of Berlin by Soviet and Polish troops and the subsequent German unconditional surrender on 8 May 1945. Following the Potsdam Declaration by the Allies on 26 July 1945, the United States dropped atomic bombs on the Japanese cities of Hiroshima and Nagasaki on 6 August and 9 August respectively. With an invasion of the Japanese archipelago (known as Operation Downfall) imminent, and the Soviet Union having declared war on Japan by invading Manchuria, Japan surrendered on 15 August 1945, ending the war in Asia and cementing the total victory of the Allies over the Axis.</p>
+    <p>World War II altered the political alignment and social structure of the world. The United Nations (UN) was established to foster international co-operation and prevent future conflicts. The great powers that were the victors of the war—the United States, the Soviet Union, China, the United Kingdom, and France—became the permanent members of the United Nations Security Council. The Soviet Union and the United States emerged as rival superpowers, setting the stage for the Cold War, which lasted for the next 46 years. Meanwhile, the influence of European great powers started to decline, while the decolonisation of Asia and Africa began. Most countries whose industries had been damaged moved towards economic recovery. Political integration, especially in Europe, emerged as an effort to stabilise postwar relations and cooperate more effectively in the Cold War.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Gravity_(film)
+  title: Gravity (film)
+  extract: |-
+    <p><i><b>Gravity</b></i> is a 2013 3D science fiction thriller and space drama film directed, co-written, co-produced and co-edited by Alfonso Cuarón. The film stars Sandra Bullock and George Clooney as surviving astronauts from a damaged Space Shuttle mission, as they attempt to return to Earth.</p>
+    <p>Cuarón wrote the screenplay with his son Jonás and attempted to develop the project at Universal Studios. After the rights to the project were sold, the project found traction at Warner Bros. instead. The studio approached multiple actresses before casting Bullock in the female lead role. Robert Downey Jr. was also involved as the male lead before leaving the project and being replaced by Clooney.</p>
+    <p><i>Gravity</i> opened at the 70th Venice International Film Festival in August 2013. Its North American premiere was three days later at the Telluride Film Festival. It received a wide release in the United States and Canada on October 4, 2013. Reactions from critics and audiences alike have been overwhelmingly positive, both sides giving much praise for Emmanuel Lubezki's cinematography, as well as Bullock's and Clooney's performances.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Daylight_saving_time
+  title: Daylight saving time
+  extract: |-
+    <p><b>Daylight saving time</b> (<b>DST</b>)—also <b>summer time</b> in British English— is the practice of advancing clocks during the lighter months so that evenings have more daylight and mornings have less. Typically clocks are adjusted forward one hour near the start of spring and are adjusted backward in autumn.</p>
+    <p>The modern idea of daylight saving was first proposed in 1895 by George Vernon Hudson  and it was first implemented by Germany and Austria-Hungary starting on 30 April 1916. Many countries have used it at various times since then. Much of the United States used DST in the 1950s and 1960s, and DST use expanded following the 1970s energy crisis. It has been widely used in North America and Europe since then.</p>
+    <p>The practice has been both praised and criticized. Adding daylight to evenings benefits retailing, sports, and other activities that exploit sunlight after working hours, but can cause problems for evening entertainment and other occupations tied to the sun (such as farming) or to darkness (such as drive-in theatres). Although an early goal of DST was to reduce evening use of incandescent lighting (formerly a primary use of electricity), modern heating and cooling usage patterns differ greatly, and research about how DST currently affects energy use is limited or contradictory.</p>
+    <p>DST clock shifts present other challenges. They complicate timekeeping, and can disrupt meetings, travel, billing, record keeping, medical devices, heavy equipment, and sleep patterns. Software can often adjust computer clocks automatically, but this can be limited and error-prone, particularly when DST dates are changed.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Krrish_3
+  title: Krrish 3
+  extract: |+
+    <p><i><b>Krrish 3</b></i> is an upcoming Bollywood superhero science fiction film. The film will be produced and directed by Rakesh Roshan. The film will continue the story of Rohit Mehra and his superhero son Krrish, after <i>Koi... Mil Gaya</i> and <i>Krrish</i>. Both the previous films were hugely successful at the box office. The film was supposed to release along with its 3D format on Diwali, November 4, 2013. However, due to lack of time to convert the film to 3D, Rakesh Roshan later confirmed that the film will be released only in the 2D format, on November 1, 2013.</p>
+
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Legend_of_Korra_(Book_2)
+  title: The Legend of Korra (Book 2)
+  extract: '<p><i><b>Book Two: Spirits</b></i> is the second season of the animated
+    TV series <i>The Legend of Korra</i> by Michael Dante DiMartino and Bryan Konietzko.
+    It is to consist of fourteen episodes ("chapters"). A sequel to <i>The Legend
+    of Korra: Book 1</i>, it focuses more on spiritual concepts and themes. Ordered
+    in early 2011, <i>Book Two: Spirits</i> began airing on Nickelodeon in the U.S.
+    on September 13, 2013.</p>'
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/United_States
+  title: United States
+  extract: |-
+    <p>The <b>United States of America</b> (<b>USA</b>), commonly referred to as the <b>United States</b> (<b>US</b>), <b>America</b>, or simply <b>the States</b>, is a federal republic consisting of 50 states, 16 territories, a federal district, and various overseas extraterritorial jurisdictions. The 48 contiguous states and the federal district of Washington, D.C. are in central North America between Canada and Mexico. The state of Alaska is the northwestern part of North America and the state of Hawaii is an archipelago in the mid-Pacific. The country also has five populated and nine unpopulated territories in the Pacific and the Caribbean. At 3.79 million square miles (9.83 million km<sup>2</sup>) in total and with around 316 million people, the United States is the fourth-largest country by total area and third largest by population. It is one of the world's most ethnically diverse and multicultural nations, the product of large-scale immigration from many countries. The geography and climate of the United States is also extremely diverse, and it is home to a wide variety of wildlife.</p>
+    <p>Paleo-indians migrated from Asia to what is now the US mainland around 15,000 years ago, with European colonization beginning in the 16th century. The United States emerged from 13 British colonies located along the Atlantic seaboard. Disputes between Great Britain and these colonies led to the American Revolution. On July 4, 1776, delegates from the 13 colonies unanimously issued the Declaration of Independence. The ensuing war ended in 1783 with the recognition of independence of the United States from the Kingdom of Great Britain, and was the first successful war of independence against a European colonial empire. The current Constitution was adopted on September 17, 1787. The first 10 amendments, collectively named the Bill of Rights, were ratified in 1791 and guarantee many fundamental civil rights and freedoms.</p>
+    <p>Driven by the doctrine of manifest destiny, the United States embarked on a vigorous expansion across North America throughout the 19th century. This involved displacing native tribes, acquiring new territories, and gradually admitting new states. The American Civil War ended legalized slavery in the United States. By the end of the 19th century, the United States extended into the Pacific Ocean, and its economy was the world's largest. The Spanish–American War and World War I confirmed the country's status as a global military power. The United States emerged from World War II as a global superpower, the first country with nuclear weapons, and a permanent member of the United Nations Security Council. The end of the Cold War and the dissolution of the Soviet Union left the United States as the sole superpower.</p>
+    <p>The United States is a developed country and has the world's largest national economy, with an estimated 2013 GDP of $16.2 trillion –22% of global GDP at purchasing-power parity, as of 2011. The per capita GDP of the U.S. was the world's sixth-highest as of 2010 and the U.S. has the highest mean and second highest median household income in the OECD as well as the highest average wage. The U.S. has the fourth most unequal income distribution among OECD nations with roughly 16% of the population living in poverty. The economy is fueled by an abundance of natural resources, a well-developed infrastructure, and high productivity; and while its economy is considered post-industrial the US continues to be one of the world's largest manufacturers. The country accounts for 39% of global military spending, being the foremost economic and military power, a prominent political and cultural force in the world, and a leader in scientific research and technological innovation.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Dracula_(TV_series)
+  title: Dracula (TV series)
+  extract: |-
+    <p><i><b>Dracula</b></i> is a British-American television series television drama that is expected to air on Sky Living and premiered on NBC. It is produced by London-based Carnival Films. <i>Dracula</i> premiered on October 25, 2013, and will air on Fridays 10/9c after new episodes of <i>Grimm</i> on NBC. The series was created by Cole Haddon, and is a reimagining of the classic <i>Dracula</i> novel by Bram Stoker. Daniel Knauf, creator of the HBO series <i>Carnivàle</i>, will serve as showrunner/head writer, working with Haddon.</p>
+    <p>The series begins in the United Kingdom on Halloween 31 October 2013 on Sky Living.</p>
+    <p>The network announced the series in January 2012 with a straight-to-series commitment, and in July 2012 the series was green-lit for 10 episodes.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/IPv6
+  title: IPv6
+  extract: |-
+    <p><b>Internet Protocol version 6</b> (<b>IPv6</b>) is the latest revision of the Internet Protocol (IP), the communications protocol that provides an identification and location system for computers on networks and routes traffic across the Internet. IPv6 was developed by the Internet Engineering Task Force (IETF) to deal with the long-anticipated problem of IPv4 address exhaustion.</p>
+    <p>IPv6 is intended to replace IPv4, which still carries the vast majority of Internet traffic as of 2013. As of September 2013<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, the percentage of users reaching Google services over IPv6 surpassed 2% for the first time.</p>
+    <p>Every device on the Internet must be assigned an IP address in order to communicate with other devices. With the ever-increasing number of new devices being connected to the Internet, the need arose for more addresses than IPv4 is able to accommodate. IPv6 uses a 128-bit address, allowing 2<sup>128</sup>, or approximately 3.4×10<sup>38</sup> addresses, or more than 7.9×10<sup>28</sup> times as many as IPv4, which uses 32-bit addresses. IPv4 allows only approximately 4.3 billion addresses. The two protocols are not designed to be interoperable, complicating the transition to IPv6.</p>
+    <p>IPv6 addresses are represented as eight groups of four hexadecimal digits separated by colons, for example 2001:0db8:85a3:0042:1000:8a2e:0370:7334, but methods of abbreviation of this full notation exist.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Lorde
+  title: Lorde
+  extract: <p><b>Ella Maria Lani Yelich-O'Connor</b> (born 7 November 1996), known
+    by her stage name <b>Lorde</b> (/ˈlɔrd/), is a New Zealand singer-songwriter.
+    Her first EP, <i>The Love Club</i>, was released on 22 November 2012 (2012-11-22),
+    and her first single, "Royals", debuted at number one on the New Zealand Top 40,
+    and also reached number one on the <i>Billboard</i> Hot 100 in 2013, making her
+    the first New Zealand solo artist to have a number one song in the United States.
+    Her debut album, <i>Pure Heroine</i>, was released on 27 September 2013 (2013-09-27).
+    She won the Silver Scroll Award for 2013 for "Royals".</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Arrow_(TV_series)
+  title: Arrow (TV series)
+  extract: |-
+    <p><i><b>Arrow</b></i> is an American action adventure television series developed by Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg. It is based on the fictional superhero Green Arrow, a costumed crime-fighter who appears in comic books published by DC Comics. It premiered in North America on The CW on October 10, 2012, with international broadcasting to take place in late 2012. The series follows billionaire playboy Oliver Queen, portrayed by Stephen Amell, who, after five years of being stranded on a hostile island, returns home to fight crime and corruption as a secret vigilante whose weapon of choice is a bow and arrows. <i>Arrow</i> will also feature appearances by other DC Comics characters. To assist in promotion, a preview comic book was released to tie into the television series.</p>
+    <p>On October 22, 2012, <i>Arrow</i> was picked up by The CW for a full season. On February 11, 2013, <i>Arrow</i> was renewed for a second season by The CW. The second season of <i>Arrow</i> premiered on October 9, 2013 and will feature 23 episodes.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Sex
+  title: Sex
+  extract: |+
+    <p>Organisms of many species are specialized into male and female varieties, each known as a <b>sex</b>. Sexual reproduction involves the combining and mixing of genetic traits: specialized cells known as gametes combine to form offspring that inherit traits from each parent. Gametes can be identical in form and function (known as isogamy), but in many cases an asymmetry has evolved such that two sex-specific types of gametes (heterogametes) exist (known as anisogamy). By definition, male gametes are small, motile, and optimized to transport their genetic information over a distance, while female gametes are large, non-motile and contain the nutrients necessary for the early development of the young organism. Typically, males carry XY chromosomes, whereas females carry XX chromosomes.</p>
+    <p>The gametes produced by an organism determine its sex: males produce male gametes (spermatozoa, or sperm, in animals; pollen in plants) while females produce female gametes (ova, or egg cells); individual organisms which produce both male and female gametes are termed hermaphroditic. Frequently, physical differences are associated with the different sexes of an organism; these sexual dimorphisms can reflect the different reproductive pressures the sexes experience.</p>
+
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Google
+  title: Google
+  extract: |-
+    <p><b>Google Inc.</b> is an American multinational corporation specializing in Internet-related services and products. These include search, cloud computing, software, and online advertising technologies. Most of its profits are derived from AdWords.</p>
+    <p>Google was founded by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University. Together they own about 16 percent of its shares. They incorporated Google as a privately held company on September 4, 1998. An initial public offering followed on August 19, 2004. Its mission statement from the outset was "to organize the world's information and make it universally accessible and useful", and its unofficial slogan was "Don't be evil". In 2006 Google moved to headquarters in Mountain View, California, nicknamed the Googleplex.</p>
+    <p>Rapid growth since incorporation has triggered a chain of products, acquisitions and partnerships beyond Google's core search engine. It offers online productivity software including email (Gmail), an office suite (Google Drive), and social networking (Google+). Desktop products include applications for web browsing, organizing and editing photos, and instant messaging. The company leads the development of the Android mobile operating system and the browser-only Chrome OS for a netbook known as a Chromebook. Google has moved increasingly into communications hardware: it partners with major electronics manufacturers in production of its high-end Nexus devices and acquired Motorola Mobility in May 2012. In 2012, a fiber-optic infrastructure was installed in Kansas City to facilitate a Google Fiber broadband service.</p>
+    <p>The corporation has been estimated to run more than one million servers in data centers around the world and to process over one billion search requests and about 24 petabytes of user-generated data each day. In December 2012 Alexa listed google.com as the most visited website in the world. Numerous Google sites in other languages figure in the top one hundred, as do several other Google-owned sites such as YouTube and Blogger. Its market dominance has led to criticism over issues including copyright, censorship, and privacy.</p>
