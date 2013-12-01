@@ -1,0 +1,103 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Paul_Walker
+  title: Paul Walker
+  extract: |-
+    <p><b>Paul William Walker IV</b> (September 12, 1973 – November 30, 2013) was an American actor. He became famous in 1999 after his role in the hit film <i>Varsity Blues</i>, but later became best known for starring as Brian O'Conner in <i>The Fast and the Furious</i> film series. His other films include <i>Eight Below</i>, <i>Into the Blue</i>, <i>She's All That</i>, and <i>Takers</i>. He also appeared on the National Geographic Channel series <i>Expedition Great White</i>. Walker died as a passenger in a car crash on November 30, 2013, in Valencia, California.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Fast_%26_Furious_7
+  title: Fast & Furious 7
+  extract: |-
+    <p><i><b>Fast &amp; Furious 7</b></i> is an upcoming 2014 action film written by Chris Morgan and directed by James Wan. It is the seventh installment in the <i>Fast and the Furious</i> film series. The film stars Vin Diesel, Dwayne Johnson, Paul Walker, Jason Statham, Lucas Black, Michelle Rodriguez, Jordana Brewster, Tyrese Gibson, Djimon Hounsou, Ronda Rousey, and Kurt Russell.</p>
+    <p>Filming began in September 2013. It is the first film of the series to take place after <i>The Fast and the Furious: Tokyo Drift</i>, with the four previous installments being set between <i>2 Fast 2 Furious</i>, <i>Fast and Furious</i>, <i>Fast Five</i> and <i>Fast and Furious 6</i>.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy
+  title: Climatic Research Unit email controversy
+  extract: |-
+    <p>The <b>Climatic Research Unit email controversy</b> (also known as <b>"Climategate"</b>) began in November 2009 with the hacking of a server at the Climatic Research Unit (CRU) at the University of East Anglia (UEA) by an external attacker. Several weeks before the Copenhagen Summit on climate change, an unknown individual or group breached CRU's server and copied thousands of emails and computer files to various locations on the Internet.</p>
+    <p>The story was first broken by climate change critics on their blogs, with columnist James Delingpole popularising the term "Climategate" to describe the controversy. Climate change critics and others denying the significance of human caused climate change argued that the emails showed that global warming was a scientific conspiracy, in which they alleged that scientists manipulated climate data and attempted to suppress critics. The accusations were rejected by the CRU, who said that the emails had been taken out of context and merely reflected an honest exchange of ideas.</p>
+    <p>The mainstream media picked up the story as negotiations over climate change mitigation began in Copenhagen on 7 December. Because of the timing, scientists, policy makers, and public relations experts said that the release of emails was a smear campaign intended to undermine the climate conference. In response to the controversy, the American Association for the Advancement of Science (AAAS), the American Meteorological Society (AMS) and the Union of Concerned Scientists (UCS) released statements supporting the scientific consensus that the Earth's mean surface temperature had been rising for decades, with the AAAS concluding "based on multiple lines of scientific evidence that global climate change caused by human activities is now underway...it is a growing threat to society."</p>
+    <p>Eight committees investigated the allegations and published reports, finding no evidence of fraud or scientific misconduct. However, the reports called on the scientists to avoid any such allegations in the future by taking steps to regain public confidence in their work, for example by opening up access to their supporting data, processing methods and software, and by promptly honouring freedom of information requests. The scientific consensus that global warming is occurring as a result of human activity remained unchanged throughout the investigations.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>) is an island of Indonesia. With a population of 135 million (excluding the 3.6 million on the island of Madura which is administered as part of the provinces of Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 60 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, though Javanese is dominant, and it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Contaminated_haemophilia_blood_products
+  title: Contaminated haemophilia blood products
+  extract: |-
+    <p><b>Contaminated hemophilia blood products</b> were a serious public health problem in the late 1970s through 1985. These products caused large numbers of haemophiliacs to become infected with HIV and hepatitis C. The companies involved included Alpha Therapeutic Corporation, Rhone-Poulenc Rorer Inc., a unit of Rhone-Poulenc S.A., Bayer Corporation and its Cutter Biological division, Baxter International and its Hyland Pharmaceutical division . Estimates range from 6,000 to 10,000 hemophiliacs in the United States becoming infected with HIV.</p>
+    <p>Factor VIII essentially provides the missing ingredient without which hemophiliacs' blood cannot clot itself. By injecting themselves with it, hemophiliacs can stop bleeding or prevent bleeding from starting; some use it as many as three times a week.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Paul_walker
+  title: Paul walker
+  extract: |-
+    <ol><li>REDIRECT Paul Walker  </li>
+    </ol><hr><p>This is a redirect from a title with another method of capitalisation. It leads to the title in accordance with the Wikipedia naming conventions for capitalisation, and can help writing, searching, and international language issues.</p>
+    <p>Pages linking to any of these redirects may be updated to link directly to the target page. However, do not replace these redirected links with a piped link unless the page is updated for another reason.</p>
+    <p>For more information, see Category:Redirects from other capitalisations.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Game_(1997_film)
+  title: The Game (1997 film)
+  extract: |-
+    <p><i><b>The Game</b></i> is a 1997 thriller film directed by David Fincher, starring Michael Douglas and Sean Penn, and produced by PolyGram Filmed Entertainment. It tells the story of an investment banker who is given a mysterious gift: participation in a game that integrates in strange ways with his life. As the lines between the banker's real life and the game become more uncertain, hints of a large conspiracy become apparent.</p>
+    <p><i>The Game</i> was well received by critics like Roger Ebert and major periodicals like <i>The New York Times</i>, but had middling box-office returns compared to the success of Fincher's previous film, <i>Seven</i>. The scene in which protagonist Van Orton finds a life sized clown doll in his driveway was ranked #44 on Bravo's <i>The 100 Scariest Movie Moments</i>.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Fast_and_the_Furious
+  title: The Fast and the Furious
+  extract: |-
+    <p><i><b>The Fast and the Furious</b></i> (or simply <i><b>Fast &amp; Furious</b></i>) is an American media franchise including a series of action films which center on illegal street racing and heists, and various other media portraying the characters and situations from the films. Produced by Universal Studios, the series was established with the 2001 film titled <i>The Fast and the Furious</i>; it has since been followed by five sequels, two short films that tie into the series, and a related video game series. Having earned $2,380,084,668 as of October 22, 2013 at the worldwide box office, it has become Universal Studios' biggest franchise of all time.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Porsche_Carrera_GT
+  title: Porsche Carrera GT
+  extract: |-
+    <p>The <b>Porsche Carrera GT</b> (Project Code 980) is a mid-engined sports car that was manufactured by Porsche between 2004–2007 in Leipzig, Germany. Sports Car International named the Carrera GT number one on its list of Top Sports Cars of the 2000s, and number eight on Top Sports Cars of All Time list.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Ayam_Cemani
+  title: Ayam Cemani
+  extract: |-
+    <p><b>Ayam Cemani</b> is a rarely kept breed of chicken originating in Indonesia.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Fast_&amp;_Furious_7
+  title: Fast &amp; Furious 7
+  extract: |-
+    <ol><li>REDIRECT FAST</li>
+    </ol>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Deaths_in_2013
+  title: Deaths in 2013
+  extract: ''
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Vin_Diesel
+  title: Vin Diesel
+  extract: |-
+    <p><b>Vin Diesel</b> (born <b>Mark Sinclair</b> or <b>Mark Sinclair Vincent</b>; July 18, 1967) is an American actor, producer, director, and screenwriter. He came to prominence in the late 1990s, and first became known for appearing in Steven Spielberg's <i>Saving Private Ryan</i> in 1998. He is most known for his portrayals of Riddick in <i>The Chronicles of Riddick</i> trilogy (2001–2013), and of Dominic Toretto in <i>The Fast and the Furious</i> film series (2001–present), two franchises in which he also acted as producer.</p>
+    <p>He also starred in <i>xXx</i> (2002) and Sidney Lumet's <i>Find Me Guilty</i> (2006). His voice acting work includes Brad Bird's <i>The Iron Giant</i> (1999), the video games of <i>The Chronicles of Riddick</i> franchise, and the upcoming <i>Guardians of the Galaxy</i> adaptation of the Marvel comics of the same name.</p>
+    <p>As a filmmaker, Diesel directed, wrote, produced and starred in the drama film <i>Strays</i>, as well as in two short films. He is also the founder of the production companies One Race Films, Racetrack Records, and Tigon Studios.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Ayatollah_(football_celebration)
+  title: The Ayatollah (football celebration)
+  extract: |-
+    <p><b>The Ayatollah</b> is a football celebration used by fans of Welsh football club Cardiff City. Performing the action is sometimes preceded by a chant of "do the Ayatollah".</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Black_Friday_(shopping)
+  title: Black Friday (shopping)
+  extract: |-
+    <p><b>Black Friday</b> is the Friday following Thanksgiving Day in the United States (the fourth Thursday of November), often regarded as the beginning of the Christmas shopping season. In recent years, most major retailers have opened extremely early and offered promotional sales to kick off the holiday shopping season, similar to Boxing Day sales in many Commonwealth Nations. Black Friday is not a federal holiday, but California and some other states observe "The Day After Thanksgiving" as a holiday for state government employees, sometimes in lieu of another federal holiday such as Columbus Day. Many non-retail employees and schools have both Thanksgiving and the day after off, followed by a weekend, thereby increasing the number of potential shoppers. It has routinely been the busiest shopping day of the year since 2005, although news reports, which at that time were inaccurate, have described it as the busiest shopping day of the year for a much longer period of time.</p>
+    <p>The day's name originated in Philadelphia, where it originally was used to describe the heavy and disruptive pedestrian and vehicle traffic which would occur on the day after Thanksgiving. Use of the term started before 1961 and began to see broader use outside Philadelphia around 1975. Later an alternative explanation was made: that retailers traditionally operated at a financial loss ("in the red") from January through November, and "Black Friday" indicates the point at which retailers begin to turn a profit, or "in the black". For large retail chains like Walmart, their net income is positive starting from January 1, and Black Friday can boost their year to date net profit from $14 billion to $19 billion.<sup class="Template-Fact" style="white-space:nowrap;">[<i>citation needed</i>]</sup></p>
+    <p>For many years, it was common for retailers to open at 6:00 a.m., but in the late 2000s many had crept to 5:00 or even 4:00. This was taken to a new extreme in 2011, when several retailers (including Target, Kohl's, Macy's, Best Buy, and Bealls) opened at midnight for the first time. In 2012, Walmart and several other retailers announced that they would open most of their stores at 8:00 p.m. on Thanksgiving Day (except in states where opening on Thanksgiving is prohibited due to blue laws, such as Massachusetts where they still opened around midnight), prompting calls for a walkout among some workers. Black Friday shopping is known for attracting aggressive crowds, with annual reports of assaults, shootings, and throngs of people trampling on other shoppers in an attempt to get the best deal on a product before supplies run out.</p>
+    <p></p>
