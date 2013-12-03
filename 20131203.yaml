@@ -1,0 +1,115 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Carlos_Finlay
+  title: Carlos Finlay
+  extract: |-
+    <p><b>Carlos Juan Finlay</b> (December 3, 1833 – August 20, 1915) was a Cuban physician and scientist who identified the role of mosquitoes in spreading yellow fever.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Maria_Callas
+  title: Maria Callas
+  extract: |-
+    <p><b>Maria Callas</b>, Commendatore OMRI (Greek: Μαρία Κάλλας; December 2, 1923 – September 16, 1977), was an American-born Greek soprano and one of the most renowned and influential opera singers of the 20th century. Critics praised her bel canto technique, wide-ranging voice and dramatic gifts. Her repertoire ranged from classical opera seria to the bel canto operas of Donizetti, Bellini and Rossini; further, to the works of Verdi and Puccini; and, in her early career, to the music dramas of Wagner. Her musical and dramatic talents led to her being hailed as <i>La Divina</i>.</p>
+    <p>Born in New York City and raised by an overbearing mother, she received her musical education in Greece and established her career in Italy. Forced to deal with the exigencies of wartime poverty and with myopia that left her nearly blind onstage, she endured struggles and scandal over the course of her career. She turned herself from a heavy woman into a svelte and glamorous one after a mid-career weight loss, which might have contributed to her vocal decline and the premature end of her career. The press exulted in publicizing Callas's allegedly temperamental behavior, her supposed rivalry with Renata Tebaldi and her love affair with Aristotle Onassis. Her dramatic life and personal tragedy have often overshadowed Callas the artist in the popular press. However, her artistic achievements were such that Leonard Bernstein called her "the Bible of opera"; and her influence was so enduring that, in 2006, <i>Opera News</i> wrote of her: "Nearly thirty years after her death, she's still the definition of the diva as artist—and still one of classical music's best-selling vocalists."</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Paul_Walker
+  title: Paul Walker
+  extract: |-
+    <p><b>Paul William Walker IV</b> (September 12, 1973 – November 30, 2013) was an American actor. He became famous in 1999 after his role in the hit film <i>Varsity Blues</i>, but later garnered fame as Brian O'Conner in <i>The Fast and the Furious</i> film series. His other films include <i>Eight Below</i>, <i>Into the Blue</i>, <i>She's All That</i>, and <i>Takers</i>.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy
+  title: Climatic Research Unit email controversy
+  extract: |-
+    <p>The <b>Climatic Research Unit email controversy</b> (also known as <b>"Climategate"</b>) began in November 2009 with the hacking of a server at the Climatic Research Unit (CRU) at the University of East Anglia (UEA) by an external attacker. Several weeks before the Copenhagen Summit on climate change, an unknown individual or group breached CRU's server and copied thousands of emails and computer files to various locations on the Internet.</p>
+    <p>The story was first broken by climate change critics on their blogs, with columnist James Delingpole popularising the term "Climategate" to describe the controversy. Climate change critics and others denying the significance of human caused climate change argued that the emails showed that global warming was a scientific conspiracy, in which they alleged that scientists manipulated climate data and attempted to suppress critics. The accusations were rejected by the CRU, who said that the emails had been taken out of context and merely reflected an honest exchange of ideas.</p>
+    <p>The mainstream media picked up the story as negotiations over climate change mitigation began in Copenhagen on 7 December. Because of the timing, scientists, policy makers, and public relations experts said that the release of emails was a smear campaign intended to undermine the climate conference. In response to the controversy, the American Association for the Advancement of Science (AAAS), the American Meteorological Society (AMS) and the Union of Concerned Scientists (UCS) released statements supporting the scientific consensus that the Earth's mean surface temperature had been rising for decades, with the AAAS concluding "based on multiple lines of scientific evidence that global climate change caused by human activities is now underway...it is a growing threat to society."</p>
+    <p>Eight committees investigated the allegations and published reports, finding no evidence of fraud or scientific misconduct. However, the reports called on the scientists to avoid any such allegations in the future by taking steps to regain public confidence in their work, for example by opening up access to their supporting data, processing methods and software, and by promptly honouring freedom of information requests. The scientific consensus that global warming is occurring as a result of human activity remained unchanged throughout the investigations.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Pirate_Bay
+  title: The Pirate Bay
+  extract: |-
+    <p><b>The Pirate Bay</b> (commonly abbreviated <b>TPB</b>) is a website that provides torrent files and magnet links to facilitate peer-to-peer file sharing using the BitTorrent protocol. It was founded in Sweden in 2003.</p>
+    <p>In 2009, the website’s founders were put on trial in Sweden, charged with facilitating illegal downloading of copyrighted material. They were found guilty by the court and sentenced to a year in prison with a fine of 30 million SEK (€2.7M or US$3.5M as of 2009). In some countries, ISPs have been ordered to block access to the website. Since then, proxies have been made all around the world providing access to The Pirate Bay.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>) is an island of Indonesia. With a population of 135 million (excluding the 3.6 million on the island of Madura which is administered as part of the provinces of Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 60 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, though Javanese is dominant, and it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)
+  title: The Walking Dead (TV series)
+  extract: |-
+    <p><i><b>The Walking Dead</b></i> is an American horror drama television series developed by Frank Darabont. It is based on the comic book series of the same name by Robert Kirkman, Tony Moore, and Charlie Adlard. The series stars Andrew Lincoln as sheriff's deputy Rick Grimes, who awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</p>
+    <p><i>The Walking Dead</i> premiered on October 31, 2010, on the cable television channel AMC in the United States. It premiered internationally during the first week of November 2010 on Fox International Channels. Based on its reception, AMC renewed the series for a second season of 13 episodes, which premiered on October 16, 2011. Two episodes into the second season, AMC announced that the show would return for a third season of 16 episodes, which began airing on October 14, 2012. On December 21, 2012, AMC renewed <i>The Walking Dead</i> for a fourth season of 16 episodes, which premiered on October 13, 2013. On October 29, 2013, AMC renewed it for a fifth season.</p>
+    <p>The series has been well received and has received many award nominations including ones for the Writers Guild of America Award and a Golden Globe Award for Best Television Series (Drama). The series has also attained strong Nielsen ratings, surpassing various records for a cable series, including receiving 16.1 million viewers for its season four premiere to become the most-watched drama series telecast in basic cable history.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Tom_Daley
+  title: Tom Daley
+  extract: |-
+    <p><b>Thomas Robert "Tom" Daley</b> (born 21 May 1994) is a British diver and television personality. Daley specialises in the 10 metre platform event and was the 2009 FINA World Champion in the individual event at the age of 15. He started diving at the age of seven and is a member of Plymouth Diving Club. He has made an impact in national and international competitions from age 9. He represented Great Britain at the 2008 Summer Olympics where he was Britain's youngest competitor, the youngest competitor of any nationality outside the sport of swimming, and the youngest to participate in a final. In 2009, Daley reached a career best ranking of number one in the FINA World Diving Rankings for the ten-metre platform.</p>
+    <p>He won two gold medals for England at the 2010 Commonwealth Games, in the 10 metre synchro diving (with Max Brick) and the 10 m Individual Platform competition, and won the bronze medal for Great Britain in the individual competition at the 2012 Summer Olympic Games.</p>
+    <p>After his success at the 2012 Olympic Games and a summer of great sporting interest amongst the public in the UK, television network ITV approached Daley to have a role in their new celebrity diving reality TV show <i>Splash!</i>. Daley made his debut in the show's premiere on Saturday 5 January 2013 as a mentor to the celebrity competitors taking part. The show was a ratings success with an average audience of 5.6 million viewers.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Pyrolysis
+  title: Pyrolysis
+  extract: |-
+    <p><b>Pyrolysis</b> is a thermochemical decomposition of organic material at elevated temperatures in the absence of oxygen (or any halogen). It involves the simultaneous change of chemical composition and physical phase, and is irreversible. The word is coined from the Greek-derived elements <i>pyro</i> "fire" and <i>lysis</i> "separating".</p>
+    <p>Pyrolysis is a type of thermolysis, and is most commonly observed in organic materials exposed to high temperatures. It is one of the processes involved in charring wood, starting at 200–300 °C (390–570 °F),. It also occurs in fires where solid fuels are burning or when vegetation comes into contact with lava in volcanic eruptions. In general, pyrolysis of organic substances produces gas and liquid products and leaves a solid residue richer in carbon content, char. Extreme pyrolysis, which leaves mostly carbon as the residue, is called carbonization.</p>
+    <p>The process is used heavily in the chemical industry, for example, to produce charcoal, activated carbon, methanol, and other chemicals from wood, to convert ethylene dichloride into vinyl chloride to make PVC, to produce coke from coal, to convert biomass into syngas and biochar, to turn waste into safely disposable substances, and for transforming medium-weight hydrocarbons from oil into lighter ones like gasoline. These specialized uses of pyrolysis may be called various names, such as dry distillation, destructive distillation, or cracking.</p>
+    <p>Pyrolysis also plays an important role in several cooking procedures, such as baking, frying, grilling, and caramelizing. In addition, it is a tool of chemical analysis, for example, in mass spectrometry and in carbon-14 dating. Indeed, many important chemical substances, such as phosphorus and sulfuric acid, were first obtained by this process. Pyrolysis has been assumed to take place during catagenesis, the conversion of buried organic matter to fossil fuels. It is also the basis of pyrography. In their embalming process, the ancient Egyptians used a mixture of substances, including methanol, which they obtained from the pyrolysis of wood.</p>
+    <p>Pyrolysis differs from other high-temperature processes like combustion and hydrolysis in that it usually does not involve reactions with oxygen, water, or any other reagents. In practice, it is not possible to achieve a completely oxygen-free atmosphere. Because some oxygen is present in any pyrolysis system, a small amount of oxidation occurs.</p>
+    <p>The term has also been applied to the decomposition of organic material in the presence of superheated water or steam (hydrous pyrolysis), for example, in the steam cracking of oil.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Bitcoin
+  title: Bitcoin
+  extract: |-
+    <p><b>Bitcoin</b> is an open source peer-to-peer electronic money and payment network introduced in 2009 by pseudonymous developer "Satoshi Nakamoto". Bitcoin has been called a cryptocurrency because it uses cryptography to secure transactions. Digitally signed payment messages are broadcast to and verified by a decentralized network of computers all over the world. Specialized computers use a proof-of-work system to prevent people from copying and spending the same bitcoin multiple times, a problem for digital currencies known as double-spending. The operators of these computers, known as "miners", are rewarded with transaction fees and newly minted bitcoins.</p>
+    <p>Bitcoins are stored by associating them with cryptographically generated addresses. These addresses may be stored on web services, on local hardware like PCs and mobile devices, or on paper print-outs. A collection of Bitcoin addresses is known as a wallet. Thefts of bitcoins from web services and online wallet services have been covered in the media, prompting assertions that the safest way to store bitcoins is in a paper wallet generated by the owner on an uncompromised computer.<sup class="Template-Fact" style="white-space:nowrap;">[<i>citation needed</i>]</sup></p>
+    <p>In 2012, <i>The Economist</i> reasoned that Bitcoin has been popular because of "its role in dodgy online markets", and in 2013 the FBI shut down one such service, Silk Road, which specialized in illegal drugs (whereupon the FBI took control of approximately 1.5% of all bitcoins in circulation). However, Bitcoins are increasingly used as payment for legitimate products and services, and merchants have an incentive to accept the currency because transaction fees are lower than the 2 to 3% typically imposed by credit card processors. Notable vendors include OkCupid, Reddit, WordPress, and Chinese Internet giant Baidu.</p>
+    <p>Speculators have been attracted to Bitcoin, fueling volatility and price swings. As of November 2013, the use of Bitcoin in the retail and commercial marketplace is relatively small compared with a relatively large use by speculators.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Walking_Dead_(season_4)
+  title: The Walking Dead (season 4)
+  extract: |-
+    <p>The fourth season of AMC's television series <i>The Walking Dead</i> premiered on October 13, 2013, to consist of 16 episodes. The series is based on the series of comic books of the same name by Robert Kirkman, Tony Moore, and Charlie Adlard; it was developed for television by Frank Darabont, and is executive produced by Kirkman, Scott M. Gimple, Greg Nicotero, and Gale Anne Hurd. Gimple assumed the role of showrunner after Glen Mazzara's departure at the conclusion of the previous season. The season introduces the notable comic characters Abraham Ford, Eugene Porter, Rosita Espinosa, and Bob Stookey as well as a modified version of the Chalmers family from <i>The Walking Dead: Rise of the Governor</i> tie-in novel including prominent comic/novel character Lilly.</p>
+    <p>The season continues the story of former sheriff's deputy Rick Grimes, who relinquished his leadership in order to live a quiet life in contrast to his cold-hearted nature in the previous season. Rick's fellow survivors struggle to maintain their idealistic lifestyle in the prison in the face of threats, including the proliferation of walkers near the prison gates, the outbreak of an contagious and deadly flu-like infection within the prison population, and the unknown whereabouts of The Governor, who is still at large.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Russell_Wilson
+  title: Russell Wilson
+  extract: |-
+    <p><b>Russell Carrington Wilson</b> (born November 29, 1988) is an American football quarterback for the Seattle Seahawks of the National Football League (NFL). Wilson was selected by the Seahawks with the 12th pick in the third round (75th overall) of the 2012 NFL Draft.</p>
+    <p>Wilson played college football for the University of Wisconsin during the 2011 season, in which he set the single season FBS record for passing efficiency (191.8) and led the team to a Big Ten title and the 2012 Rose Bowl. Wilson received the Big Ten Quarterback of the Year award and was named a consensus first-team All-Big Ten and third-team All-American by Yahoo! Sports.</p>
+    <p>Wilson played football and baseball for North Carolina State University before transferring to Wisconsin. In 2008, he was named the ACC Rookie of the Year in football and became the first freshman quarterback to receive first team All-ACC honors. Wilson also played minor league baseball for the Tri-City Dust Devils in 2010 and the Asheville Tourists in 2011 as a second baseman.</p>
+    <p>Wilson signed a four-year, $2.99 million contract with the Seattle Seahawks on May 7, 2012 and was named the team's starting quarterback on August 26, 2012. In his rookie season Wilson led the Seahawks to a 11-5 regular season record and the divisional round of the NFL playoffs, and was voted the Pepsi NFL Rookie of the Year.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Porsche_Carrera_GT
+  title: Porsche Carrera GT
+  extract: |-
+    <p>The <b>Porsche Carrera GT</b> (Project Code 980) is a mid-engined sports car that was manufactured by Porsche between 2004–2007 in Leipzig, Germany. Sports Car International named the Carrera GT number one on its list of Top Sports Cars of the 2000s, and number eight on Top Sports Cars of All Time list.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Fast_%26_Furious_7
+  title: Fast & Furious 7
+  extract: |-
+    <p><i><b>Fast &amp; Furious 7</b></i> is an upcoming 2014 action film written by Chris Morgan and directed by James Wan. It is the seventh installment in the <i>Fast and the Furious</i> film series. The film stars Vin Diesel, Paul Walker, Dwayne Johnson, Jason Statham, Lucas Black, Michelle Rodriguez, Jordana Brewster, Tyrese Gibson, Djimon Hounsou, Ronda Rousey, and Kurt Russell.</p>
+    <p>Filming began in September 2013. It is the first film of the series to take place after <i>The Fast and the Furious: Tokyo Drift</i>, with the four previous installments being set between <i>2 Fast 2 Furious</i>, <i>Fast and Furious</i>, <i>Fast Five</i> and <i>Fast and Furious 6</i>. It is the last installment to feature Paul Walker, who died in a car accident on November 30, 2013.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Parrotfish
+  title: Parrotfish
+  extract: |-
+    <p><b>Parrotfishes</b> are a group of about 90 species traditionally regarded as a family (Scaridae), but now often considered a subfamily (Scarinae) of the wrasses. They are found in relatively shallow tropical and subtropical oceans throughout the world, displaying their largest species richness in the Indo-Pacific. They are found in coral reefs, rocky coasts, and seagrass beds, and play a significant role in bioerosion.</p>
+    <p></p>
