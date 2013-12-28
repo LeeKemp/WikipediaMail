@@ -1,0 +1,110 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/HTTP
+  title: HTTP
+  extract: |-
+    <ol><li>REDIRECT Hypertext Transfer Protocol</li>
+    </ol><ul><li>This is a redirect from an initialism to a related topic, such as the expansion of the initialism.</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>) (Javanese: <b>ꦗꦮ</b>) is an island of Indonesia. With a population of 135 million (excluding the 3.6 million on the island of Madura which is administered as part of the provinces of Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 60 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, though Javanese is dominant, and it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy
+  title: Climatic Research Unit email controversy
+  extract: |-
+    <p>The <b>Climatic Research Unit email controversy</b> (also known as <b>"Climategate"</b>) began in November 2009 with the hacking of a server at the Climatic Research Unit (CRU) at the University of East Anglia (UEA) by an external attacker. Several weeks before the Copenhagen Summit on climate change, an unknown individual or group breached CRU's server and copied thousands of emails and computer files to various locations on the Internet.</p>
+    <p>The story was first broken by climate change critics on their blogs, with columnist James Delingpole popularising the term "Climategate" to describe the controversy. Climate change critics and others denying the significance of human caused climate change argued that the emails showed that global warming was a scientific conspiracy, in which they alleged that scientists manipulated climate data and attempted to suppress critics. The accusations were rejected by the CRU, who said that the emails had been taken out of context and merely reflected an honest exchange of ideas.</p>
+    <p>The mainstream media picked up the story as negotiations over climate change mitigation began in Copenhagen on 7 December. Because of the timing, scientists, policy makers, and public relations experts said that the release of emails was a smear campaign intended to undermine the climate conference. In response to the controversy, the American Association for the Advancement of Science (AAAS), the American Meteorological Society (AMS) and the Union of Concerned Scientists (UCS) released statements supporting the scientific consensus that the Earth's mean surface temperature had been rising for decades, with the AAAS concluding "based on multiple lines of scientific evidence that global climate change caused by human activities is now underway...it is a growing threat to society."</p>
+    <p>Eight committees investigated the allegations and published reports, finding no evidence of fraud or scientific misconduct. However, the reports called on the scientists to avoid any such allegations in the future by taking steps to regain public confidence in their work, for example by opening up access to their supporting data, processing methods and software, and by promptly honouring freedom of information requests. The scientific consensus that global warming is occurring as a result of human activity remained unchanged throughout the investigations.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Jordan_Belfort
+  title: Jordan Belfort
+  extract: |-
+    <p><b>Jordan Belfort</b> (/ˈbɛlfɔːrt/; born July 9, 1962) is an American author and motivational speaker, who was convicted of fraud crimes related to stock market manipulation and running a penny stock boiler room for which he spent 22 months in prison.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Vlc_media_player
+  title: Vlc media player
+  extract: |-
+    <ol><li>REDIRECT VLC media player  </li>
+    </ol><hr><p>This is a redirect from a title with another method of capitalisation. It leads to the title in accordance with the Wikipedia naming conventions for capitalisation, and can help writing, searching, and international language issues.</p>
+    <p>Pages linking to any of these redirects may be updated to link directly to the target page. However, do not replace these redirected links with a piped link unless the page is updated for another reason.</p>
+    <p>For more information, see Category:Redirects from other capitalisations.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Farooq_Sheikh
+  title: Farooq Sheikh
+  extract: |-
+    <p><b>Farooq Sheikh</b> or <b>Farooque Sheikh</b> (25 March 1948 − 27 December 2013) was an Indian actor, philanthropist and a popular television presenter. He was best known for his work in Hindi films from 1977 to 1989 and for his work in television between 1988 and 2002. He returned to acting in films in 2008 and continued to do so until his death on 27 December 2013. His major contribution was in Parallel Cinema or the New Indian Cinema. He had worked with directors like Satyajit Ray, Muzaffar Ali, Hrishikesh Mukherjee and Ketan Mehta.</p>
+    <p>He had acted in many serials and shows on television and performed on stage in famous productions such as <i>Tumhari Amrita</i> (1992), alongside Shabana Azmi, directed by Feroz Abbas Khan, and presented the TV show, <i>Jeena Isi Ka Naam Hai</i> (Season 1). He won the 2010 National Film Award for Best Supporting Actor for <i>Lahore</i>. He died on 27 December 2013 following a cardiac arrest.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Johannes_Kepler
+  title: Johannes Kepler
+  extract: |-
+    <p><b>Johannes Kepler</b> (<small>German:</small> [ˈkʰɛplɐ]; December 27, 1571 – November 15, 1630) was a German mathematician, astronomer and astrologer. A key figure in the 17th century scientific revolution, he is best known for his eponymous laws of planetary motion, codified by later astronomers, based on his works <i>Astronomia nova</i>, <i>Harmonices Mundi</i>, and <i>Epitome of Copernican Astronomy</i>. These works also provided one of the foundations for Isaac Newton's theory of universal gravitation.</p>
+    <p>During his career, Kepler was a mathematics teacher at a seminary school in Graz, Austria, where he became an associate of Prince Hans Ulrich von Eggenberg. Later he became an assistant to astronomer Tycho Brahe, and eventually the imperial mathematician to Emperor Rudolf II and his two successors Matthias and Ferdinand II. He was also a mathematics teacher in Linz, Austria, and an adviser to General Wallenstein. Additionally, he did fundamental work in the field of optics, invented an improved version of the refracting telescope (the Keplerian Telescope), and mentioned the telescopic discoveries of his contemporary Galileo Galilei.</p>
+    <p>Kepler lived in an era when there was no clear distinction between astronomy and astrology, but there was a strong division between astronomy (a branch of mathematics within the liberal arts) and physics (a branch of natural philosophy). Kepler also incorporated religious arguments and reasoning into his work, motivated by the religious conviction and belief that God had created the world according to an intelligible plan that is accessible through the natural light of reason. Kepler described his new astronomy as "celestial physics", as "an excursion into Aristotle's <i>Metaphysics</i>", and as "a supplement to Aristotle's <i>On the Heavens</i>", transforming the ancient tradition of physical cosmology by treating astronomy as part of a universal mathematical physics.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Arvind_Kejriwal
+  title: Arvind Kejriwal
+  extract: |-
+    <p><b>Arvind Kejriwal</b> (born 16 August 1968) is an Indian politician and the 7th Chief Minister of Delhi. Born in Haryana, Kejriwal is a graduate of the Indian Institute of Technology Kharagpur, where he studied Mechanical Engineering. He worked for the Indian Revenue Service (IRS) as a Joint Commissioner in the Income Tax Department. He is well-known for his role in drafting a proposed Jan Lokpal Bill and his efforts to bring and implement the Right to Information (RTI) act at grassroots level.</p>
+    <p>Kejriwal won the Ramon Magsaysay Award for Emergent Leadership in 2006 for his contribution to the enactment of the Right to Information Act and for his efforts to empower the poorest citizens of India. In 2006, after resigning from the IRS, he donated his Magsaysay award money as a corpus fund to found an NGO, Public Cause Research Foundation. In 2012, he launched the Aam Aadmi Party (AAP), and defeated Sheila Dixit in the 2013 Delhi Legislative Assembly election by a margin of 25,864 votes.</p>
+    <p>Arvind Kejriwal was sworn in as Chief Minister of Delhi on 28 December 2013.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)
+  title: The Wolf of Wall Street (2013 film)
+  extract: |-
+    <p><i><b>The Wolf of Wall Street</b></i> is a 2013 American biographically satirical black comedy film directed by Martin Scorsese, based on Jordan Belfort's memoir of the same name. The screenplay was written by Terence Winter, and the film stars Leonardo DiCaprio as Belfort, along with Jonah Hill and Matthew McConaughey, among others. <i>The Wolf of Wall Street</i> marks the fifth collaboration between Scorsese and DiCaprio and the second between Scorsese and Winter after <i>Boardwalk Empire</i>.</p>
+    <p>The film was released on December 25, 2013, and tells the story of a New York stockbroker, played by DiCaprio, who refuses to cooperate in a large securities fraud case involving corruption on Wall Street, stock manipulation, namely the practice of "Pump and dump" and the corporate banking world.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Dhoom_3
+  title: Dhoom 3
+  extract: |-
+    <p><i><b>Dhoom: 3</b></i> ([ˈd̪ʱuːm 3], English: <i>Blast 3</i>, Hindi: धूम 3 also abbreviated and known as <i><b>D:3</b></i> and <i><b>D3</b></i>) is a Hindi action thriller film, written and directed by Vijay Krishna Acharya and produced by Aditya Chopra. It is the third installment of the <i>Dhoom series</i> featuring Aamir Khan as the antagonist and paired opposite Katrina Kaif. Actors Abhishek Bachchan and Uday Chopra reprise their roles as Jai Dixit and Ali Akbar respectively as seen is previous franchise. Reported to be one of the highest-budgeted Indian films of all time, <i>Dhoom 3</i> was released on 20 December 2013, marking itself as the first Bollywood movie to be released in the IMAX motion picture film format with Dolby Atmos surround sound.</p>
+    <p>The film broke several records on its opening days in India and abroad, Box Office India declared <i>Dhoom 3</i> "the biggest hit of 2013" after two days of release, with the film grossing 2 billion (US$31 million) worldwide in just three days.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Deaths_in_2013
+  title: Deaths in 2013
+  extract: ''
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Facebook
+  title: Facebook
+  extract: |-
+    <p><b>Facebook</b> is an online social networking service. Its name comes from a colloquialism for the directory given to American university students. Facebook was founded in February 2004 by Mark Zuckerberg with his college roommates and fellow Harvard University students Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes. The founders had initially limited the website's membership to Harvard students, but later expanded it to colleges in the Boston area, the Ivy League, and Stanford University. It gradually added support for students at various other universities before it opened to high-school students, and eventually to anyone aged 13 and over. Facebook now allows anyone who claims to be at least 13 years old to become a registered user of the website.</p>
+    <p>Users must register before using the site, after which they may create a personal profile, add other users as friends, exchange messages, and receive automatic notifications when they update their profile. Additionally, users may join common-interest user groups, organized by workplace, school or college, or other characteristics, and categorize their friends into lists such as "People From Work" or "Close Friends". As of September 2012, Facebook has over one billion active users, of which 8.7% are fake. Facebook (as of 2012) has about 180 petabytes of data per year and grows by over half a petabyte every 24 hours.</p>
+    <p>In May 2005, Accel partners invested $12.7 million in Facebook, and Jim Breyer added $1 million of his own money. A January 2009 Compete.com study ranked Facebook the most used social networking service by worldwide monthly active users. <i>Entertainment Weekly</i> included the site on its end-of-the-decade "best-of" list, saying, "How on earth did we stalk our exes, remember our co-workers' birthdays, bug our friends, and play a rousing game of Scrabulous before Facebook?" Facebook eventually filed for an initial public offering on February 1, 2012; it is headquartered in Menlo Park, California. Facebook Inc. began selling stock to the public and trading on the NASDAQ on May 18, 2012. Based on its 2012 income of US$5.1 billion, Facebook joined the Fortune 500 list for the first time on the list published in May 2013, being placed at position 462.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Breaking_Bad
+  title: Breaking Bad
+  extract: |
+    <p><i><b>Breaking Bad</b></i> is an American crime drama television series created and produced by Vince Gilligan. Set and produced in Albuquerque, New Mexico, <i>Breaking Bad</i> is the two-year-long story of Walter White (Bryan Cranston), a struggling high school chemistry teacher who is diagnosed with inoperable lung cancer at the beginning of the series. He turns to a life of crime, producing and selling methamphetamine, in order to secure his family's financial future before he dies, teaming with his former student, Jesse Pinkman (Aaron Paul). The series has been labeled a contemporary western by its creator.</p>
+    <p>The series premiered on January 20, 2008 in the United States and Canada on the cable channel AMC, and the series finale aired on September 29, 2013. <i>Breaking Bad</i> received widespread critical acclaim, and is widely regarded as one of the greatest television series of all time. By its end, the series was among the most-watched cable shows on American television, with audience numbers that doubled in the fifth season from the previous year's episodes.</p>
+    <p>The series has won ten Primetime Emmy Awards, including three consecutive wins for Best Actor for Bryan Cranston, two wins for Best Supporting Actor for Aaron Paul, a Best Supporting Actress win for Anna Gunn, and the Outstanding Drama Series in 2013, after three nominations. The series has been nominated for a Golden Globe Award for Best Television Series – Drama and Cranston three times for Best Actor, besides being nominated four times for a Screen Actors Guild Award for Best Actor, winning once at the 19th Screen Actors Guild Awards. In 2013, the Writers Guild of America named <i>Breaking Bad</i> the 13th best-written TV series of all time. That same year, Guinness World Records called it the highest-rated TV series of all time, citing its season 5 Metacritic score of 99 out of 100.</p>
+    <p></p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Marvin_Hamlisch
+  title: Marvin Hamlisch
+  extract: |-
+    <p><b>Marvin Frederick Hamlisch</b> (June 2, 1944 – August 6, 2012) was an American composer and conductor. He is one of only eleven EGOTs – winners of an Emmy, Grammy, Oscar, and Tony. He is one of ten people to win three or more Oscars in one night and the only non-director/screenwriter to do so. He is one of only two people to have won those four prizes and a Pulitzer Prize (Richard Rodgers is the other). Hamlisch also won two Golden Globes.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/List_of_Bollywood_films_of_2013
+  title: List of Bollywood films of 2013
+  extract: |-
+    <p>2013 marks the completion of <b>100 years</b> of Bollywood. This year will see many big-budget films in Bollywood releasing, as well as a number of sequels and quasi-sequels lined up for release. Some of these sequels are: <i>Dhoom 3</i>, <i>Krrish 3</i>, <i>Murder 3</i>, <i>Race 2</i>, <i>Once Upon a Time in Mumbai 2</i>, <i>Aashiqui 2</i>, <i>Shootout at Wadala</i>, <i>Saheb, Biwi Aur Gangster Returns</i>, <i>Grand Masti</i>, Satya 2 and <i>Yamla Pagla Deewana 2</i>.</p>
+    <p></p>
