@@ -1,0 +1,119 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/UTF-8
+  title: UTF-8
+  extract: |-
+    <p><b>UTF-8</b> (<b>UCS Transformation Format—8-bit</b>) is a variable-width encoding that can represent every character in the Unicode character set. It was designed for backward compatibility with ASCII and to avoid the complications of endianness and byte order marks in UTF-16 and UTF-32. UTF-8 has become the dominant character encoding for the World Wide Web, accounting for more than half of all Web pages. The Internet Mail Consortium (IMC) recommends that all e-mail programs be able to display and create mail using UTF-8. UTF-8 is also increasingly being used as the default character encoding in operating systems, programming languages, APIs, and software applications.<sup class="Template-Fact" style="white-space:nowrap;">[<i>citation needed</i>]</sup></p>
+    <p>UTF-8 encodes each of the 1,112,064 code points in the Unicode character set using one to four 8-bit bytes (a group of 8 bits is known as an "octet" in the Unicode Standard). Code points with lower numerical values (i.e. earlier code positions in the Unicode character set, which tend to occur more frequently) are encoded using fewer bytes. The first 128 characters of Unicode, which correspond one-to-one with ASCII, are encoded using a single octet with the same binary value as ASCII, making valid ASCII text valid UTF-8-encoded Unicode as well.</p>
+    <p>The official IANA code for the UTF-8 character encoding is <code>UTF-8</code>.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Pornography
+  title: Pornography
+  extract: |-
+    <p><b>Pornography</b> (often abbreviated as "<b>porn</b>" or "<b>porno</b>" in informal usage) (Greek: πορνεία, <i>porneia</i>, fornication) is the explicit portrayal of sexual subject matter for the purpose of sexual arousal. Pornography may use a variety of media, including books, magazines, postcards, photos, sculpture, drawing, painting, animation, sound recording, film, video, and video games. The term applies to the depiction of the act rather than the act itself, and so does not include live exhibitions like sex shows and striptease. A <i>pornographic model</i> poses for still photographs. A <i>pornographic actor</i> or <i>porn star</i> performs in pornographic films. If dramatic skills are not involved, a performer in porn films may be also be called a <i>model</i>.</p>
+    <p>Pornography is often distinguished from erotica, which consists of the portrayal of sexuality with high-art aspirations, focusing also on feelings and emotions, while pornography involves the depiction of acts in a sensational manner, with the entire focus on the physical act, so as to arouse quick intense reactions. Pornography is generally classified as either <b>softcore</b> or <b>hardcore</b> pornography. A pornographic work is characterized as hardcore if it has any hardcore content, no matter how small.</p>
+    <ul><li>Softcore pornography generally contains nudity or partial nudity in sexually suggestive situations, but not explicit sexual activity, sexual penetration or "extreme" fetishism.</li>
+    </ul><ul><li>Hardcore pornography contains graphic sexual activity and visible penetration.</li>
+    </ul><p>Pornography has often been subject to censorship and legal restraints to publication on grounds of obscenity. Such grounds and even the definition of pornography have differed in various historical, cultural, and national contexts. With the emergence of social attitudes more tolerant of sexuality and more specific legal definitions of obscenity, an industry for the production and consumption of pornography arose in the latter half of the 20th century. The introduction of home video and the Internet saw booms in a worldwide porn industry that generates billions of dollars annually.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>; Javanese: ꦗꦮ) is an island of Indonesia. With a population of 135 million (excluding the 3.6 million on the island of Madura which is administered as part of the provinces of Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 60 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, though Javanese is dominant, and it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)
+  title: Guardians of the Galaxy (film)
+  extract: |-
+    <p><i><b>Guardians of the Galaxy</b></i> is an upcoming American superhero film based on the Marvel Comics superhero team of the same name, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is intended to be the tenth installment in the Marvel Cinematic Universe. The film is written and directed by James Gunn, with a story by Gunn and Nicole Perlman, and features an ensemble cast including Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Lee Pace, Michael Rooker, Karen Gillan, Djimon Hounsou, John C. Reilly, Glenn Close, and Benicio del Toro. In <i>Guardians of the Galaxy</i>, Peter Quill forms an uneasy alliance with a group of misfits who are on the run after stealing a coveted orb.</p>
+    <p>Producer Kevin Feige first publicly mentioned <i>Guardians of the Galaxy</i> as a potential film in 2010, and Marvel Studios announced that the film was in active development at the San Diego Comic-Con International in July 2012. Gunn entered negotiations to write and direct the film that August. In February 2013, Pratt was hired to play Peter Quill / Star-Lord, and the supporting cast was filled out over the next several months. Filming began in July 2013 at Shepperton Studios, England with filming continuing in London before wrapping up in October 2013. The film is scheduled to be released on August 1, 2014, and will be released in 3D.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/2014_Winter_Olympics
+  title: 2014 Winter Olympics
+  extract: |-
+    <p>The <b>2014 Winter Olympics</b>, officially known as the <b>XXII Olympic Winter Games</b> (French: Les <i>XXIIes Jeux olympiques d'hiver</i>), is a major international multi-sport event being held in Sochi, Russia in the tradition of the Winter Olympic Games.</p>
+    <p>Scheduled for 7–23 February 2014, opening rounds in certain events were held on the eve of the Opening Ceremony, 6 February 2014. Both the Olympics and 2014 Winter Paralympics are being organized by the Sochi Organizing Committee (SOC). Sochi was selected as the host city in July 2007, during the 119th IOC Session held in Guatemala City. It is the first Olympics in Russia since the breakup of the Soviet Union in 1991. The Soviet Union was the host nation for the 1980 Summer Olympics in Moscow.</p>
+    <p>A total of 98 events in 15 winter sport disciplines are being held during the Games. A number of new competitions—a total of 12 accounting for gender—are being held during the Games, including biathlon mixed relay, women's ski jumping, mixed-team figure skating, mixed-team luge, half-pipe skiing, ski and snowboard slopestyle, and snowboard parallel slalom. The events are being held around two clusters of new venues; an Olympic Park constructed in Sochi's Imeretinsky Valley on the coast of the Black Sea, with Fisht Olympic Stadium and the Games' indoor venues located within walking distance, and snow events in the resort settlement of Krasnaya Polyana.</p>
+    <p>In preparation, organizers focused on modernizing the telecommunications, electric power, and transportation infrastructures of the region. While originally budgeted at US$12 billion, various factors caused the budget to expand to over US$51 billion, surpassing the estimated $44 billion cost of the 2008 Summer Olympics in Beijing as the most expensive Olympics in history.</p>
+    <p>The lead-up to the 2014 Games was marked by major controversies, including allegations of corruption leading to the aforementioned cost overruns, concerns for the safety and human rights of lesbian, gay, bisexual and transgender (LGBT) athletes and supporters during the Games due to the country's recent anti-LGBT policies. This led to ongoing Olympic protests of Russian anti-gay laws, protests by ethnic Circassian activists over the site of Sochi (the site of what they consider to be a genocide) and various security concerns over threats by jihadist groups tied to the insurgency in the North Caucasus.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Internet
+  title: Internet
+  extract: |-
+    <p>The <b>Internet</b> is a global system of interconnected computer networks that use the standard Internet protocol suite (TCP/IP) to serve several billion users worldwide. It is a <i>network of networks</i> that consists of millions of private, public, academic, business, and government networks, of local to global scope, that are linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries an extensive range of information resources and services, such as the inter-linked hypertext documents of the World Wide Web (WWW), the infrastructure to support email, and peer-to-peer networks.</p>
+    <p>Most traditional communications media including telephone, music, film, and television are being reshaped or redefined by the Internet, giving birth to new services such as voice over Internet Protocol (VoIP) and Internet Protocol television (IPTV). Newspaper, book, and other print publishing are adapting to website technology, or are reshaped into blogging and web feeds. The Internet has enabled and accelerated new forms of human interactions through instant messaging, Internet forums, and social networking. Online shopping has boomed both for major retail outlets and small artisans and traders. Business-to-business and financial services on the Internet affect supply chains across entire industries.</p>
+    <p>The origins of the Internet reach back to research commissioned by the United States government in the 1960s to build robust, fault-tolerant communication via computer networks. While this work, together with work in the United Kingdom and France, led to important precursor networks, they were not the Internet. There is no consensus on the exact date when the modern Internet came into being, but sometime in the early to mid-1980s is considered reasonable.</p>
+    <p>The funding of a new U.S. backbone by the National Science Foundation in the 1980s, as well as private funding for other commercial backbones, led to worldwide participation in the development of new networking technologies, and the merger of many networks. Though the Internet has been widely used by academia since the 1980s, the commercialization of what was by the 1990s an international network resulted in its popularization and incorporation into virtually every aspect of modern human life. As of June 2012<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, more than 2.4 billion people—over a third of the world's human population—have used the services of the Internet; approximately 100 times more people than were using it in 1995. Internet use grew rapidly in the West from the mid-1990s to early 2000s and from the late 1990s to present in the developing world. In 1994 only 3% of American classrooms had the Internet while by 2002 92% did.</p>
+    <p>The Internet has no centralized governance in either technological implementation or policies for access and usage; each constituent network sets its own policies. Only the overreaching definitions of the two principal name spaces in the Internet, the Internet Protocol address space and the Domain Name System, are directed by a maintainer organization, the Internet Corporation for Assigned Names and Numbers (ICANN). The technical underpinning and standardization of the core protocols (IPv4 and IPv6) is an activity of the Internet Engineering Task Force (IETF), a non-profit organization of loosely affiliated international participants that anyone may associate with by contributing technical expertise.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/True_Detective_(TV_series)
+  title: True Detective (TV series)
+  extract: |-
+    <p><i><b>True Detective</b></i> is an American television anthology drama series on HBO created and written by Nic Pizzolatto, with the first season directed by Cary Joji Fukunaga. Season one stars Matthew McConaughey, Woody Harrelson, Michelle Monaghan, Michael Potts, and Tory Kittles, and uses multiple timelines to trace two Louisiana State Police Criminal Investigations Division homicide detectives' hunt for a serial killer in Louisiana across seventeen years. The series premiered on January 12, 2014, and will consist of eight episodes.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(2008_team)
+  title: Guardians of the Galaxy (2008 team)
+  extract: |-
+    <p>The <b>Guardians of the Galaxy</b> are a fictional spacefaring superhero team that appear in comic books published by Marvel Comics. Dan Abnett and Andy Lanning formed the team from existing and previously unrelated characters created by a variety of writers and artists, with an initial roster of Star-Lord, Rocket Raccoon, Quasar, Adam Warlock, Gamora, Drax the Destroyer, and Groot.</p>
+    <p>The modern Guardians team is the second to operate under the name, following the original team created by Arnold Drake and Gene Colan in 1969. These Guardians first appeared in <i>Guardians of the Galaxy</i> (vol. 2) #1 (May 2008). A feature film based on the current team is set for release in August 2014.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Meryl_Davis
+  title: Meryl Davis
+  extract: |-
+    <p><b>Meryl Davis</b> (born January 1, 1987) is an American ice dancer. With partner Charlie White, she is the 2014 Olympic Champion, a two-time (2011, 2013) World champion, the 2010 Olympic silver medalist, two-time (2010, 2012) World silver medalist, five-time Grand Prix Final champion (2009–2013), three-time Four Continents champion (2009, 2011, 2013) and six-time U.S. national champion (2009–2014). At the 2014 Winter Olympics, they also won a bronze medal in the team event.</p>
+    <p>Davis and White teamed up in 1997 and they are currently the longest lasting dance team in the United States. They are the first American ice dancers to win the World title, as well as the first Americans to win the Olympic ice dancing gold medal; in addition, their Olympic performance scored the highest point total ever recorded in ice dancing. At the 2006 NHK Trophy, they became the first ice dancing team to earn level fours on all their elements.</p>
+    <p>Davis and White are the current world record holders for the short dance, free dance, and total combined score.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Guardians_of_the_Galaxy
+  title: Guardians of the Galaxy
+  extract: |-
+    <p><b>Guardians of the Galaxy</b> is a fictional superhero team appearing in books published by Marvel Comics. The term may refer to:</p>
+    <ul><li>Guardians of the Galaxy (1969 team), the original 31st century team from an alternative time-line of the Marvel Universe (Earth-691)</li>
+    <li>Guardians of the Galaxy (2008 team), the modern version of the team formed in the aftermath of <i>Annihilation: Conquest</i></li>
+    <li><i>Guardians of the Galaxy</i> (film), the upcoming film based on the 2008 comic book reboot</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Ice_hockey_at_the_2014_Winter_Olympics_%E2%80%93_Men%27s_tournament
+  title: Ice hockey at the 2014 Winter Olympics – Men's tournament
+  extract: |-
+    <p>The <b>men's tournament in ice hockey at the 2014 Winter Olympics</b> will be held in Sochi, Russia from 12–23 February 2014. For the fifth consecutive Olympics, players from the National Hockey League will participate. Twelve countries qualified for the tournament; nine of them did so automatically by virtue of their ranking by the International Ice Hockey Federation, while the three others took part in a qualification tournament. The defending gold medalists are Canada.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Deaths_in_2014
+  title: Deaths in 2014
+  extract: |-
+    <p>This is a chronology of notable <b>deaths in 2014</b>. Names are reported under the date of death. Names under each date are reported in alphabetical order by family name or pseudonym. Deaths of notable animals and other organisms are also reported here if they first have their own page. A typical entry reports information in the following sequence:</p>
+    <ul><li>Name, age, country of citizenship and reason for notability, established cause of death, reference.</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/IPv6
+  title: IPv6
+  extract: |-
+    <p><b>Internet Protocol version 6</b> (<b>IPv6</b>) is the latest revision of the Internet Protocol (IP), the communications protocol that provides an identification and location system for computers on networks and routes traffic across the Internet. IPv6 was developed by the Internet Engineering Task Force (IETF) to deal with the long-anticipated problem of IPv4 address exhaustion.</p>
+    <p>IPv6 is intended to replace IPv4, which still carries the vast majority of Internet traffic as of 2013. As of February 2014<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, the percentage of users reaching Google services over IPv6 surpassed 3% for the first time.</p>
+    <p>Every device on the Internet must be assigned an IP address in order to communicate with other devices. With the ever-increasing number of new devices being connected to the Internet, the need arose for more addresses than IPv4 is able to accommodate. IPv6 uses a 128-bit address, allowing 2<sup>128</sup>, or approximately 3.4×10<sup>38</sup> addresses, or more than 7.9×10<sup>28</sup> times as many as IPv4, which uses 32-bit addresses. IPv4 allows only approximately 4.3 billion addresses. The two protocols are not designed to be interoperable, complicating the transition to IPv6.</p>
+    <p>IPv6 addresses are represented as eight groups of four hexadecimal digits separated by colons, for example 2001:0db8:85a3:0042:1000:8a2e:0370:7334, but methods of abbreviation of this full notation exist.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Curling
+  title: Curling
+  extract: |-
+    <p><b>Curling</b> is a sport in which players slide stones on a sheet of ice towards a target area which is segmented into four concentric rings. It is related to bowls, boules and shuffleboard. Two teams, each of four players, take turns sliding heavy, polished granite stones, also called <i>rocks</i>, across the ice <i>curling sheet</i> towards the <i>house</i>, a circular target marked on the ice. Each team has eight stones. The purpose is to accumulate the highest score for a <i>game</i>; points are scored for the stones resting closest to the centre of the house at the conclusion of each <i>end</i>, which is completed when both teams have thrown all of their stones. A game may consist of ten or eight ends.</p>
+    <p>The curler can induce a curved path by causing the stone to slowly turn as it slides, and the path of the rock may be further influenced by two sweepers with brooms who accompany it as it slides down the sheet, using the brooms to alter the state of the ice in front of the stone. A great deal of strategy and teamwork go into choosing the ideal path and placement of a stone for each situation, and the skills of the curlers determine how close to the desired result the stone will achieve. This gives curling its nickname of "chess on ice".</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Devo
+  title: Devo
+  extract: |-
+    <p><b>Devo</b> (/ˈdiːvoʊ/, originally /diːˈvoʊ/) is an American rock band formed in 1972 consisting of members from Kent and Akron, Ohio. The classic line-up of the band included two sets of brothers, the Mothersbaughs (Mark and Bob) and the Casales (Gerald and Bob), along with Alan Myers. The band had a No. 14 Billboard chart hit in 1980 with the single "Whip It", and has maintained a cult following throughout its existence. Their style over time has shifted between punk, art rock, post-punk and New Wave. Their music and stage show mingle kitsch science fiction themes, deadpan surrealist humor, and mordantly satirical social commentary. Their often discordant pop songs feature unusual synthetic instrumentation and time signatures that have proven influential on subsequent popular music, particularly New Wave, industrial and alternative rock artists. Devo was also a pioneer of the music video, creating many memorable clips for the Laser Disc format, with "Whip It" getting heavy airplay in the early days of MTV.</p>
+    <p></p>
