@@ -1,0 +1,116 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Clonetroopers
+  title: Clonetroopers
+  extract: ''
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370
+  title: Malaysia Airlines Flight 370
+  extract: |-
+    <p>On 8 March 2014, a Malaysia Airlines Boeing 777-200ER operating flight 370 (MH370/MAS370; also marketed as China Southern Airlines flight 748 [CZ748] under a codeshare agreement) disappeared en route from Kuala Lumpur International Airport to Beijing Capital International Airport. There were 227 passengers and 12 crew members on-board. The cause remains unknown, but it is under investigation.</p>
+    <p>The aircraft departed Kuala Lumpur for the six-hour flight at 00:41 MST (UTC+08:00) on 8 March (16:41 UTC on the 7th). Subang Air Traffic Control Centre lost contact with the aircraft at about 01:22 while it was over the Gulf of Thailand, and reported it missing at 02:40. A joint search-and-rescue effort, focusing on the Gulf of Thailand, Straits of Malacca and the South China Sea, is being conducted by co-operating agencies of numerous national governments.</p>
+    <p>At least two passengers were using false identities. The head of Malaysia's Civil Aviation Authority says officials had not ruled out hijacking as a cause of the plane's disappearance, adding that all reported sightings of debris from the plane in the seas south of Vietnam were unconfirmed.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/True_Detective_(TV_series)
+  title: True Detective (TV series)
+  extract: |-
+    <p><i><b>True Detective</b></i> is an American television anthology crime drama series on HBO created and written by Nic Pizzolatto, with the first season directed by Cary Joji Fukunaga. Season one stars Matthew McConaughey, Woody Harrelson, Michelle Monaghan, Michael Potts, and Tory Kittles, and uses multiple timelines to trace two Louisiana State Police Criminal Investigations Division homicide detectives' hunt for a serial killer in Louisiana across seventeen years. The series premiered on January 12, 2014, and consisted of eight episodes which concluded on March 9, 2014. The series debuted to widespread critical acclaim.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/List_of_British_monarchs
+  title: List of British monarchs
+  extract: |-
+    <p>There have been 12 monarchs of Great Britain and the United Kingdom <i>(see the Monarchy of the United Kingdom)</i>. A new Kingdom of Great Britain was formed on 1 May 1707 with the merger of the Kingdom of England and the Kingdom of Scotland, which had been in personal union under the House of Stuart since 24 March 1603. On 1 January 1801, Great Britain merged with the Kingdom of Ireland to form the United Kingdom of Great Britain and Ireland. After most of Ireland left the union on 6 December 1922, its name was amended on 12 April 1927 to the United Kingdom of Great Britain and Northern Ireland.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>; Javanese: ꦗꦮ) is an island of Indonesia. With a population roughly equal to Russia as of 2014, (excluding the 3.7 million on the island of Madura which is administered as part of the province of East Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 57 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, though Javanese is dominant, and it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Air_France_Flight_447
+  title: Air France Flight 447
+  extract: |-
+    <p><b>Air France Flight 447</b> (abbreviated <b>AF447</b>) was a scheduled international flight from Galeão International Airport in Rio de Janeiro, Brazil, to Charles de Gaulle International Airport in Paris, France. On 1 June 2009, the Airbus A330-203 airliner serving the flight crashed into the Atlantic Ocean, resulting in the deaths of all 216 passengers and 12 aircrew. The accident was the deadliest in the history of Air France. It was also the Airbus A330's second and deadliest fatal accident, and its first while in commercial passenger service.</p>
+    <p>While Brazilian authorities were able to locate the first major wreckage within five days of the accident, initial investigation was hampered because the aircraft's black boxes were not recovered from the ocean floor until May 2011, nearly two years later. The final report, released at a news conference on 5 July 2012, stated that the aircraft crashed after temporary inconsistencies between the airspeed measurements—likely due to the aircraft's pitot tubes being obstructed by ice crystals—caused the autopilot to disconnect, after which the crew reacted incorrectly and ultimately led the aircraft to an aerodynamic stall from which they did not recover.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Blubber
+  title: Blubber
+  extract: |-
+    <p><b>Blubber</b> is a thick layer of vascularized adipose tissue found under the skin of all cetaceans, pinnipeds and sirenians.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Principia_Mathematica
+  title: Principia Mathematica
+  extract: |-
+    <p>The <i><b>Principia Mathematica</b></i> is a three-volume work on the foundations of mathematics, written by Alfred North Whitehead and Bertrand Russell and published in 1910, 1912, and 1913. In 1927, it appeared in a second edition with an important <i>Introduction To the Second Edition</i>, an <i>Appendix A</i> that replaced <b>✸9</b> and an all-new <i>Appendix C</i>.</p>
+    <p><i>PM</i>, as it is often abbreviated, was an attempt to describe a set of axioms and inference rules in symbolic logic from which all mathematical truths could in principle be proven. As such, this ambitious project is of great importance in the history of mathematics and philosophy, being one of the foremost products of the belief that such an undertaking may have been achievable. However, in 1931, Gödel's incompleteness theorem proved definitively that PM, and in fact any other attempt, could never achieve this lofty goal; that is, for any set of axioms and inference rules proposed to encapsulate mathematics, there would in fact be some truths of mathematics which could not be deduced from them.</p>
+    <p>One of the main inspirations and motivations for <i>PM</i> was the earlier work of Gottlob Frege on logic, which Russell discovered allowed for the construction of paradoxical sets. <i>PM</i> sought to avoid this problem by ruling out the unrestricted creation of arbitrary sets. This was achieved by replacing the notion of a general set with notion of a hierarchy of sets of different 'types', a set of a certain type only allowed to contain sets of strictly lower types. Contemporary mathematics, however, avoids paradoxes such as Russell's in less unwieldy ways, such as the system of Zermelo–Fraenkel set theory.</p>
+    <p><i>PM</i> is not to be confused with Russell's 1903 <i>Principles of Mathematics</i>. <i>PM</i> states: "The present work was originally intended by us to be comprised in a second volume of Principles of Mathematics... But as we advanced, it became increasingly evident that the subject is a very much larger one than we had supposed; moreover on many fundamental questions which had been left obscure and doubtful in the former work, we have now arrived at what we believe to be satisfactory solutions."</p>
+    <p>The Modern Library placed it 23rd in a list of the top 100 English-language nonfiction books of the twentieth century.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Automobile
+  title: Automobile
+  extract: |-
+    <p>An <b>automobile</b>, <b>autocar</b>, <b>motor car</b> or <b>car</b> is a wheeled motor vehicle used for transporting passengers, which also carries its own engine or motor. Most definitions of the term specify that automobiles are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels, and to be constructed principally for the transport of people rather than goods.</p>
+    <p>The year 1886 is regarded the year of birth of the modern automobile - with the Benz Patent-Motorwagen, by German inventor Karl Benz. Motorized wagons soon replaced animal-drafted carriages, especially after automobiles became affordable for many people when the Ford Model T was introduced in 1908.</p>
+    <p>The term <i>motorcar</i> has formerly also been used in the context of electrified rail systems to denote a car which functions as a small locomotive but also provides space for passengers and baggage. These locomotive cars were often used on suburban routes by both interurban and intercity railroad systems.</p>
+    <p>It was estimated in 2010 that the number of automobiles had risen to over 1 billion vehicles, up from the 500 million of 1986. The numbers are increasing rapidly, especially in China, India and other NICs.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/IPv6
+  title: IPv6
+  extract: |-
+    <p><b>Internet Protocol version 6</b> (<b>IPv6</b>) is the latest revision of the Internet Protocol (IP), the communications protocol that provides an identification and location system for computers on networks and routes traffic across the Internet. IPv6 was developed by the Internet Engineering Task Force (IETF) to deal with the long-anticipated problem of IPv4 address exhaustion.</p>
+    <p>IPv6 is intended to replace IPv4, which still carries the vast majority of Internet traffic as of 2013. As of February 2014<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, the percentage of users reaching Google services over IPv6 surpassed 3% for the first time.</p>
+    <p>Every device on the Internet must be assigned an IP address in order to communicate with other devices. With the ever-increasing number of new devices being connected to the Internet, the need arose for more addresses than IPv4 is able to accommodate. IPv6 uses a 128-bit address, allowing 2<sup>128</sup>, or approximately 3.4×10<sup>38</sup> addresses, or more than 7.9×10<sup>28</sup> times as many as IPv4, which uses 32-bit addresses. IPv4 allows only approximately 4.3 billion addresses. The two protocols are not designed to be interoperable, complicating the transition to IPv6.</p>
+    <p>IPv6 addresses are represented as eight groups of four hexadecimal digits separated by colons, for example 2001:0db8:85a3:0042:1000:8a2e:0370:7334, but methods of abbreviation of this full notation exist.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)
+  title: The Walking Dead (TV series)
+  extract: |-
+    <p><i><b>The Walking Dead</b></i> is an American post-apocalyptic horror drama television series developed by Frank Darabont. It is based on the comic book series of the same name by Robert Kirkman, Tony Moore, and Charlie Adlard. The series stars Andrew Lincoln as sheriff's deputy Rick Grimes, who awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</p>
+    <p><i>The Walking Dead</i> premiered on October 31, 2010, on the cable television channel AMC in the United States. It premiered internationally during the first week of November 2010 on Fox International Channels. Based on its reception, AMC renewed the series for a second season of 13 episodes, which premiered on October 16, 2011. Two episodes into the second season, AMC announced that the show would return for a third season of 16 episodes, which began airing on October 14, 2012. On December 21, 2012, AMC renewed <i>The Walking Dead</i> for a fourth season of 16 episodes, which premiered on October 13, 2013. On October 29, 2013, AMC renewed it for a fifth season.</p>
+    <p>The series has been well received and has been nominated for many awards, including the Writers Guild of America Award and the Golden Globe Award for Best Television Series – Drama. The series has also attained strong Nielsen ratings, surpassing various records for a cable series, including viewership of 16.1 million for its season four premiere, making it the most-watched drama series telecast in basic cable history.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Daylight_saving_time
+  title: Daylight saving time
+  extract: |-
+    <p><b>Daylight saving time</b> (<b>DST</b>) or <b>summer time</b> (see Terminology) is the practice of advancing clocks during the lighter months so that evenings have more daylight and mornings have less. Typically clocks are adjusted forward one hour near the start of spring and are adjusted backward in the autumn.</p>
+    <p>The modern idea of daylight saving was first proposed in 1895 by George Vernon Hudson, and it was first implemented by Germany and Austria-Hungary starting on 30 April 1916. Many countries have used it at various times since then, most consistently since the energy crises of the 1970s.</p>
+    <p>The practice has been both advocated and criticized. Adding daylight to evenings benefits retailing, sports, and other activities that exploit sunlight after working hours, but can cause problems for evening entertainment and other activities tied to the sun (such as farming) or to darkness (such as firework shows). Although an early goal of DST was to reduce evening use of incandescent lighting (formerly a primary use of electricity), modern heating and cooling usage patterns differ greatly, and research about how DST currently affects energy use is limited or contradictory.</p>
+    <p>Other problems sometimes caused by DST clock shifts are: They complicate timekeeping, and can disrupt meetings, travel, billing, record keeping, medical devices, heavy equipment, and sleep patterns. Software can often adjust computer clocks automatically, but this can be limited and error-prone, particularly when DST dates are changed.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Bermuda_Triangle
+  title: Bermuda Triangle
+  extract: |-
+    <p>The <b>Bermuda Triangle</b>, also known as the <b>Devil's Triangle</b>, is an undefined region in the western part of the North Atlantic Ocean, where a number of aircraft and ships are said to have disappeared under mysterious circumstances. According to the US Navy, the triangle does not exist, and the name is not recognized by the US Board on Geographic Names. Popular culture has attributed various disappearances to the paranormal or activity by extraterrestrial beings. Documented evidence indicates that a significant percentage of the incidents were spurious, inaccurately reported, or embellished by later authors. In a 2013 study, the World Wide Fund for Nature identified the world’s 10 most dangerous waters for shipping, but the Bermuda Triangle was not among them.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Iran_Air_Flight_655
+  title: Iran Air Flight 655
+  extract: |-
+    <p><b>Iran Air Flight 655</b> was an Iran Air civilian passenger flight from Tehran to Dubai that was shot down by the United States Navy guided missile cruiser USS <i>Vincennes</i> on 3 July 1988. The attack took place in Iranian airspace, over Iran's territorial waters in the Persian Gulf, and on the flight's usual flight path. The aircraft, an Airbus A300 B2-203, was destroyed by SM-2MR surface-to-air missiles fired from the <i>Vincennes.</i></p>
+    <p>All 290 on board, including 66 children and 16 crew, died. This attack ranks ninth among the deadliest disasters in aviation history, the incident retains the highest death toll of any aviation incident in the Indian Ocean and the highest death toll of any incident involving an Airbus A300 anywhere in the world. The <i>Vincennes</i> had entered Iranian territorial waters after one of its helicopters drew warning fire from Iranian speedboats operating within Iranian territorial limits.</p>
+    <p>According to the Iranian government, <i>Vincennes</i> negligently shot down the civilian aircraft: the airliner was making IFF squawks in Mode III (not Mode II used by Iranian military planes), a signal that identified it as a civilian craft, and operators of Vincennes mistook for Mode II. </p>
+    <p>According to the United States Government, the crew incorrectly identified the Iranian Airbus A300 as an attacking F-14 Tomcat fighter (a plane made in the United States and operated at that time by only two forces worldwide, the United States Navy and the Islamic Republic of Iran Air Force). The Vincennes was signaling warnings on a military channel which the civilian plane could not technically receive. Hence, the airliner was unable to respond to several requests for it to change course.</p>
+    <p>The event generated a great deal of controversy and criticism of the United States. Some analysts have blamed U.S. military commanders and the captain of <i>Vincennes</i> for reckless and aggressive behavior in a tense and dangerous environment.</p>
+    <p>In 1996, the United States and Iran reached "an agreement in full and final settlement of all disputes, differences, claims, counterclaims" relating to the incident at the International Court of Justice. As part of the settlement, the United States agreed to pay US$61.8 million, an average of $213,103.45 per passenger, in compensation to the families of the Iranian victims. However, the United States has never admitted responsibility, nor apologized to Iran.</p>
+    <p>As of February 2014<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, Iran Air was still using flight number IR655 on the Tehran–Dubai route as a memorial to the victims, contrary to the informal convention amongst many other airlines that discontinue flight numbers associated with tragedies.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Walking_Dead_(season_4)
+  title: The Walking Dead (season 4)
+  extract: |-
+    <p>The fourth season of AMC's television series <i>The Walking Dead</i> premiered on October 13, 2013, to consist of 16 episodes. The series is based on the series of comic books of the same name by Robert Kirkman, Tony Moore, and Charlie Adlard; it was developed for television by Frank Darabont and is executive produced by Kirkman, David Alpert, Scott M. Gimple, Greg Nicotero, Tom Luse, and Gale Anne Hurd. Gimple assumed the role of showrunner after Glen Mazzara's departure at the conclusion of the previous season. The season introduces the notable comic characters Abraham Ford, Eugene Porter, Rosita Espinosa, Bob Stookey, and Lilly, as well as a modified version of the Chalmers family from <i>The Walking Dead: Rise of the Governor</i> tie-in novel.</p>
+    <p>The season continues the story of former sheriff's deputy Rick Grimes, who relinquished his leadership in order to live a quiet life in contrast to his cold-hearted nature in the previous season. Rick's fellow survivors struggle to maintain their idealistic lifestyle in the prison in the face of threats, including the proliferation of walkers near the prison gates, the outbreak of a contagious and deadly flu-like infection within the prison population, and the whereabouts of The Governor, who remains at large.</p>
+    <p></p>
