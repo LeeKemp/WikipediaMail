@@ -1,0 +1,112 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Agnes_Martin
+  title: Agnes Martin
+  extract: |-
+    <p><b>Agnes Bernice Martin</b> (March 22, 1912 – December 16, 2004) was a Canadian-American abstract painter. Often referred to as a minimalist, Martin considered herself an abstract expressionist. She was awarded a National Medal of Arts from the National Endowment for the Arts in 1998.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Ryan_Tedder
+  title: Ryan Tedder
+  extract: |-
+    <p><b>Ryan Benjamin Tedder</b> (born June 26, 1979) is an American singer-songwriter, record producer, multi-instrumentalist, and occasional actor. He is best known as the frontman of the pop rock band OneRepublic, though he has an independent career as songwriter and producer for various artists such as Adele, Beyoncé, Birdy, Maroon 5, Demi Lovato, Ellie Goulding, B.o.B, Kelly Clarkson, K'naan, Carrie Underwood, Jennifer Lopez, Jordin Sparks, Leona Lewis, Gavin DeGraw, Sebastian Ingrosso, Gym Class Heroes, One Direction, James Blunt, Far East Movement, and Paul Oakenfold.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>; Javanese: ꦗꦮ) is an island of Indonesia. With a population roughly equal to Russia as of 2014, (excluding the 3.7 million on the island of Madura which is administered as part of the province of East Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 57 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, though Javanese is dominant, and it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Sildenafil
+  title: Sildenafil
+  extract: |
+    <p><b>Sildenafil citrate</b>, sold as <b>Viagra</b>, <b>Revatio</b> and under various other trade names, is a drug used to treat erectile dysfunction and pulmonary arterial hypertension (PAH). It was originally developed by British scientists and then brought to market by the US-based pharmaceutical company Pfizer. It acts by inhibiting cGMP-specific phosphodiesterase type 5 (PDE5), an enzyme that promotes degradation of cGMP, which regulates blood flow in the penis. Since becoming available in 1998, sildenafil has been the prime treatment for erectile dysfunction; its primary competitors on the market are tadalafil (Cialis) and vardenafil (Levitra).</p>
+    <p></p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Jean_Harlow
+  title: Jean Harlow
+  extract: |-
+    <p><b>Jean Harlow</b> (born <b>Harlean Harlow Carpenter</b>; March 3, 1911 – June 7, 1937) was an American film actress and sex symbol of the 1930s.</p>
+    <p>After being signed by director Howard Hughes, Harlow's first major appearance was in <i>Hell's Angels</i> (1930), followed by a series of critically unsuccessful films, before signing with Metro-Goldwyn-Mayer in 1932. Harlow became a leading lady for MGM, starring in a string of hit films including <i>Red Dust</i> (1932), <i>Dinner at Eight</i> (1933), <i>Reckless</i> (1935) and <i>Suzy</i> (1936). Among her frequent co-stars were William Powell, Spencer Tracy and, in six films, Clark Gable.</p>
+    <p>Harlow's popularity rivaled and soon surpassed that of her MGM colleagues Joan Crawford and Norma Shearer. She had become one of the biggest movie stars in the world by the late 1930s, often nicknamed the "Blonde Bombshell" and the "Platinum Blonde", and popular for her "Laughing Vamp" movie persona.</p>
+    <p>She died of renal failure during the filming of <i>Saratoga</i> in 1937 at the age of 26. The film was completed using doubles and released a little over a month after Harlow's death. The American Film Institute ranked her as the 22nd greatest female movie star.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Florida_Mitzvah_Disc_Jockey
+  title: Florida Mitzvah Disc Jockey
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/IPv6
+  title: IPv6
+  extract: |-
+    <p><b>Internet Protocol version 6</b> (<b>IPv6</b>) is the latest version of the Internet Protocol (IP), the communications protocol that provides an identification and location system for computers on networks and routes traffic across the Internet. IPv6 was developed by the Internet Engineering Task Force (IETF) to deal with the long-anticipated problem of IPv4 address exhaustion.</p>
+    <p>IPv6 is intended to replace IPv4, which still carries the vast majority of Internet traffic as of 2013. As of February 2014<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, the percentage of users reaching Google services over IPv6 surpassed 3% for the first time.</p>
+    <p>Every device on the Internet must be assigned an IP address in order to communicate with other devices. With the ever-increasing number of new devices being connected to the Internet, the need arose for more addresses than IPv4 is able to accommodate. IPv6 uses a 128-bit address, allowing 2<sup>128</sup>, or approximately 3.4×10<sup>38</sup> addresses, or more than 7.9×10<sup>28</sup> times as many as IPv4, which uses 32-bit addresses. IPv4 allows only approximately 4.3 billion addresses. The two protocols are not designed to be interoperable, complicating the transition to IPv6.</p>
+    <p>IPv6 addresses are represented as eight groups of four hexadecimal digits separated by colons, for example 2001:0db8:85a3:0042:1000:8a2e:0370:7334, but methods of abbreviation of this full notation exist.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370
+  title: Malaysia Airlines Flight 370
+  extract: |-
+    <p><b>Malaysia Airlines Flight 370</b> (MH370/MAS370) was a scheduled international passenger flight that disappeared on 8 March 2014 en route from Kuala Lumpur International Airport to Beijing Capital International Airport. The aircraft, a Boeing 777-200ER, last made contact with air traffic control less than an hour after takeoff. Operated by Malaysia Airlines (MAS), the aircraft carried 12 crew members and 227 passengers from 15 nations, the majority of passengers being Chinese citizens.</p>
+    <p>On the same day, a joint search and rescue effort, later reported as the largest in history, was initiated in the Gulf of Thailand and the South China Sea. On 11 March, the search area was extended to the Strait of Malacca. On 12 March, authorities also began to search the Andaman Sea, northwest of the Strait of Malacca. Subsequently, new information led to the search area being expanded to include the Indian Ocean south of Sumatra, as well as significant tracts of land.</p>
+    <p>On 15 March, in the wake of media reports that US investigators believed that the aircraft had headed west back across the Malay Peninsula after air traffic control lost contact and that a satellite had continued to receive "pings" from the aircraft for several hours, Malaysian Prime Minister Najib Razak announced that satellite-related data showed that the aircraft's ACARS and transponder had been switched off and that radar data indicated that the aircraft's "movements are consistent with the deliberate action of someone on the plane." As of 18 March, there were 26 countries participating in the revised search, focusing on a northern locus from the Kazakh–Turkmen border to northern Thailand, as well as a southern locus from Indonesia to the southern Indian Ocean.</p>
+    <p>From 20 March, a series of satellite images were released showing potential aircraft debris in the southern Indian Ocean south west of Australia – at the southern-most tip of the southern locus – prompted increased search activity in the area. Air assets from several of the nations involved in the search, based at RAAF Pearce near Perth, flew long-range sorties each day, and surface vessels were also on station, although none of the satellite sightings had been confirmed as originating from flight MH370. Searches also continued in the northern locus.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Frozen_(2013_film)
+  title: Frozen (2013 film)
+  extract: |-
+    <p><i><b>Frozen</b></i> is a 2013 American 3D computer-animated musical fantasy-comedy film produced by Walt Disney Animation Studios and released by Walt Disney Pictures. It is the 53rd animated feature in the Walt Disney Animated Classics series. Inspired by Hans Christian Andersen's fairy tale <i>The Snow Queen</i>, and featuring the voices of Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, and Santino Fontana, the film tells the story of a fearless princess who sets off on an epic journey alongside a rugged, thrill-seeking mountain man, his loyal pet reindeer, and a hapless snowman to find her estranged sister, whose icy powers have inadvertently trapped the kingdom in eternal winter.</p>
+    <p>The film underwent several story treatments for several years, before being commissioned in 2011, with a screenplay written by Jennifer Lee, and both Chris Buck and Lee serving as directors. Christophe Beck, who had worked on Disney's award-winning short <i>Paperman</i>, was hired to compose the film's orchestral score, while husband-and-wife songwriting team Robert Lopez and Kristen Anderson-Lopez penned the songs.</p>
+    <p><i>Frozen</i> premiered at the El Capitan Theatre on November 19, 2013, and went into general release on November 27. The film has so far grossed $1.032 billion in worldwide box office revenue, $397 million of which has been earned in the United States and Canada; it was met with widespread critical acclaim, with several film critics considering it to be the best Disney animated musical since the studio's renaissance era. The film won two Academy Awards for Best Animated Feature and Best Original Song ("Let It Go"), the Golden Globe Award for Best Animated Feature Film, the BAFTA Award for Best Animated Film, five Annie Awards (including Best Animated Feature), and two Critics' Choice Awards for Best Animated Feature and Best Original Song ("Let It Go").</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Sunny_Leone
+  title: Sunny Leone
+  extract: |-
+    <p><b>Sunny Leone</b> (born <b>Karenjit Kaur Vohra</b>; May 13, 1981) is an Indo-Canadian and American actress, businesswoman, model and former pornographic actress. She was named <i>Penthouse</i> Pet of the Year in 2003 and was a contract star for Vivid Entertainment. Named by <i>Maxim</i> as one of the 12 top porn stars in 2010, she has also played roles in independent mainstream films and television shows. She later made her Bollywood debut in Pooja Bhatt's erotic thriller <i>Jism 2</i> (2012) and now works in Hindi films.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Divergent_(film)
+  title: Divergent (film)
+  extract: |-
+    <p><i><b>Divergent</b></i> is a 2014 American science fiction action film directed by Neil Burger, based on the novel of the same name by Veronica Roth. The film is produced by Lucy Fisher, Pouya Shabazian and Douglas Wick, with a screenplay by Evan Daugherty and Vanessa Taylor. It stars Shailene Woodley, Theo James, Zoë Kravitz, Ansel Elgort, Maggie Q, Mekhi Phifer, Jai Courtney, Miles Teller, and Kate Winslet. The story takes place in a dystopian post-apocalyptic version of Chicago. <i>Divergent</i> was released on March 21, 2014 in the United States.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Automobile
+  title: Automobile
+  extract: |-
+    <p>An <b>automobile</b>, <b>autocar</b>, <b>motor car</b> or <b>car</b> is a wheeled motor vehicle used for transporting passengers, which also carries its own engine or motor. Most definitions of the term specify that automobiles are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels, and to be constructed principally for the transport of people rather than goods.</p>
+    <p>The year 1886 is regarded the year of birth of the modern automobile - with the Benz Patent-Motorwagen, by German inventor Karl Benz. Motorized wagons soon replaced animal-drafted carriages, especially after automobiles became affordable for many people when the Ford Model T was introduced in 1908.</p>
+    <p>The term <i>motorcar</i> has formerly also been used in the context of electrified rail systems to denote a car which functions as a small locomotive but also provides space for passengers and baggage. These locomotive cars were often used on suburban routes by both interurban and intercity railroad systems.</p>
+    <p>It was estimated in 2010 that the number of automobiles had risen to over 1 billion vehicles, up from the 500 million of 1986. The numbers are increasing rapidly, especially in China, India and other NICs.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Drone_(bee)
+  title: Drone (bee)
+  extract: |-
+    <p><b>Drones</b> are male honey bees. They develop from eggs that have not been fertilized, and they cannot sting, since the worker bee's stinger is a modified ovipositor (an egg laying organ).</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Divergent_(novel)
+  title: Divergent (novel)
+  extract: |-
+    <p><i><b>Divrgant</b></i> is the debut novel of American author Veronica Roth and is the first installment in the Divergent trilogy. It is set within a dystopian version of Chicago. The novel has been compared to similar young adult books such as <i>The Hunger Games</i> and <i>The Maze Runner</i> because of its similar theme and target audience. Roth has said that the idea for the series was born while she was studying in college. Its major plot device, the division of society into personality types, is similar to Philip K. Dick's 1964 novel <i>Clans of the Alphane Moon</i> and Rupert Thomson's <i>Divided Kingdom</i>.</p>
+    <p>Summit Entertainment purchased the media rights to the book, and production on the movie took place in 2013, also titled <i>Divergent</i>. The second novel in the trilogy, <i>Insurgent</i>, was published on May 1, 2012, and the third and final book, <i>Allegiant</i>, on October 22, 2013.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Facebook
+  title: Facebook
+  extract: |-
+    <p><b>Facebook</b> is an online social networking service. Its name comes from a colloquialism for the directory given to students at some American universities. Facebook was founded on February 4, 2004 by Mark Zuckerberg with his college roommates and fellow Harvard University students Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes. The founders had initially limited the website's membership to Harvard students, but later expanded it to colleges in the Boston area, the Ivy League, and Stanford University. It gradually added support for students at various other universities before it opened to high-school students, and eventually to anyone aged 13 and over. Facebook now allows anyone who claims to be at least 13 years old to become a registered user of the website.</p>
+    <p>Users must register before using the site, after which they may create a personal profile, add other users as friends, exchange messages, and receive automatic notifications when they update their profile. Additionally, users may join common-interest user groups, organized by workplace, school or college, or other characteristics, and categorize their friends into lists such as "People From Work" or "Close Friends". As of September 2012, Facebook has over one billion active users, of which approximately 9% are fake. Facebook (as of 2012) has about 180 petabytes of data per year and grows by over half a petabyte every 24 hours.</p>
+    <p>In May 2005, Accel partners invested $12.7 million in Facebook, and Jim Breyer added $1 million of his own money. A January 2009 Compete.com study ranked Facebook the most used social networking service by worldwide monthly active users. <i>Entertainment Weekly</i> included the site on its end-of-the-decade "best-of" list, saying, "How on earth did we stalk our exes, remember our co-workers' birthdays, bug our friends, and play a rousing game of Scrabulous before Facebook?" Facebook eventually filed for an initial public offering on February 1, 2012; it is headquartered in Menlo Park, California. Facebook Inc. began selling stock to the public and trading on the NASDAQ on May 18, 2012. Based on its 2012 income of US$5 billion, Facebook joined the Fortune 500 list for the first time on the list published in May 2013, being placed at position 462.</p>
+    <p>In 2012, Facebook was valued at $104 billion, and by January 2014 its market capitalization had risen to over $134 billion. At the end of January 2014, 1.23 billion users were active on the website every month, while on December 31, 2013, 945 million of this total were identified by the company as mobile users. The company celebrates its tenth anniversary in the week beginning February 3, 2014.</p>
+    <p>On January 2014, during the week previous to the company's tenth anniversary, chief operating officer of Facebook, Sheryl Sandberg, clarified: "He [Mark] always said Facebook was started not just to be a company, but to fulfill a vision of connecting the world".</p>
+    <p></p>
