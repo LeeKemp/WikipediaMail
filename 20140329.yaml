@@ -1,0 +1,122 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Malware
+  title: Malware
+  extract: |-
+    <p><b>Malware</b>, short for <b>malicious software</b>, is software used to disrupt computer operation, gather sensitive information, or gain access to private computer systems. It can appear in the form of code, scripts, active content, and other software. 'Malware' is a general term used to refer to a variety of forms of hostile or intrusive software.</p>
+    <p>Malware includes computer viruses, ransomware, worms, trojan horses, rootkits, keyloggers, dialers, spyware, adware, malicious BHOs, rogue security software, and other malicious programs; the majority of active malware threats are usually worms or trojans rather than viruses. In law, malware is sometimes known as a <b>computer contaminant</b>, as in the legal codes of several U.S. states. Malware is different from defective software, which is a legitimate software but contains harmful bugs that were not corrected before release. However, some malware is disguised as genuine software, and may come from an official company website in the form of a useful or attractive program which has the harmful malware embedded in it along with additional tracking software that gathers marketing statistics.</p>
+    <p>Software such as anti-virus, anti-malware, and firewalls are relied upon by users at home, small and large organizations around the globe to safeguard against malware attacks which helps in identifying and preventing the further spread of malware in the network.</p>
+    <p>As of 2012<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup> approximately 60 to 70 percent of all active malware used some kind of click fraud to monetize their activity.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>; Javanese: ꦗꦮ) is an island of Indonesia. With a population roughly equal to Russia as of 2014, (excluding the 3.7 million on the island of Madura which is administered as part of the province of East Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 57 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, though Javanese is dominant, and it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/JOP
+  title: JOP
+  extract: |-
+    <p><b>JOP</b> could refer to:</p>
+    <ul><li>Java optimized processor, a hardware implementation of a Java Virtual Machine</li>
+    <li><i>Jon Oliva's Pain</i>, a US heavy metal band fronted by Jon Oliva (co-founder of the band <i>Savatage</i>)</li>
+    <li>Judgment of Paris (wine) - the 1976 Paris wine tasting that sparked international interest in Californian wine</li>
+    <li>Justice of the Peace</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Extraversion_and_introversion
+  title: Extraversion and introversion
+  extract: |-
+    <p>The trait of <b>extraversion–introversion</b> is a central dimension of human personality theories. The terms <i>introversion</i> and <i>extraversion</i> were first popularized by Carl Jung, although both the popular understanding and psychological age differ from his original intent. Extraversion tends to be manifested in outgoing, talkative, energetic behavior, whereas introversion is manifested in more reserved and solitary behavior. Virtually all comprehensive models of personality include these concepts in various forms. Examples include the Big Five model, Jung's analytical psychology, Hans Eysenck's three-factor model, Raymond Cattell's 16 personality factors, the Minnesota Multiphasic Personality Inventory, and the Myers–Briggs Type Indicator.</p>
+    <p>Extroversion and introversion are typically viewed as a single continuum. Thus, to be high on one it is necessary to be low on the other. Carl Jung and the authors of the Myers–Briggs provide a different perspective and suggest that everyone has both an extraverted side and an introverted side, with one being more dominant than the other. Rather than focusing on interpersonal behavior, however, Jung defined introversion as an "attitude-type characterised by orientation in life through subjective psychic contents" (focus on one's inner psychic activity); and extraversion as "an attitude type characterised by concentration of interest on the external object", (the outside world).</p>
+    <p>In any case, people fluctuate in their behavior all the time, and even extreme introverts and extroverts do not always act according to their type.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy
+  title: Climatic Research Unit email controversy
+  extract: |-
+    <p>The <b>Climatic Research Unit email controversy</b> (also known as <b>"Climategate"</b>) began in November 2009 with the hacking of a server at the Climatic Research Unit (CRU) at the University of East Anglia (UEA) by an external attacker. Several weeks before the Copenhagen Summit on climate change, an unknown individual or group breached CRU's server and copied thousands of emails and computer files to various locations on the Internet.</p>
+    <p>The story was first broken by climate change critics on their blogs, with columnist James Delingpole popularising the term "Climategate" to describe the controversy. Climate change critics and others denying the significance of human caused climate change argued that the emails showed that global warming was a scientific conspiracy, in which they alleged that scientists manipulated climate data and attempted to suppress critics. The accusations were rejected by the CRU, who said that the emails had been taken out of context and merely reflected an honest exchange of ideas.</p>
+    <p>The mainstream media picked up the story as negotiations over climate change mitigation began in Copenhagen on 7 December. Because of the timing, scientists, policy makers, and public relations experts said that the release of emails was a smear campaign intended to undermine the climate conference. In response to the controversy, the American Association for the Advancement of Science (AAAS), the American Meteorological Society (AMS) and the Union of Concerned Scientists (UCS) released statements supporting the scientific consensus that the Earth's mean surface temperature had been rising for decades, with the AAAS concluding "based on multiple lines of scientific evidence that global climate change caused by human activities is now underway...it is a growing threat to society."</p>
+    <p>Eight committees investigated the allegations and published reports, finding no evidence of fraud or scientific misconduct. However, the reports called on the scientists to avoid any such allegations in the future by taking steps to regain public confidence in their work, for example by opening up access to their supporting data, processing methods and software, and by promptly honouring freedom of information requests. The scientific consensus that global warming is occurring as a result of human activity remained unchanged throughout the investigations.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Noah_(film)
+  title: Noah (film)
+  extract: |-
+    <p><i><b>Noah</b></i> is a 2014 American epic biblical-inspired film directed by Darren Aronofsky, written by Aronofsky and Ari Handel, and based on the story of Noah's Ark. The film stars Russell Crowe as Noah along with Jennifer Connelly, Ray Winstone, Emma Watson, Logan Lerman, Anthony Hopkins, and Douglas Booth. It was released in North American theaters on March 28, 2014 in 2-D and IMAX while several countries will also release the film in 3-D and IMAX 3D.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/IPv6
+  title: IPv6
+  extract: |-
+    <p><b>Internet Protocol version 6</b> (<b>IPv6</b>) is the latest version of the Internet Protocol (IP), the communications protocol that provides an identification and location system for computers on networks and routes traffic across the Internet. IPv6 was developed by the Internet Engineering Task Force (IETF) to deal with the long-anticipated problem of IPv4 address exhaustion.</p>
+    <p>IPv6 is intended to replace IPv4, which still carries the vast majority of Internet traffic as of 2013. As of February 2014<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, the percentage of users reaching Google services over IPv6 surpassed 3% for the first time.</p>
+    <p>Every device on the Internet is assigned an IP address for identification and location definition. With the ever-increasing number of new devices being connected to the Internet, the need arose for more addresses than the IPv4 address space has available. IPv6 uses a 128-bit address, allowing 2<sup>128</sup>, or approximately 3.4×10<sup>38</sup> addresses, or more than 7.9×10<sup>28</sup> times as many as IPv4, which uses 32-bit addresses. IPv4 provides approximately 4.3 billion addresses. The two protocols are not designed to be interoperable, complicating the transition to IPv6.</p>
+    <p>IPv6 addresses are represented as eight groups of four hexadecimal digits separated by colons, for example 2001:0db8:85a3:0042:1000:8a2e:0370:7334, but methods of abbreviation of this full notation exist.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Jackalope
+  title: Jackalope
+  extract: |-
+    <p>The <b>jackalope</b> is a mythical animal of North American folklore (a so-called "fearsome critter") described as a jackrabbit with antelope horns or deer antlers and sometimes a pheasant's tail (and often hind legs). The word "jackalope" is a portmanteau of "jackrabbit" and "antelope". A group of jackalopes is called a flaggerdoot.</p>
+    <p>The story of the jackalope was popularised in Wyoming in the 1930s after a local hunter used taxidermy skills to graft deer antlers onto a jackrabbit carcass, selling the creature to a local hotel. It is possible that the tales of jackalopes were inspired by sightings of rabbits infected with the <i>Shope papilloma virus</i>, which causes the growth of horn- and antler-like tumors in various places on the rabbit's head and body. However, the concept of an animal hybrid occurs in many cultures, for example as the griffin and the chimera.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Iwao_Hakamada
+  title: Iwao Hakamada
+  extract: |-
+    <p><b>Iwao Hakamada</b> (袴田 巖, <i>Hakamada Iwao</i><sup class="t_nihongo_help noprint">?</sup>, born on March 10, 1936) is a Japanese former professional boxer who was sentenced to death on September 11, 1968 for a mass murder two years prior. It was suspected that he was falsely charged, however, and he was never executed as a result. On March 10, 2011, Guinness World Records certified Hakamada as the world’s longest-held death row inmate. In March 2014 he was granted a retrial and an immediate release when the Shizuoka District Court found there was reason to believe evidence against him had been falsified.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/G-Unit
+  title: G-Unit
+  extract: |-
+    <p><b>G-Unit</b> is an American hip hop group originating from South Jamaica, Queens, New York formed by East Coast rappers 50 Cent and Lloyd Banks. The name of the group is short for Guerrilla Unit.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Cystic_fibrosis
+  title: Cystic fibrosis
+  extract: |-
+    <p><b>Cystic fibrosis</b> (<b>CF</b>), also known as <b>mucoviscidosis</b>, is an autosomal recessive genetic disorder that affects most critically the lungs, and also the pancreas, liver, and intestine. It is characterized by abnormal transport of chloride and sodium across an epithelium, leading to thick, viscous secretions.</p>
+    <p>The name <i>cystic fibrosis</i> refers to the characteristic scarring (fibrosis) and cyst formation within the pancreas, first recognized in the 1930s. Difficulty breathing is the most serious symptom and results from frequent lung infections that are treated with antibiotics and other medications. Other symptoms—including sinus infections, poor growth, and infertility—affect other parts of the body.</p>
+    <p>CF is caused by a frameshift mutation in the gene  for the protein cystic fibrosis transmembrane conductance regulator (CFTR). This protein is required to regulate the components of sweat, digestive fluids, and mucus. CFTR regulates the movement of chloride and sodium ions across epithelial membranes, such as the alveolar epithelia located in the lungs. Most people without CF have two working copies of the CFTR gene, and both copies must be missing for CF to develop, due to the disorder's recessive nature. CF develops when neither copy works normally (as a result of mutation) and therefore has autosomal recessive inheritance.</p>
+    <p>CF is most common among people of Central and Northern European ancestry, but occurs in many demographic groups around the world. The prevalence of CF is the rarest in Asia and the Middle East. Individuals with cystic fibrosis can be diagnosed before birth by genetic testing, or by a sweat test in early childhood. Ultimately, lung transplantation is often necessary as CF worsens.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Fibrodysplasia_ossificans_progressiva
+  title: Fibrodysplasia ossificans progressiva
+  extract: |-
+    <p><i><b>Fibrodysplasia ossificans progressiva</b></i> (FOP), sometimes referred to as <b>Stone Man Syndrome</b>, is an extremely rare disease of the connective tissue. A mutation of the body's repair mechanism causes fibrous tissue (including muscle, tendon, and ligament) to be ossified spontaneously or when damaged. In many cases, injuries can cause joints to become permanently frozen in place. Surgical removal of the extra bone growths has been shown to cause the body to "repair" the affected area with more bone.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370
+  title: Malaysia Airlines Flight 370
+  extract: |-
+    <p><b>Malaysia Airlines Flight 370</b> (MH370/MAS370), also marketed as China Southern Airlines Flight 748 (CZ748) through a codeshare, was a scheduled international passenger flight that disappeared on 8 March 2014 en route from Kuala Lumpur International Airport to Beijing Capital International Airport. The aircraft, a Boeing 777-200ER, last made contact with air traffic control less than an hour after takeoff. Operated by Malaysia Airlines (MAS), the aircraft carried 12 crew members and 227 passengers from 15 nations and regions, the majority of passengers being Chinese citizens.</p>
+    <p>On the day that contact with the aircraft was lost, a joint search and rescue effort, later reported as the largest in history, was initiated in the Gulf of Thailand and the South China Sea. The search area was later extended to include the Strait of Malacca, Andaman Sea, and the Indian Ocean. On 15 March – based on military radar data and signals sent between the plane and a satellite – investigators believed that the aircraft had first headed west back across the Malay Peninsula, then continued on a northern or southern track for approximately seven hours. Subsequently the search was expanded to include an area north over Chinese territory and an area south of Indonesia and west of Australia. By 18 March 26 countries were participating in the search.</p>
+    <p>Two satellite images taken on 16 March and 18 March showed potential aircraft debris in the southern Indian Ocean southwest of Western Australia, prompting increased search activity in the area. On 24 March, the Malaysian government confirmed analyses by the Air Accidents Investigation Branch (AAIB) and Inmarsat which concluded "beyond any reasonable doubt" that the aircraft had gone down in the southern Indian Ocean with no survivors.</p>
+    <p>Since 22 March, there have been almost daily sightings of marine debris in the search area made by various countries' satellites. However none of the photographed objects have been positively confirmed as belonging to the missing aircraft.</p>
+    <p>The flight's fuel estimates were revised, and the search area was moved on 28 March to 1,100 kilometres (680 mi) north-east of the previous search area.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Jordan_Belfort
+  title: Jordan Belfort
+  extract: |-
+    <p><b>Jordan Ross Belfort</b> (/ˈbɛlfɔːrt/; born July 9, 1962) is an American motivational speaker and former stockbroker. He was convicted of fraud crimes related to stock market manipulation and running a penny stock boiler room, for which he spent 22 months in prison. He recounted his life in his memoir, <i>The Wolf of Wall Street</i>, and the 2013 film of the same name, in which he was portrayed by Leonardo DiCaprio.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Facebook
+  title: Facebook
+  extract: |
+    <p><b>Facebook</b> is an online social networking service. Its name comes from a colloquialism for the directory given to students at some American universities. Facebook was founded on February 4, 2004 by Mark Zuckerberg with his college roommates and fellow Harvard University students Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes. The founders had initially limited the website's membership to Harvard students, but later expanded it to colleges in the Boston area, the Ivy League, and Stanford University. It gradually added support for students at various other universities before it opened to high-school students, and eventually to anyone aged 13 and over. Facebook now allows anyone who claims to be at least 13 years old to become a registered user of the website.</p>
+    <p>Users must register before using the site, after which they may create a personal profile, add other users as friends, exchange messages, and receive automatic notifications when they update their profile. Additionally, users may join common-interest user groups, organized by workplace, school or college, or other characteristics, and categorize their friends into lists such as "People From Work" or "Close Friends". As of September 2012, Facebook has over one billion active users, of which approximately 9% are fake. Facebook (as of 2012) has about 180 petabytes of data per year and grows by over half a petabyte every 24 hours.</p>
+    <p>In May 2005, Accel partners invested $12.7 million in Facebook, and Jim Breyer added $1 million of his own money. A January 2009 Compete.com study ranked Facebook the most used social networking service by worldwide monthly active users. <i>Entertainment Weekly</i> included the site on its end-of-the-decade "best-of" list, saying, "How on earth did we stalk our exes, remember our co-workers' birthdays, bug our friends, and play a rousing game of Scrabulous before Facebook?" Facebook eventually filed for an initial public offering on February 1, 2012; it is headquartered in Menlo Park, California. Facebook Inc. began selling stock to the public and trading on the NASDAQ on May 18, 2012. Based on its 2012 income of US$5 billion, Facebook joined the Fortune 500 list for the first time on the list published in May 2013, being placed at position 462.</p>
+    <p>In 2012, Facebook was valued at $104 billion, and by January 2014 its market capitalization had risen to over $134 billion. At the end of January 2014, 1.23 billion users were active on the website every month, while on December 31, 2013, 945 million of this total were identified by the company as mobile users. The company celebrates its tenth anniversary in the week beginning February 3, 2014.</p>
+    <p>On January 2014, during the week previous to the company's tenth anniversary, chief operating officer of Facebook, Sheryl Sandberg, clarified: "He [Mark] always said Facebook was started not just to be a company, but to fulfill a vision of connecting the world".</p>
+    <p></p>
+
+    <p></p>
