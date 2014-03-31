@@ -1,0 +1,120 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Stereoscope
+  title: Stereoscope
+  extract: |-
+    <p>A <b>stereoscope</b> is a device for viewing a stereoscopic pair of separate images, depicting left-eye and right-eye views of the same scene, as a single three-dimensional image.</p>
+    <p>A typical stereoscope provides each eye with a lens that makes the image seen through it appear larger and more distant and usually also shifts its apparent horizontal position, so that for a person with normal binocular depth perception the edges of the two images seemingly fuse into one "stereo window". In current practice, the images are prepared so that the scene appears to be beyond this virtual window, through which objects are sometimes allowed to protrude, but this was not always the custom. A divider or other view-limiting feature is usually provided to prevent each eye from being distracted by also seeing the image intended for the other eye.</p>
+    <p>Most people can, with practice and some effort, view stereoscopic image pairs in 3D without the aid of a stereoscope, but the physiological depth cues resulting from the unnatural combination of eye convergence and focus required will be unlike those experienced when actually viewing the scene in reality, making an accurate simulation of the natural viewing experience impossible and tending to cause eye strain and fatigue.</p>
+    <p>Although more recent devices such as realist-format 3D slide viewers and the View-Master are also stereoscopes, the word is now most commonly associated with viewers designed for the standard-format stereo cards that enjoyed several waves of popularity from the 1850s to the 1930s as a home entertainment medium.</p>
+    <p>Devices such as polarized, anaglyph and shutter glasses which are used to view two actually superimposed or intermingled images, rather than two physically separate images, are not categorized as stereoscopes.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Malware
+  title: Malware
+  extract: |-
+    <p><b>Malware</b>, short for <b>malicious software</b>, is software used to disrupt computer operation, gather sensitive information, or gain access to private computer systems. It can appear in the form of code, scripts, active content, and other software. 'Malware' is a general term used to refer to a variety of forms of hostile or intrusive software.</p>
+    <p>Malware includes computer viruses, ransomware, worms, trojan horses, rootkits, keyloggers, dialers, spyware, adware, malicious BHOs, rogue security software, and other malicious programs; the majority of active malware threats are usually worms or trojans rather than viruses. In law, malware is sometimes known as a <b>computer contaminant</b>, as in the legal codes of several U.S. states. Malware is different from defective software, which is a legitimate software but contains harmful bugs that were not corrected before release. However, some malware is disguised as genuine software, and may come from an official company website in the form of a useful or attractive program which has the harmful malware embedded in it along with additional tracking software that gathers marketing statistics.</p>
+    <p>Software such as anti-virus, anti-malware, and firewalls are relied upon by users at home, small and large organizations around the globe to safeguard against malware attacks which helps in identifying and preventing the further spread of malware in the network.</p>
+    <p>As of 2012<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup> approximately 60 to 70 percent of all active malware used some kind of click fraud to monetize their activity.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/JOP
+  title: JOP
+  extract: |-
+    <p><b>JOP</b> could refer to:</p>
+    <ul><li>Java optimized processor, a hardware implementation of a Java Virtual Machine</li>
+    <li><i>Jon Oliva's Pain</i>, a US heavy metal band fronted by Jon Oliva (co-founder of the band <i>Savatage</i>)</li>
+    <li>Judgment of Paris (wine) - the 1976 Paris wine tasting that sparked international interest in Californian wine</li>
+    <li>Justice of the Peace</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Legend_of_Korra
+  title: The Legend of Korra
+  extract: |-
+    <p><i><b>The Legend of Korra</b></i> is an American animated drama television series that premiered on the Nickelodeon television network in 2012. It was created by Bryan Konietzko and Michael Dante DiMartino as a sequel to their series <i>Avatar: The Last Airbender</i>, which aired on Nickelodeon from 2005 to 2008. Several people involved with creating <i>Avatar: The Last Airbender</i>, including designer Joaquim Dos Santos and composers Jeremy Zuckerman and Benjamin Wynn, returned to work on <i>The Legend of Korra</i>.</p>
+    <p>The series is set in a fictional universe where some people can manipulate, or "bend", the elements of water, earth, fire, or air. Only one person, the "Avatar", can bend all four elements, and is responsible for maintaining balance in the world. The series follows Avatar Korra, the successor of Aang from the previous series, as she faces political and spiritual unrest in a modernizing world.</p>
+    <p>The series, whose style is strongly influenced by Japanese animation, has been a critical and commercial success. It obtained the highest audience total for an animated series in the United States in 2012. The series was praised by reviewers for its high production values and for addressing difficult sociopolitical issues such as social unrest and terrorism. It was originally conceived as a miniseries consisting of twelve episodes, but it is now set to run for fifty-two episodes separated into four seasons ("books"), each of which tells a separate story.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)
+  title: The Walking Dead (TV series)
+  extract: |-
+    <p><i><b>The Walking Dead</b></i> is an American post-apocalyptic horror drama television series developed by Frank Darabont. It is based on the comic book series of the same name by Robert Kirkman, Tony Moore, and Charlie Adlard. The series stars Andrew Lincoln as sheriff's deputy Rick Grimes, who awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</p>
+    <p><i>The Walking Dead</i> premiered on October 31, 2010, on the cable television channel AMC in the United States. It premiered internationally during the first week of November 2010 on Fox International Channels. Based on its reception, AMC renewed the series for a second season of 13 episodes, which premiered on October 16, 2011. Two episodes into the second season, AMC announced that the show would return for a third season of 16 episodes, which began airing on October 14, 2012. On December 21, 2012, AMC renewed <i>The Walking Dead</i> for a fourth season of 16 episodes, which premiered on October 13, 2013. On October 29, 2013, AMC renewed it for a fifth season.</p>
+    <p>The series has been well received and has been nominated for many awards, including the Writers Guild of America Award and the Golden Globe Award for Best Television Series – Drama. The series has also attained strong Nielsen ratings, surpassing various records for a cable series, including viewership of 16.1 million for its season four premiere, making it the most-watched drama series telecast in basic cable history.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>; Javanese: ꦗꦮ) is an island of Indonesia. With a population roughly equal to Russia as of 2014, (excluding the 3.7 million on the island of Madura which is administered as part of the province of East Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 57 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, though Javanese is dominant, and it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Ketchup
+  title: Ketchup
+  extract: |-
+    <p><b>Ketchup</b> (/ˈkɛtʃəp/ or /ˈkɛtʃʌp/), also <b>catsup</b>, is a table sauce. As far back as 300 BC, different recipes featured ketchup made of mushrooms, oysters, mussels, walnuts, or other foods,  but in modern times the term without modification usually means tomato ketchup, sometimes called <b>tomato sauce</b>, or <b>red sauce</b>. It is a sweet and tangy sauce, typically made from tomatoes, vinegar, a sweetener, and assorted seasonings and spices. The sweetener is most commonly sugar or high fructose corn syrup. Seasonings vary by recipe, but commonly include onions, allspice, cloves, cinnamon, garlic, and celery.</p>
+    <p>Tomato ketchup is often used as a condiment with various dishes that are usually served hot, including french fries (chips), hamburgers, sandwiches, hot dogs, eggs, and grilled or fried meat. Ketchup is sometimes used as a basis or ingredient for other sauces and dressings. Mushroom ketchup is widely available in the UK.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Walking_Dead_(season_4)
+  title: The Walking Dead (season 4)
+  extract: |-
+    <p>The fourth season of AMC's television series <i>The Walking Dead</i> premiered on October 13, 2013 and consisted of 16 episodes. The series is based on the series of comic books of the same name by Robert Kirkman, Tony Moore, and Charlie Adlard; it was developed for television by Frank Darabont and is executive produced by Kirkman, David Alpert, Scott M. Gimple, Greg Nicotero, Tom Luse, and Gale Anne Hurd. Gimple assumed the role of showrunner after Glen Mazzara's departure at the conclusion of the previous season. The season introduces the notable comic characters Abraham Ford, Eugene Porter, Rosita Espinosa, Bob Stookey, and Lilly, as well as a modified version of the Chalmers family from <i>The Walking Dead: Rise of the Governor</i> tie-in novel.</p>
+    <p>The season continues the story of former sheriff's deputy Rick Grimes, who relinquished his leadership in order to live a quiet life in contrast to his cold-hearted nature in the previous season. Rick's fellow survivors struggle to maintain their idealistic lifestyle in the prison in the face of threats, including the proliferation of walkers near the prison gates, the outbreak of a contagious and deadly flu-like infection within the prison population, and the whereabouts of The Governor, who, unbeknownst to the prison community, has survived and is planning his revenge upon meeting a new family and rallying his new army. The second half of the season mainly focuses on the individual groups that escaped from the prison after its downfall, and their efforts to survive as they follow a line of railroad tracks to a supposed safe zone named Terminus.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Automobile
+  title: Automobile
+  extract: |-
+    <p>An <b>automobile</b>, <b>autocar</b>, <b>motor car</b> or <b>car</b> is a wheeled motor vehicle used for transporting passengers, which also carries its own engine or motor. Most definitions of the term specify that automobiles are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels, and to be constructed principally for the transport of people rather than goods.</p>
+    <p>The year 1886 is regarded the year of birth of the modern automobile - with the Benz Patent-Motorwagen, by German inventor Karl Benz. Motorized wagons soon replaced animal-drafted carriages, especially after automobiles became affordable for many people when the Ford Model T was introduced in 1908.</p>
+    <p>The term <i>motorcar</i> has formerly also been used in the context of electrified rail systems to denote a car which functions as a small locomotive but also provides space for passengers and baggage. These locomotive cars were often used on suburban routes by both interurban and intercity railroad systems.</p>
+    <p>It was estimated in 2010 that the number of automobiles had risen to over 1 billion vehicles, up from the 500 million of 1986. The numbers are increasing rapidly, especially in China, India and other NICs.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy
+  title: Climatic Research Unit email controversy
+  extract: |-
+    <p>The <b>Climatic Research Unit email controversy</b> (also known as <b>"Climategate"</b>) began in November 2009 with the hacking of a server at the Climatic Research Unit (CRU) at the University of East Anglia (UEA) by an external attacker. Several weeks before the Copenhagen Summit on climate change, an unknown individual or group breached CRU's server and copied thousands of emails and computer files to various locations on the Internet.</p>
+    <p>The story was first broken by climate change critics on their blogs, with columnist James Delingpole popularising the term "Climategate" to describe the controversy. Climate change critics and others denying the significance of human caused climate change argued that the emails showed that global warming was a scientific conspiracy, in which they alleged that scientists manipulated climate data and attempted to suppress critics. The accusations were rejected by the CRU, who said that the emails had been taken out of context and merely reflected an honest exchange of ideas.</p>
+    <p>The mainstream media picked up the story as negotiations over climate change mitigation began in Copenhagen on 7 December. Because of the timing, scientists, policy makers, and public relations experts said that the release of emails was a smear campaign intended to undermine the climate conference. In response to the controversy, the American Association for the Advancement of Science (AAAS), the American Meteorological Society (AMS) and the Union of Concerned Scientists (UCS) released statements supporting the scientific consensus that the Earth's mean surface temperature had been rising for decades, with the AAAS concluding "based on multiple lines of scientific evidence that global climate change caused by human activities is now underway...it is a growing threat to society."</p>
+    <p>Eight committees investigated the allegations and published reports, finding no evidence of fraud or scientific misconduct. However, the reports called on the scientists to avoid any such allegations in the future by taking steps to regain public confidence in their work, for example by opening up access to their supporting data, processing methods and software, and by promptly honouring freedom of information requests. The scientific consensus that global warming is occurring as a result of human activity remained unchanged throughout the investigations.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Kate_O&#39;Mara
+  title: Kate O&#39;Mara
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/List_of_The_Walking_Dead_episodes
+  title: List of The Walking Dead episodes
+  extract: |-
+    <p><i>The Walking Dead</i> is an American television series based on the comic book of the same name by Robert Kirkman, Tony Moore and Charlie Adlard, and developed for television by Frank Darabont. It premiered on the cable network AMC on October 31, 2010. The series focuses on Rick Grimes, a sheriff's deputy who slips into a coma after being shot. He awakens to find himself in a dangerous new world that has been overrun by "walkers". He joins a group of survivors (including his wife and son) as they try to survive in a world among the undead.</p>
+    <p>As of March 30, 2014<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, 51 episodes of <i>The Walking Dead</i> have aired, concluding the fourth season.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/automobile
+  title: automobile
+  extract: |-
+    <p>An <b>automobile</b>, <b>autocar</b>, <b>motor car</b> or <b>car</b> is a wheeled motor vehicle used for transporting passengers, which also carries its own engine or motor. Most definitions of the term specify that automobiles are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels, and to be constructed principally for the transport of people rather than goods.</p>
+    <p>The year 1886 is regarded the year of birth of the modern automobile - with the Benz Patent-Motorwagen, by German inventor Karl Benz. Motorized wagons soon replaced animal-drafted carriages, especially after automobiles became affordable for many people when the Ford Model T was introduced in 1908.</p>
+    <p>The term <i>motorcar</i> has formerly also been used in the context of electrified rail systems to denote a car which functions as a small locomotive but also provides space for passengers and baggage. These locomotive cars were often used on suburban routes by both interurban and intercity railroad systems.</p>
+    <p>It was estimated in 2010 that the number of automobiles had risen to over 1 billion vehicles, up from the 500 million of 1986. The numbers are increasing rapidly, especially in China, India and other NICs.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Noah_(film)
+  title: Noah (film)
+  extract: |-
+    <p><i><b>Noah</b></i> is a 2014 American epic biblical-inspired film directed by Darren Aronofsky, written by Aronofsky and Ari Handel, and loosely based on the story of Noah's Ark. The film stars Russell Crowe as Noah along with Jennifer Connelly, Ray Winstone, Emma Watson, Logan Lerman, Anthony Hopkins, and Douglas Booth. It was released in North American theaters on March 28, 2014 in 2-D and IMAX while several countries will also release a version of the film converted to 3-D and IMAX 3D.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/IPv6
+  title: IPv6
+  extract: |-
+    <p><b>Internet Protocol version 6</b> (<b>IPv6</b>) is the latest version of the Internet Protocol (IP), the communications protocol that provides an identification and location system for computers on networks and routes traffic across the Internet. IPv6 was developed by the Internet Engineering Task Force (IETF) to deal with the long-anticipated problem of IPv4 address exhaustion.</p>
+    <p>IPv6 is intended to replace IPv4, which still carries the vast majority of Internet traffic as of 2013. As of February 2014<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, the percentage of users reaching Google services over IPv6 surpassed 3% for the first time.</p>
+    <p>Every device on the Internet is assigned an IP address for identification and location definition. With the ever-increasing number of new devices being connected to the Internet, the need arose for more addresses than the IPv4 address space has available. IPv6 uses a 128-bit address, allowing 2<sup>128</sup>, or approximately 3.4×10<sup>38</sup> addresses, or more than 7.9×10<sup>28</sup> times as many as IPv4, which uses 32-bit addresses. IPv4 provides approximately 4.3 billion addresses. The two protocols are not designed to be interoperable, complementing each other.</p>
+    <p></p>
