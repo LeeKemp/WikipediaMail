@@ -1,0 +1,107 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Slander
+  title: Slander
+  extract: ''
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>; Javanese: ꦗꦮ) is an island of Indonesia. With a population roughly equal to Russia as of 2014, (excluding the 3.7 million on the island of Madura which is administered as part of the province of East Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 57 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, with Javanese being the dominant language; it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Kurt_Cobain
+  title: Kurt Cobain
+  extract: |-
+    <p><b>Kurt Donald Cobain</b> (February 20, 1967 – c. April 5, 1994) was an American musician and artist.</p>
+    <p>He was best known as the lead singer, guitarist, and primary songwriter of the grunge band Nirvana. Cobain formed Nirvana with Krist Novoselic in Aberdeen, Washington, in 1985 and established it as part of the Seattle music scene, having its debut album <i>Bleach</i> released on the independent record label Sub Pop in 1989.</p>
+    <p>After signing with major label DGC Records, the band found breakthrough success with "Smells Like Teen Spirit" from its second album <i>Nevermind</i> (1991). Following the success of <i>Nevermind</i>, Nirvana was labeled "the flagship band" of Generation X, and Cobain hailed as "the spokesman of a generation". Cobain, however, was often uncomfortable and frustrated, believing his message and artistic vision to have been misinterpreted by the public, with his personal issues often subject to media attention. He challenged Nirvana's audience with its final studio album <i>In Utero</i> (1993). It did not match the sales figures of <i>Nevermind</i> but was still a critical and commercial success.</p>
+    <p>During the last years of his life, Cobain struggled with heroin addiction, illness and depression. He also had difficulty coping with his fame and public image, and the professional and lifelong personal pressures surrounding himself and his wife, musician Courtney Love. On April 8, 1994, Cobain was found dead at his home in Seattle, the victim of what was officially ruled a suicide by a self-inflicted shotgun wound to the head. The circumstances of his death at age 27 have become a topic of public fascination and debate. Since their debut, Nirvana, with Cobain as a songwriter, has sold over 25 million albums in the US, and over 75 million worldwide.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Eclipse_of_Thales
+  title: Eclipse of Thales
+  extract: |-
+    <p>The Greek philosopher Thales of Miletus accurately predicted a solar eclipse in advance of the eclipse itself according to <i>The Histories</i> of Herodotus. If Herodotus's account is accurate, this eclipse is the earliest recorded as being known in advance of its occurrence. Most historians believe that the predicted eclipse was the solar eclipse of May 28, 585 BC. How exactly Thales predicted the eclipse remains uncertain; some historians claim the eclipse was never predicted at all. According to Herodotus, the appearance of the eclipse was interpreted as an omen, and interrupted a battle between the Medes and the Lydians. The fighting immediately stopped, and they agreed to a truce.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones
+  title: Game of Thrones
+  extract: |-
+    <p><i><b>Game of Thrones</b></i> is an American fantasy drama television series created for HBO by David Benioff and D. B. Weiss. It is an adaptation of <i>A Song of Ice and Fire</i>, George R. R. Martin's series of fantasy novels, the first of which is titled <i>A Game of Thrones</i>. Filmed in a Belfast studio and on location elsewhere in Northern Ireland, Malta, Scotland, Croatia, Iceland and Morocco, it premiered on HBO in the United States on April 17, 2011. The series was renewed for a fourth season, to debut in the United States on April 6, 2014.</p>
+    <p>The series, set on the fictional continents of Westeros and Essos at the end of a decade-long summer, interweaves several plot lines. The first follows the members of several noble houses in a civil war for the Iron Throne of the Seven Kingdoms; the second covers the rising threat of the impending winter and the mythical creatures of the North; the third chronicles the attempts of the exiled last scion of the realm's deposed dynasty to reclaim the throne. Through its morally ambiguous characters, the series explores the issues of social hierarchy, religion, loyalty, corruption, civil war, crime, and punishment. It is the most recent big-budget work to have contributed to the popularity of the fantasy genre in mainstream media.</p>
+    <p><i>Game of Thrones</i> has obtained an exceptionally broad and active international fan base. It received widespread acclaim by critics, although its use of nudity and violence has caused controversy. The series has won numerous awards and nominations, including a Primetime Emmy Award nomination for Outstanding Drama Series in all three seasons, a Golden Globe Award nomination for Best Television Series – Drama, a Hugo Award for Best Dramatic Presentation in Long Form, and a Peabody Award. Among the ensemble cast, Peter Dinklage won the Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series and the Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film for his role as Tyrion Lannister.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Automobile
+  title: Automobile
+  extract: |-
+    <p>An <b>automobile</b>, <b>autocar</b>, <b>motor car</b> or <b>car</b> is a wheeled motor vehicle used for transporting passengers, which also carries its own engine or motor. Most definitions of the term specify that automobiles are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels, and to be constructed principally for the transport of people rather than goods.</p>
+    <p>The year 1886 is regarded the year of birth of the modern automobile - with the Benz Patent-Motorwagen, by German inventor Karl Benz. Motorized wagons soon replaced animal-drafted carriages, especially after automobiles became affordable for many people when the Ford Model T was introduced in 1908.</p>
+    <p>The term <i>motorcar</i> has formerly also been used in the context of electrified rail systems to denote a car which functions as a small locomotive but also provides space for passengers and baggage. These locomotive cars were often used on suburban routes by both interurban and intercity railroad systems.</p>
+    <p>It was estimated in 2010 that the number of automobiles had risen to over 1 billion vehicles, up from the 500 million of 1986. The numbers are increasing rapidly, especially in China, India and other NICs.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Florida_Mitzvah_Disc_Jockey
+  title: Florida Mitzvah Disc Jockey
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy
+  title: Climatic Research Unit email controversy
+  extract: |-
+    <p>The <b>Climatic Research Unit email controversy</b> (also known as <b>"Climategate"</b>) began in November 2009 with the hacking of a server at the Climatic Research Unit (CRU) at the University of East Anglia (UEA) by an external attacker. Several weeks before the Copenhagen Summit on climate change, an unknown individual or group breached CRU's server and copied thousands of emails and computer files to various locations on the Internet.</p>
+    <p>The story was first broken by climate change critics on their blogs, with columnist James Delingpole popularising the term "Climategate" to describe the controversy. Climate change critics and others denying the significance of human caused climate change argued that the emails showed that global warming was a scientific conspiracy, in which they alleged that scientists manipulated climate data and attempted to suppress critics. The accusations were rejected by the CRU, who said that the emails had been taken out of context and merely reflected an honest exchange of ideas.</p>
+    <p>The mainstream media picked up the story as negotiations over climate change mitigation began in Copenhagen on 7 December. Because of the timing, scientists, policy makers, and public relations experts said that the release of emails was a smear campaign intended to undermine the climate conference. In response to the controversy, the American Association for the Advancement of Science (AAAS), the American Meteorological Society (AMS) and the Union of Concerned Scientists (UCS) released statements supporting the scientific consensus that the Earth's mean surface temperature had been rising for decades, with the AAAS concluding "based on multiple lines of scientific evidence that global climate change caused by human activities is now underway...it is a growing threat to society."</p>
+    <p>Eight committees investigated the allegations and published reports, finding no evidence of fraud or scientific misconduct. However, the reports called on the scientists to avoid any such allegations in the future by taking steps to regain public confidence in their work, for example by opening up access to their supporting data, processing methods and software, and by promptly honouring freedom of information requests. The scientific consensus that global warming is occurring as a result of human activity remained unchanged throughout the investigations.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Omagh_bombing
+  title: Omagh bombing
+  extract: |-
+    <p></p>
+    <p>The <b>Omagh bombing</b> (Irish: <i>Buamáil an Ómaigh</i>) was a car bomb attack carried out by the Real Irish Republican Army (RIRA), a splinter group of former Provisional Irish Republican Army members opposed to the Good Friday Agreement, on Saturday 15 August 1998, in Omagh, County Tyrone, Northern Ireland. Twenty-nine people died as a result of the attack and approximately 220 people were injured. The attack was described by the BBC as "Northern Ireland's worst single terrorist atrocity" and by the British Prime Minister, Tony Blair, as an "appalling act of savagery and evil".</p>
+    <p>The victims included people from many different backgrounds: Protestants, Catholics, a Mormon teenager, five other teenagers, six children, a woman pregnant with twins, two Spanish tourists, and other tourists on a day trip from the Republic of Ireland. The nature of the bombing created a strong international and local outcry against the RIRA, which later apologised, and spurred on the Northern Ireland peace process.</p>
+    <p>A retrospective report by the Police Ombudsman, Nuala O'Loan, in December 2001 concluded that people "were let down by defective leadership, poor judgement and a lack of urgency" in the Royal Ulster Constabulary (RUC)'s investigation into the bombing. The RUC has obtained circumstantial and coincidental evidence against some suspects, but it has not come up with anything to convict anyone of the bombing. Builder and publican Colm Murphy was tried, convicted, and then released after it was revealed that the Gardaí forged interview notes used in the case. Murphy's nephew Sean Hoey was also tried and found not guilty. Police Service of Northern Ireland Chief Constable Sir Hugh Orde said that he expects no further prosecutions. In June 2009, the families of all the killed victims won a £1.6 million civil action against four defendants.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones_(season_4)
+  title: Game of Thrones (season 4)
+  extract: |-
+    <p>The fourth season of the epic fantasy television series <i>Game of Thrones</i> is scheduled to premiere on April 6, 2014, on HBO. It is based on the second half of <i>A Storm of Swords</i>, the third of the <i>A Song of Ice and Fire</i> novels by George R. R. Martin, of which the series is an adaptation.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alive
+  title: Alive
+  extract: |
+    <p><b>Alive</b> may refer to:</p>
+    <ul><li>Life</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/WrestleMania_XXX
+  title: WrestleMania XXX
+  extract: |-
+    <p><b>WrestleMania XXX</b> (also known as <b>WrestleMania 30</b>) will be the thirtieth annual WrestleMania professional wrestling pay-per-view (PPV) event produced by WWE, to be held on April 6, 2014, at the Mercedes-Benz Superdome in New Orleans, Louisiana.</p>
+    <p>It will be the first WWE event simultaneously broadcast live on pay-per-view television and WWE's new streaming media service, the WWE Network.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Anna_Kendrick
+  title: Anna Kendrick
+  extract: |-
+    <p><b>Anna Kendrick</b> (born August 9, 1985) is an American actress and singer. She rose to international fame after her performance as Natalie Keener in <i>Up in the Air</i> (2009), for which she received Academy Award, BAFTA, Golden Globe, and Screen Actors Guild Award nominations for Best Supporting Actress. She played Dinah Lord in the Broadway musical <i>High Society</i> (1998), for which she was nominated for a Tony Award. Her other notable roles include Fritzi Wagner in <i>Camp</i> (2003), Jessica Stanley in <i>The Twilight Saga</i> (2008–11), Stacey Pilgrim in <i>Scott Pilgrim vs. the World</i> (2010), Beca Mitchell in <i>Pitch Perfect</i> (2012), and Janet in <i>End of Watch</i> (2012).</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Frozen_(2013_film)
+  title: Frozen (2013 film)
+  extract: |-
+    <p><i><b>Frozen</b></i> is a 2013 American 3D computer-animated musical fantasy-comedy film produced by Walt Disney Animation Studios and released by Walt Disney Pictures. It is the 53rd animated feature in the Walt Disney Animated Classics series. Inspired by Hans Christian Andersen's fairy tale <i>The Snow Queen</i>, and featuring the voices of Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, and Santino Fontana, the film tells the story of a fearless princess who sets off on an epic journey alongside a rugged, thrill-seeking mountain man, his loyal pet reindeer, and a hapless snowman to find her estranged sister, whose icy powers have inadvertently trapped the kingdom in eternal winter.</p>
+    <p>The film underwent several story treatments for several years, before being commissioned in 2011, with a screenplay written by Jennifer Lee, and both Chris Buck and Lee serving as directors. Christophe Beck, who had worked on Disney's award-winning short <i>Paperman</i>, was hired to compose the film's orchestral score, while husband-and-wife songwriting team Robert Lopez and Kristen Anderson-Lopez penned the songs.</p>
+    <p><i>Frozen</i> premiered at the El Capitan Theatre on November 19, 2013, and went into general release on November 27. Not accounting for inflation, the film is the highest-grossing animated film of all time and the ninth highest-grossing film of all time, having so far grossed $1.09 billion in worldwide box office revenue, $398 million of which in the United States and Canada. It was met with widespread critical acclaim, and several film critics considered it to be the best Disney animated musical since the studio's renaissance era. The film won two Academy Awards for Best Animated Feature and Best Original Song ("Let It Go"), the Golden Globe Award for Best Animated Feature Film, the BAFTA Award for Best Animated Film, five Annie Awards (including Best Animated Feature), and two Critics' Choice Awards for Best Animated Feature and Best Original Song ("Let It Go").</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes
+  title: List of Game of Thrones episodes
+  extract: |-
+    <p><i>Game of Thrones</i> is a medieval fantasy television series created by David Benioff and D. B. Weiss which premiered on HBO on April 17, 2011. The series is based on the <i>A Song of Ice and Fire</i> novels by author George R. R. Martin. The series takes place on the fictional continents of Westeros and Essos and chronicles the power struggles among the noble families as they fight for control of the Iron Throne of the Seven Kingdoms.</p>
+    <p>As of June 9, 2013<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, 30 episodes of <i>Game of Thrones</i> have aired, concluding the third season.</p>
