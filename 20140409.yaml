@@ -1,0 +1,116 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Malware
+  title: Malware
+  extract: |-
+    <p><b>Malware</b>, short for <b>malicious software</b>, is software used to disrupt computer operation, gather sensitive information, or gain access to private computer systems. It can appear in the form of code, scripts, active content, and other software. 'Malware' is a general term used to refer to a variety of forms of hostile or intrusive software.</p>
+    <p>Malware includes computer viruses, ransomware, worms, trojan horses, rootkits, keyloggers, dialers, spyware, adware, malicious BHOs, rogue security software, and other malicious programs; the majority of active malware threats are usually worms or trojans rather than viruses. In law, malware is sometimes known as a <b>computer contaminant</b>, as in the legal codes of several U.S. states. Malware is different from defective software, which is a legitimate software but contains harmful bugs that were not corrected before release. However, some malware is disguised as genuine software, and may come from an official company website in the form of a useful or attractive program which has the harmful malware embedded in it along with additional tracking software that gathers marketing statistics.</p>
+    <p>Software such as anti-virus, anti-malware, and firewalls are relied upon by users at home, small and large organizations around the globe to safeguard against malware attacks which helps in identifying and preventing the further spread of malware in the network.</p>
+    <p>As of 2012<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup> approximately 60 to 70 percent of all active malware used some kind of click fraud to monetize their activity.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Barber%27s_pole
+  title: Barber's pole
+  extract: |-
+    <p>A <b>barber's pole</b> is a type of sign used by barbers to signify the place or shop where they perform their craft. The trade sign is, by a tradition dating back to the Middle Ages, a staff or pole with a helix of colored stripes (often red and white in many countries, but usually red, white, and blue in the United States). The pole may be stationary or may revolve, often with the aid of an electric motor.</p>
+    <p>A "barber's pole" with a helical stripe is a familiar sight, and is used as a secondary metaphor to describe objects in many other contexts. For example, if the shaft or tower of a lighthouse has been painted with a helical stripe as a daymark, the lighthouse could be described as having been painted in "barber's pole" colors.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Ultimate_Warrior
+  title: The Ultimate Warrior
+  extract: |-
+    <p><b>Warrior</b> (born <b>James Brian Hellwig</b>; June 16, 1959 – April 8, 2014), was an American professional wrestler, who most famously wrestled under the ring name <b>The Ultimate Warrior</b>. He was best known for his appearances in the World Wrestling Federation (now WWE) from 1987 to 1991 and again in 1992 and 1996, and in World Championship Wrestling (WCW) in 1998.</p>
+    <p>He was a 2-time WWF Intercontinental Champion and won the WWF Championship when he pinned Hulk Hogan in the main event of WrestleMania VI making him the only wrestler in the history of the company to hold both the WWF Championship and the Intercontinental Championship at the same time. Hellwig legally changed his name to Warrior in 1993 which is also the last name of his wife and children. Warrior retired from professional wrestling in 1999 and embarked on a public speaking career.</p>
+    <p>Warrior died on April 8, 2014 at the age of 54, three days after being inducted into the WWE Hall of Fame and one day after reappearing on <i>Monday Night Raw</i>. He was described by WWE as having been "the ultimate archetype of strength and intensity", and "one of the most intense and physically impressive competitors to ever appear in the WWE".</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Macintosh
+  title: Macintosh
+  extract: |-
+    <p>The <b>Macintosh</b> (/ˈmækɨntɒʃ/ <i><b>MAK</b>-in-tosh</i>), marketed as <b>Mac</b>, is a line of personal computers (PCs) designed, developed, and marketed by Apple Inc. It was initially targeted mainly at the home, education, and creative professional markets. Since the introduction of the Macintosh, the computer has seen significant evolution now making it one of the most powerful general purpose computers on the market. It now targets the business, science, and law markets as well.</p>
+    <p>Steve Jobs introduced the Macintosh 128K on January 24, 1984. This was the first mass-market personal computer featuring a graphical user interface and mouse. The 128 was followed by numerous updated models also based on the Motorola 68000 family processors, producing a family of products in the Macintosh lineup. Although the aggressively priced IBM Personal Computer soon overtook Apple in sales, Macintosh systems found success in education and desktop publishing and kept Apple as the second-largest PC manufacturer until 1994 when it was overtaken by Compaq.</p>
+    <p>In the 1990s, improvements in the rival Wintel platform, notably with the introduction of Windows 3.0, gradually took market share from the more expensive Macintosh systems. The performance advantage of 68000-based Macintosh systems was eroded by Intel's Pentium. Despite a transition to the PowerPC-based Power Macintosh line in 1994, the falling prices of PC components and the release of Windows 95 saw the Macintosh user base decline. In 1998, Apple consolidated its multiple consumer-level desktop models into the all-in-one iMac G3, which became a commercial success and revitalized the brand. Since their transition to Intel processors in 2006, the complete lineup is entirely based on said processors and associated systems. Its current lineup comprises three desktops (the all-in-one iMac, entry-level Mac mini, and the Mac Pro tower graphics workstation), and three laptops (the MacBook Air, MacBook Pro, and MacBook Pro With Retina). Its Xserve server was discontinued in 2011 in favor of the Mac Mini and Mac Pro.</p>
+    <p>Production of the Mac is based on a vertical integration model. Apple facilitates all aspects of its hardware and creates its own operating system that is pre-installed on all Mac computers, unlike most IBM PC compatibles, where multiple sellers create and integrate hardware intended to run another company's operating software. Apple exclusively produces Mac hardware, choosing internal systems, designs, and prices. Apple also develops the operating system for the Mac, currently OS X version 10.9 "Mavericks". Macs are currently capable of running non-Apple operating systems such as Linux, OpenBSD, and Microsoft Windows with the aid of Boot Camp or third-party software. Apple does not license OS X for use on non-Apple computers, though it did license previous versions of Mac OS through their Macintosh clone program from 1995 to 1997.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Peaches_Geldof
+  title: Peaches Geldof
+  extract: |-
+    <p><b>Peaches Honeyblossom Geldof</b> (13 March 1989 – 7 April 2014) was an English journalist, television presenter and model.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>; Javanese: ꦗꦮ) is an island of Indonesia. With a population roughly equal to Russia as of 2014, (excluding the 3.7 million on the island of Madura which is administered as part of the province of East Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 57 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, with Javanese being the dominant language; it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/main_page
+  title: main page
+  extract: |-
+    <ul><li>This is a redirect from a title with <b>another method of capitalisation</b>. It leads to the title in accordance with the Wikipedia naming conventions for capitalisation, or it leads to a title that is associated in some way with the conventional capitalisation of this redirect title. This may help writing, searching, and international language issues.
+    <ul><li>Use this rcat to tag mainspace redirects; when other capitalisations are in different namespaces, use {{R from modification}} instead. For more information, follow the category link.</li>
+    </ul></li>
+    <li><b>From an unprintworthy page title</b>: This is a redirect from a title that would not be helpful in a printed version of <i>Wikipedia</i>. For more information follow the category link.</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones
+  title: Game of Thrones
+  extract: |-
+    <p><i><b>Game of Thrones</b></i> is an American fantasy drama television series created for HBO by David Benioff and D. B. Weiss. It is an adaptation of <i>A Song of Ice and Fire</i>, George R. R. Martin's series of fantasy novels, the first of which is titled <i>A Game of Thrones</i>. Filmed in a Belfast studio and on location elsewhere in Northern Ireland, Malta, Scotland, Croatia, Iceland and Morocco, it premiered on HBO in the United States on April 17, 2011. Two days after the fourth season premiered in April 2014, HBO renewed <i>Game of Thrones</i> for a fifth and sixth season.</p>
+    <p>The series, set on the fictional continents of Westeros and Essos at the end of a decade-long summer, interweaves several plot lines. The first follows the members of several noble houses in a civil war for the Iron Throne of the Seven Kingdoms; the second covers the rising threat of the impending winter and the mythical creatures of the North; the third chronicles the attempts of the exiled last scion of the realm's deposed dynasty to reclaim the throne. Through its morally ambiguous characters, the series explores the issues of social hierarchy, religion, loyalty, corruption, civil war, crime, and punishment. It is the most recent big-budget work to have contributed to the popularity of the fantasy genre in mainstream media.</p>
+    <p><i>Game of Thrones</i> has obtained an exceptionally broad and active international fan base. It received widespread acclaim by critics, although its use of nudity and violence has caused controversy. The series has won numerous awards and nominations, including a Primetime Emmy Award nomination for Outstanding Drama Series in all three seasons, a Golden Globe Award nomination for Best Television Series – Drama, a Hugo Award for Best Dramatic Presentation in Long Form, and a Peabody Award. Among the ensemble cast, Peter Dinklage won the Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series and the Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film for his role as Tyrion Lannister.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Bob_Geldof
+  title: Bob Geldof
+  extract: |-
+    <p><b>Robert Frederick Zenon "Bob" Geldof</b>, KBE (born 5 October 1951) is an Irish singer-songwriter, author, occasional actor and political activist. He rose to prominence as the lead singer of the Irish rock band the Boomtown Rats in the late 1970s and early 1980s alongside the punk rock movement. The band had hits with his compositions "Rat Trap" and "I Don't Like Mondays". He co-wrote "Do They Know It's Christmas?", one of the best-selling singles of all time, and starred in Pink Floyd's 1982 film <i>Pink Floyd – The Wall</i> as "Pink".</p>
+    <p>Geldof is widely recognised for his activism, especially anti-poverty efforts concerning Africa. In 1984 he and Midge Ure founded the charity supergroup Band Aid to raise money for famine relief in Ethiopia. They went on to organise the charity super-concert Live Aid the following year and the Live 8 concerts in 2005. Geldof currently serves as an adviser to the ONE Campaign, founded by fellow Irishman Bono. A single father, Geldof has also been outspoken for the fathers' rights movement.</p>
+    <p>Geldof has been nominated for the Nobel Peace Prize, was granted an honorary knighthood by Queen Elizabeth II, and is a recipient of the Man of Peace title which recognises individuals who have made "an outstanding contribution to international social justice and peace", among numerous other awards and nominations.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Amoxicillin
+  title: Amoxicillin
+  extract: |-
+    <p><b>Amoxicillin</b> (INN, BAN), or <b>amoxycillin</b> (AAN), and abbreviated <b>amox</b>, is a moderate-spectrum, bacteriolytic, β-lactam antibiotic in the aminopenicillin family used to treat bacterial infections caused by susceptible Gram-positive and Gram-negative microorganisms. It is usually the drug of choice within the class because it is better-absorbed, following oral administration, than other β-lactam antibiotics. Amoxicillin is one of the most common antibiotics prescribed for children. The drug first became available in 1972.</p>
+    <p>Amoxicillin is susceptible to degradation by β-lactamase-producing bacteria, which are resistant to a narrow spectrum of β-lactam antibiotics, such as penicillin. For this reason, it is often combined with clavulanic acid, a β-lactamase inhibitor. This increases effectiveness by reducing its susceptibility to β-lactamase resistance.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Paula_Yates
+  title: Paula Yates
+  extract: |
+    <p><b>Paula Elizabeth Yates</b> (24 April 1959 – 17 September 2000) was a British television presenter and writer, best known for her work on two television programmes, <i>The Tube</i> and <i>The Big Breakfast</i>.</p>
+    <p></p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Mickey_Rooney
+  title: Mickey Rooney
+  extract: |-
+    <p><b>Mickey Rooney</b> (born <b>Joseph Yule, Jr.</b>; September 23, 1920 – April 6, 2014) was an American film actor and entertainer whose film, television, and stage appearances spanned almost his entire lifetime. Rooney had one of the longest careers in cinematic history; he first appeared on film in 1927 and made his last appearance in 2014.</p>
+    <p>He received multiple awards, including a Juvenile Academy Award, an Honorary Academy Award, two Golden Globes and an Emmy Award. Working as a performer since he was a child, he was a superstar as a teenager for the films in which he played Andy Hardy. His career spanned 87 years, actively making films in ten decades, from the 1920s to the 2010s. For a younger generation of fans, he gained international fame for his leading role as Henry Dailey in The Family Channel's <i>The Adventures of the Black Stallion</i>.</p>
+    <p>Until his death in April 2014, Rooney was one of the last surviving stars who worked in the silent film era.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Florida_Mitzvah_Disc_Jockey
+  title: Florida Mitzvah Disc Jockey
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Dave_Clark_Five
+  title: The Dave Clark Five
+  extract: |-
+    <p><b>The Dave Clark Five</b> (also known as "The DC5") were an English pop rock group. Their single "Glad All Over" knocked the Beatles' "I Want to Hold Your Hand" off the top of the UK singles charts in January 1964: it peaked at number 6 in the United States in April 1964.</p>
+    <p>They were the second group of the British Invasion on <i>The Ed Sullivan Show</i>, appearing in March for two weeks after the Beatles appeared three straight weeks in February 1964. For some time the Dave Clark Five were more popular in the US than in their native UK, but had a renaissance in the UK between 1967 and 1970. The group disbanded in late 1970. On 10 March 2008, the band was inducted into the Rock and Roll Hall of Fame.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy
+  title: Climatic Research Unit email controversy
+  extract: |-
+    <p>The <b>Climatic Research Unit email controversy</b> (also known as <b>"Climategate"</b>) began in November 2009 with the hacking of a server at the Climatic Research Unit (CRU) at the University of East Anglia (UEA) by an external attacker. Several weeks before the Copenhagen Summit on climate change, an unknown individual or group breached CRU's server and copied thousands of emails and computer files to various locations on the Internet.</p>
+    <p>The story was first broken by climate change critics on their blogs, with columnist James Delingpole popularising the term "Climategate" to describe the controversy. Climate change critics and others denying the significance of human caused climate change argued that the emails showed that global warming was a scientific conspiracy, in which they alleged that scientists manipulated climate data and attempted to suppress critics. The accusations were rejected by the CRU, who said that the emails had been taken out of context and merely reflected an honest exchange of ideas.</p>
+    <p>The mainstream media picked up the story as negotiations over climate change mitigation began in Copenhagen on 7 December. Because of the timing, scientists, policy makers, and public relations experts said that the release of emails was a smear campaign intended to undermine the climate conference. In response to the controversy, the American Association for the Advancement of Science (AAAS), the American Meteorological Society (AMS) and the Union of Concerned Scientists (UCS) released statements supporting the scientific consensus that the Earth's mean surface temperature had been rising for decades, with the AAAS concluding "based on multiple lines of scientific evidence that global climate change caused by human activities is now underway...it is a growing threat to society."</p>
+    <p>Eight committees investigated the allegations and published reports, finding no evidence of fraud or scientific misconduct. However, the reports called on the scientists to avoid any such allegations in the future by taking steps to regain public confidence in their work, for example by opening up access to their supporting data, processing methods and software, and by promptly honouring freedom of information requests. The scientific consensus that global warming is occurring as a result of human activity remained unchanged throughout the investigations.</p>
+    <p></p>
