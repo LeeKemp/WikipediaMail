@@ -1,0 +1,110 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Lexus_LFA
+  title: Lexus LFA
+  extract: |-
+    <p>The <b>Lexus LFA</b> is a two-seat supercar from Lexus. It is the second model in the F marque line of performance vehicles from Lexus, following the IS F. Three concept versions have been shown, each debuting at the North American International Auto Show with the LF-A designation as part of the LF Series concept line. After beginning development in the early 2000s (codenamed P280), the first LF-A concept premiered in 2005, followed in 2007 by a second LF-A with a more completely furnished interior and exterior. The third version of the LF-A, a roadster model, premiered in 2008. The production model, trademarked LFA, was shown at the Tokyo Motor Show in October 2009.</p>
+    <p>The production Lexus LFA features a new V10 engine and a carbon fiber-reinforced polymer (CFRP) body. CFRP materials account for 65 percent of the LFA's body composition by mass. The LFA went into production in late 2010, with a base price of US$375,000. A circuit-tuned variant debuted in 2012 with a base price of US$445,000, making it one of the most expensive Japanese road cars ever built. Production ended in December 2012 with 500 vehicles completed, the final version being a Nürburgring Package model.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Marcin_Ignaczak
+  title: Marcin Ignaczak
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Off-the-Record_Messaging
+  title: Off-the-Record Messaging
+  extract: |-
+    <p><b>Off-the-Record Messaging</b>, commonly referred to as <b>OTR</b>, is a cryptographic protocol that provides strong encryption for instant messaging conversations. OTR uses a combination of the AES symmetric-key algorithm, the Diffie–Hellman key exchange, and the SHA-1 hash function. In addition to authentication and encryption, OTR provides perfect forward secrecy and malleable encryption.</p>
+    <p>The primary motivation behind the protocol was providing deniability for the conversation participants while keeping conversations confidential, like a private conversation in real life, or off the record in journalism sourcing. This is in contrast with other cryptography tools that produce output which can be later used as a verifiable record of the communication event and the identities of the participants. In most cases, people using such cryptography software are not aware of this and might be better served by OTR tools instead.<sup class="Template-Fact" style="white-space:nowrap;">[<i>citation needed</i>]</sup> The initial introductory paper was named "<i>Off-the-Record Communication, or, Why Not To Use PGP</i>".</p>
+    <p>The OTR protocol was designed by cryptographers Ian Goldberg and Nikita Borisov. They provide a client library to facilitate support for instant messaging client developers who want to implement the protocol. A Pidgin and Kopete plugin exists that allows OTR to be used over any IM protocol supported by Pidgin or Kopete, offering an auto-detection feature that starts the OTR session with the buddies that have it enabled, without interfering with regular, unencrypted conversations.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Solomon_curve
+  title: Solomon curve
+  extract: |
+    <p>The <b>Solomon curve</b> is the graphical representation of collision rate of automobiles as a function of their speed compared to the average vehicle speed on the same road. The curve based on research conducted by David Solomon in the late 1950s and published in 1964.</p>
+    <p></p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>; Javanese: ꦗꦮ) is an island of Indonesia. With a population roughly equal to Russia as of 2014, (excluding the 3.7 million on the island of Madura which is administered as part of the province of East Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 57 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, with Javanese being the dominant language; it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Google_driverless_car
+  title: Google driverless car
+  extract: |-
+    <p>The <b>Google driverless car</b> is a project by Google that involves developing technology for autonomous cars. The software powering Google's cars is called Google Chauffeur. Lettering on the side of each car identifies it as a "self-driving car". The project is currently being led by Google engineer Sebastian Thrun, former director of the Stanford Artificial Intelligence Laboratory and co-inventor of Google Street View. Thrun's team at Stanford created the robotic vehicle Stanley which won the 2005 DARPA Grand Challenge and its US$2 million prize from the United States Department of Defense. The team developing the system consisted of 15 engineers working for Google, including Chris Urmson, Mike Montemerlo, and Anthony Levandowski who had worked on the DARPA Grand and Urban Challenges.</p>
+    <p>The U.S. state of Nevada passed a law on June 29, 2011, permitting the operation of autonomous cars in Nevada. Google had been lobbying for robotic car laws. The Nevada law went into effect on March 1, 2012, and the Nevada Department of Motor Vehicles issued the first license for an autonomous car in May 2012. The license was issued to a Toyota Prius modified with Google's experimental driverless technology. In April 2012, Florida became the second state to allow the testing of autonomous cars on public roads. California became the third state to legalize the use of self-driven cars for testing purposes as of September 2012<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup> when Governor Jerry Brown signed the bill into law at Google HQ in Mountain View. Governor Rick Snyder signed legislation allowing the testing of automated or self-driving vehicles on Michigan’s roads in December 2013, but requires a human in the driver seat at all times while the vehicle is in use.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones
+  title: Game of Thrones
+  extract: |-
+    <p><i><b>Game of Thrones</b></i> is an American fantasy drama television series created for HBO by David Benioff and D. B. Weiss. It is an adaptation of <i>A Song of Ice and Fire</i>, George R. R. Martin's series of fantasy novels, the first of which is titled <i>A Game of Thrones</i>. Filmed in a Belfast studio and on location elsewhere in Northern Ireland, Malta, Scotland, Croatia, Iceland and Morocco, it premiered on HBO in the United States on April 17, 2011. Two days after the fourth season premiered in April 2014, HBO renewed <i>Game of Thrones</i> for a fifth and sixth season.</p>
+    <p>The series, set on the fictional continents of Westeros and Essos at the end of a decade-long summer, interweaves several plot lines. The first follows the members of several noble houses in a civil war for the Iron Throne of the Seven Kingdoms; the second covers the rising threat of the impending winter and the mythical creatures of the North; the third chronicles the attempts of the exiled last scion of the realm's deposed dynasty to reclaim the throne. Through its morally ambiguous characters, the series explores the issues of social hierarchy, religion, loyalty, corruption, civil war, crime, and punishment. It is the most recent big-budget work to have contributed to the popularity of the fantasy genre in mainstream media.</p>
+    <p><i>Game of Thrones</i> has obtained an exceptionally broad and active international fan base. It received widespread acclaim by critics, although its use of nudity and violence has caused controversy. The series has won numerous awards and nominations, including a Primetime Emmy Award nomination for Outstanding Drama Series in all three seasons, a Golden Globe Award nomination for Best Television Series – Drama, a Hugo Award for Best Dramatic Presentation in Long Form, and a Peabody Award. Among the ensemble cast, Peter Dinklage won the Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series and the Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film for his role as Tyrion Lannister.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Maundy_Thursday
+  title: Maundy Thursday
+  extract: |-
+    <p><b>Maundy Thursday</b> (also known as <b>Holy Thursday</b>, <b>Covenant Thursday</b>, <b>Great and Holy Thursday</b>, <b>Sheer Thursday</b> and <b>Thursday of Mysteries</b>) is the Christian feast, or holy day, falling on the Thursday before Easter. It commemorates the Maundy and Last Supper of Jesus Christ with the Apostles as described in the Canonical gospels. It is the fifth day of Holy Week, and is preceded by Holy Wednesday and followed by Good Friday.</p>
+    <p>The date is always between 19 March and 22 April inclusive, but these dates fall on different days depending on whether the Gregorian or Julian calendar is used liturgically. Eastern churches generally use the Julian calendar, and so celebrate this feast throughout the 21st century between 1 April and 5 May in the more commonly used Gregorian calendar. The liturgy held on the evening of Maundy Thursday initiates the Easter Triduum, the period which commemorates the passion, death, and resurrection of Christ; this period includes Good Friday, Holy Saturday, and ends on the evening of Easter. The Mass or service of worship is normally celebrated in the evening, when Friday begins according to Jewish tradition, as the Last Supper was held on feast of Passover.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Easter
+  title: Easter
+  extract: |-
+    <p><b>Easter</b> (Old English <i>Ēostre</i>; Latin: <i>Pascha</i>; Greek Πάσχα <i>Paskha</i>, the latter two derived from Hebrew: פֶּסַח‎ <i>Pesaḥ</i>) is a festival and holiday, now celebrated both by Christians and non-Christians, that was instituted to celebrate the resurrection of Jesus Christ on the third day after his crucifixion at Calvary as described in the New Testament. Easter is the culmination of the Passion of Christ, preceded by Lent, a forty-day period of fasting, prayer, and penance.</p>
+    <p>The last week of Lent is called Holy Week, and it contains the days of the Easter Triduum, including Maundy Thursday (also known as Holy Thursday), commemorating the Last Supper and its preceding foot washing, as well as Good Friday, commemorating the crucifixion and death of Jesus. Easter is followed by a fifty-day period called Eastertide, or the Easter Season, ending with Pentecost Sunday.</p>
+    <p>Easter is a moveable feast, meaning it is not fixed in relation to the civil calendar. The First Council of Nicaea (325) established the date of Easter as the first Sunday after the full moon (the Paschal Full Moon) following the March equinox. Ecclesiastically, the equinox is reckoned to be on 21 March (although the astronomical equinox occurs on 20 March in most years), and the "Full Moon" is not necessarily on the astronomically correct date. The date of Easter therefore varies from 22 March to 25 April inclusive. Eastern Christianity bases its calculations on the Julian calendar, whose 21 March corresponds, during the 21st century, to 3 April in the Gregorian calendar, and in which therefore the celebration of Easter varies between 4 April and 8 May.</p>
+    <p>Easter is linked to the Jewish Passover by much of its symbolism, as well as by its position in the calendar. In many languages, the words for "Easter" and "Passover" are identical or very similar. Easter customs vary across the Christian world, and include sunrise services, exclaiming the Paschal greeting, clipping the church and decorating Easter eggs, a symbol of the empty tomb. Additional customs that have become associated with Easter and are observed by both Christians and some non-Christians include egg hunting, the Easter Bunny, and Easter parades. There are also various traditional Easter foods that vary regionally.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/LimeWire
+  title: LimeWire
+  extract: |-
+    <p><b>LimeWire</b> was a free peer-to-peer file sharing (P2P) client program that ran on Windows, Mac OS X, Linux, and other operating systems supported by the Java software platform. LimeWire used the gnutella network as well as the BitTorrent protocol. A freeware version and a purchasable "enhanced" version are available. BitTorrent support is provided by libtorrent.</p>
+    <p>On October 26, 2010, U.S. federal court judge Kimba Wood issued an injunction forcing LimeWire to prevent "the searching, downloading, uploading, file trading and/or file distribution functionality, and/or all functionality" of its software in Arista Records LLC v. Lime Group LLC. A trial investigating the damages necessary to compensate the affected record labels was scheduled to begin in January 2011. As a result of the injunction, LimeWire 5.5.11 and newer have been disabled using a backdoor installed by the company. However, version 5.5.10 and all prior versions of LimeWire remain fully functional and cannot be disabled unless a user upgrades to one of the newer versions. The program has been "resurrected" by the creators of LimeWire Pirate Edition.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/April_16
+  title: April 16
+  extract: |
+    <p><b>April 16</b> is the 106th day of the year (107th in leap years) in the Gregorian calendar. There are 259 days remaining until the end of the year.</p>
+    <p></p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Fargo_(TV_series)
+  title: Fargo (TV series)
+  extract: |-
+    <p><i><b>Fargo</b></i> is an American television anthology dark comedy-crime drama series created by Noah Hawley based on the 1996 film of the same name written and directed by the Coen brothers. The series premiered on April 15, 2014, on FX.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Florida_Mitzvah_Disc_Jockey
+  title: Florida Mitzvah Disc Jockey
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/El_Castillo%2C_Chichen_Itza
+  title: El Castillo, Chichen Itza
+  extract: |-
+    <p><b>El Castillo</b> (Spanish for "the castle"), also known as the <b>Temple of Kukulkan</b>, is a Mesoamerican step-pyramid that dominates the center of the Chichen Itza archaeological site in the Mexican state of Yucatán. The building is more formally designated by archaeologists as Chichen Itza <b>Structure 5B18</b>.</p>
+    <p>Built by the pre-Columbian Maya civilization sometime between the 9th and 12th centuries CE, El Castillo served as a temple to the god Kukulkan, the Yucatec Maya Feathered Serpent deity closely related to the god Quetzalcoatl known to the Aztecs and other central Mexican cultures of the Postclassic period.</p>
+    <p>The pyramid consists of a series of square terraces with stairways up each of the four sides to the temple on top. Sculptures of plumed serpents run down the sides of the northern balustrade. During the spring and autumn equinoxes, the late afternoon sun strikes off the northwest corner of the pyramid and casts a series of triangular shadows against the northwest balustrade, creating the illusion of a feathered serpent "crawling" down the pyramid. Each of the pyramid's four sides has 91 steps which, when added together and including the temple platform on top as the final "step", produces a total of 365 steps (which is equal to the number of days of the <i>Haab'</i> year).</p>
+    <p>The structure is 24 m high, plus an additional 6 m for the temple. The square base measures 55.3 m across.</p>
+    <p>The Mexican government restored the pyramid in the 1920s and 1930s, concurrent with the Carnegie Institution’s restoration of the Temple of Warriors. Archaeologists were able to reconstruct two sides of the pyramid in their entirety.</p>
+    <p>It was not uncommon for Mesoamerican pyramids to be successively built over the core and foundations of earlier structures, and this is one example. In the mid-1930s, the Mexican government sponsored an excavation into El Castillo. After several false starts, they discovered a staircase under the north side of the pyramid. By digging from the top, they found another temple buried below the current one. Inside the temple chamber is a Chac Mool statue and a throne in the shape of jaguar, painted red with spots made of inlaid jade. The Mexican government excavated a tunnel from the base of the north staircase, up the earlier pyramid’s stairway to the hidden temple.</p>
+    <p>In recent years, the National Institute of Anthropology and History (INAH), which manages the archaeological site of Chichen Itza, has been closing monuments to public access. While visitors can walk around them, they can no longer climb them or go inside their chambers. Climbing El Castillo was stopped in 2006. At the same time INAH closed the public access to the interior throne room.</p>
+    <p>Today "El Castillo" is one of the most recognized and widely visited pre-Columbian structures in present-day Mexico.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2
+  title: The Amazing Spider-Man 2
+  extract: |-
+    <p><i><b>The Amazing Spider-Man 2</b></i> (released as <i><b>The Amazing Spider-Man 2: Rise of Electro</b></i> in some markets) is a 2014 American superhero film featuring the Marvel Comics character Spider-Man, directed by Marc Webb and released by Columbia Pictures. It serves as a sequel to the 2012 film <i>The Amazing Spider-Man</i> and was announced in 2011. The studio hired James Vanderbilt to write the screenplay and Alex Kurtzman and Roberto Orci to re-write it. Andrew Garfield, Emma Stone, Jamie Foxx, Dane DeHaan, Campbell Scott, Embeth Davidtz, Colm Feore, Paul Giamatti and Sally Field are set to star.</p>
+    <p>Development of <i>The Amazing Spider-Man 2</i> began after the success of <i>The Amazing Spider-Man</i>. DeHaan, Giamatti, Jones, and Cooper were cast between December 2012 and February 2013. Filming took place in New York from February to June 2013. The film is scheduled to be released in 2D, 3D, and IMAX 3D on May 2, 2014 in the United States.</p>
+    <p></p>
