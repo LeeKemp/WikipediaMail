@@ -1,0 +1,122 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Off-the-Record_Messaging
+  title: Off-the-Record Messaging
+  extract: |-
+    <p><b>Off-the-Record Messaging</b>, commonly referred to as <b>OTR</b>, is a cryptographic protocol that provides strong encryption for instant messaging conversations. OTR uses a combination of the AES symmetric-key algorithm, the Diffie–Hellman key exchange, and the SHA-1 hash function. In addition to authentication and encryption, OTR provides perfect forward secrecy and malleable encryption.</p>
+    <p>The primary motivation behind the protocol was providing deniability for the conversation participants while keeping conversations confidential, like a private conversation in real life, or off the record in journalism sourcing. This is in contrast with other cryptography tools that produce output which can be later used as a verifiable record of the communication event and the identities of the participants. In most cases, people using such cryptography software are not aware of this and might be better served by OTR tools instead.<sup class="Template-Fact" style="white-space:nowrap;">[<i>citation needed</i>]</sup> The initial introductory paper was named "<i>Off-the-Record Communication, or, Why Not To Use PGP</i>".</p>
+    <p>The OTR protocol was designed by cryptographers Ian Goldberg and Nikita Borisov. They provide a client library to facilitate support for instant messaging client developers who want to implement the protocol. A Pidgin and Kopete plugin exists that allows OTR to be used over any IM protocol supported by Pidgin or Kopete, offering an auto-detection feature that starts the OTR session with the buddies that have it enabled, without interfering with regular, unencrypted conversations.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Good_Friday
+  title: Good Friday
+  extract: |-
+    <p><b>Good Friday</b> is a religious holiday observed primarily by Christians commemorating the crucifixion of Jesus Christ and his death at Calvary. The holiday is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as <b>Holy Friday</b>, <b>Great Friday</b>, <b>Black Friday</b>, or <b>Easter Friday</b>, though the latter properly refers to the Friday in Easter week.</p>
+    <p>Based on the details of the Canonical gospels, the Crucifixion of Jesus was most likely to have been on a Friday (the day before the Sabbath) (John 19:42). The estimated year of the Crucifixion is AD 33, by two different groups, and originally as AD 34 by Isaac Newton via the differences between the Biblical and Julian calendars and the crescent of the moon. A third method, using a completely different astronomical approach based on a lunar Crucifixion darkness and eclipse model (consistent with Apostle Peter's reference to a "moon of blood" in Acts 2:20), points to Friday, 3 April AD 33.</p>
+    <p>Good Friday is a widely-instituted legal holiday in many national governments around the world, including in most Western countries as well as in 12 U.S. states. Some governments have laws prohibiting certain acts that are seen as contrasting the solemn nature of the day.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez
+  title: Gabriel García Márquez
+  extract: |-
+    <p><b>Gabriel José de la Concordia</b> <b>García Márquez</b> (<small>American Spanish: </small>[ɡaˈβɾjel ɣarˈsi.a ˈmarkes]  audio ; 6 March 1927 – 17 April 2014) was a Colombian novelist, short-story writer, screenwriter and journalist, known affectionately as <b>Gabo</b> throughout Latin America. Considered one of the most significant authors of the 20th century, he was awarded the 1972 Neustadt International Prize for Literature and the 1982 Nobel Prize in Literature. He pursued a self-directed education that resulted in his leaving law school for a career in journalism. From early on, he showed no inhibitions in his criticism of Colombian and foreign politics. In 1958, he married Mercedes Barcha; they had two sons, Rodrigo and Gonzalo.</p>
+    <p>García Márquez started as a journalist, and wrote many acclaimed non-fiction works and short stories, but is best known for his novels, such as <i>One Hundred Years of Solitude</i> (1967), <i>Autumn of the Patriarch</i> (1975) and <i>Love in the Time of Cholera</i> (1985). His works have achieved significant critical acclaim and widespread commercial success, most notably for popularizing a literary style labeled as magic realism, which uses magical elements and events in otherwise ordinary and realistic situations. Some of his works are set in a fictional village called Macondo (the town mainly inspired by his birthplace Aracataca), and most of them explore the theme of solitude.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>; Javanese: ꦗꦮ) is an island of Indonesia. With a population roughly equal to Russia as of 2014, (excluding the 3.7 million on the island of Madura which is administered as part of the province of East Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 57 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, with Javanese being the dominant language; it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Florida_Mitzvah_Disc_Jockey
+  title: Florida Mitzvah Disc Jockey
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Easter
+  title: Easter
+  extract: |
+    <p><b>Easter</b> (Old English <i>Ēostre</i>; Latin: <i>Pascha</i>; Greek Πάσχα <i>Paskha</i>, the latter two derived from Hebrew: פֶּסַח‎ <i>Pesaḥ</i>) is a festival and holiday in the northern hemisphere spring celebrating various aspects of fertility and resurrection.<sup class="Template-Fact" style="white-space:nowrap;">[<i>citation needed</i>]</sup> In Christianity it commemorates the resurrection of Jesus Christ from the dead, described in the New Testament as having occurred three days after his crucifixion at Calvary, and is the culmination of the Passion of Christ, preceded by Lent, a forty-day period of fasting, prayer, and penance.</p>
+    <p>The last week of Lent is called Holy Week, and it contains the days of the Easter Triduum, including Maundy Thursday (also known as Holy Thursday), commemorating the Last Supper and its preceding foot washing, as well as Good Friday, commemorating the crucifixion and death of Jesus. Easter is followed by a fifty-day period called Eastertide, or the Easter Season, ending with Pentecost Sunday.</p>
+    <p>Easter is a moveable feast, meaning it is not fixed in relation to the civil calendar. The First Council of Nicaea (325) established the date of Easter as the first Sunday after the full moon (the Paschal Full Moon) following the March equinox. Ecclesiastically, the equinox is reckoned to be on 21 March (although the astronomical equinox occurs on 20 March in most years), and the "Full Moon" is not necessarily on the astronomically correct date. The date of Easter therefore varies from 22 March to 25 April inclusive. Eastern Christianity bases its calculations on the Julian calendar, whose 21 March corresponds, during the 21st century, to 3 April in the Gregorian calendar, and in which therefore the celebration of Easter varies between 4 April and 8 May.</p>
+    <p>Easter is linked to the Jewish Passover by much of its symbolism, as well as by its position in the calendar. In many languages, the words for "Easter" and "Passover" are identical or very similar. Easter customs vary across the Christian world, and include sunrise services, exclaiming the Paschal greeting, clipping the church and decorating Easter eggs, a symbol of the empty tomb. Additional customs that have become associated with Easter and are observed by both Christians and some non-Christians include egg hunting, the Easter Bunny, and Easter parades. There are also various traditional Easter foods that vary regionally.</p>
+    <p></p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board
+  title: Entertainment Software Rating Board
+  extract: |-
+    <p>The <b>Entertainment Software Rating Board</b> (<b>ESRB</b>) is a self-regulatory organization that assigns age and content ratings, enforces industry-adopted advertising guidelines, and ensures responsible online privacy principles for computer and video games in the United States and Canada. The ESRB was established in 1994 by the Entertainment Software Association (formerly the Interactive Digital Software Association), in response to criticism of violent content found in video games such as <i>Night Trap</i>, <i>Mortal Kombat</i>, and other controversial video games portraying excessively violent or intense sexual situations.</p>
+    <p>The board assigns ratings to games based on their content, using judgment similar to the motion picture rating systems used in many countries, using a combination of six age-based levels intended to aid consumers in determining a game's content and suitability, along with a system of "content descriptors" which detail specific types of content present in a particular game. The ESRB also maintains an code of ethics for the advertising and promotion of video games, ensuring that marketing materials for games display their ESRB ratings information, and are targeted to appropriate audiences. The ESRB also operates an online privacy certification program, and in 2011, began a program for rating mobile apps in partnership with CTIA.</p>
+    <p>Although use of the ESRB ratings system is not enforced by federal law in either the United States and Canada, it is effectively a de facto standard because of how it is treated by the industry: major console manufacturers will not license games for their systems unless they carry ESRB ratings, most retail stores enforce ESRB ratings, and also do not carry any games which are not rated by the organization. Due to the level of consumer and retail awareness of the ratings system, along with the organization's efforts to ensure that retailers comply with the ratings system and that publishers comply with its marketing code, the ESRB has considered its system to be effective, and was praised by Federal Trade Commission for being the "strongest" self-regulatory organization in the entertainment sector. Despite this, the ESRB has still faced criticism for not rating certain games harshly enough for their violent content, and was also criticized for its handling of objectionable content that could only be accessed through modding.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Maundy_Thursday
+  title: Maundy Thursday
+  extract: |-
+    <p><b>Maundy Thursday</b> (also known as <b>Holy Thursday</b>, <b>Covenant Thursday</b>, <b>Great and Holy Thursday</b>, <b>Sheer Thursday</b> and <b>Thursday of Mysteries</b>) is the Christian feast, or holy day, falling on the Thursday before Easter. It commemorates the Maundy and Last Supper of Jesus Christ with the Apostles as described in the Canonical gospels. It is the fifth day of Holy Week, and is preceded by Holy Wednesday and followed by Good Friday.</p>
+    <p>The date is always between 19 March and 22 April inclusive, but these dates fall on different days depending on whether the Gregorian or Julian calendar is used liturgically. Eastern churches generally use the Julian calendar, and so celebrate this feast throughout the 21st century between 1 April and 5 May in the more commonly used Gregorian calendar. The liturgy held on the evening of Maundy Thursday initiates the Easter Triduum, the period which commemorates the passion, death, and resurrection of Christ; this period includes Good Friday, Holy Saturday, and ends on the evening of Easter. The Mass or service of worship is normally celebrated in the evening, when Friday begins according to Jewish tradition, as the Last Supper was held on feast of Passover.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Neil_Degrasse_Tyson
+  title: Neil Degrasse Tyson
+  extract: |-
+    <ul><li>This is a redirect from a title with <b>another method of capitalisation</b>. It leads to the title in accordance with the Wikipedia naming conventions for capitalisation, or it leads to a title that is associated in some way with the conventional capitalisation of this redirect title. This may help writing, searching, and international language issues.
+    <ul><li>Use this rcat to tag mainspace redirects; when other capitalisations are in different namespaces, use {{R from modification}} instead. For more information, follow the category link.</li>
+    </ul></li>
+    <li><b>From an unprintworthy page title</b>: This is a redirect from a title that would not be helpful in a printed version of <i>Wikipedia</i>. For more information follow the category link.</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones
+  title: Game of Thrones
+  extract: |-
+    <p><i><b>Game of Thrones</b></i> is an American fantasy drama television series created for HBO by David Benioff and D. B. Weiss. It is an adaptation of <i>A Song of Ice and Fire</i>, George R. R. Martin's series of fantasy novels, the first of which is titled <i>A Game of Thrones</i>. Filmed in a Belfast studio and on location elsewhere in Northern Ireland, Malta, Scotland, Croatia, Iceland and Morocco, it premiered on HBO in the United States on April 17, 2011. Two days after the fourth season premiered in April 2014, HBO renewed <i>Game of Thrones</i> for a fifth and sixth season.</p>
+    <p>The series, set on the fictional continents of Westeros and Essos at the end of a decade-long summer, interweaves several plot lines. The first follows the members of several noble houses in a civil war for the Iron Throne of the Seven Kingdoms; the second covers the rising threat of the impending winter and the mythical creatures of the North; the third chronicles the attempts of the exiled last scion of the realm's deposed dynasty to reclaim the throne. Through its morally ambiguous characters, the series explores the issues of social hierarchy, religion, loyalty, corruption, civil war, crime, and punishment. It is the most recent big-budget work to have contributed to the popularity of the fantasy genre in mainstream media.</p>
+    <p><i>Game of Thrones</i> has obtained an exceptionally broad and active international fan base. It received widespread acclaim by critics, although its use of nudity and violence has caused controversy. The series has won numerous awards and nominations, including a Primetime Emmy Award nomination for Outstanding Drama Series in all three seasons, a Golden Globe Award nomination for Best Television Series – Drama, a Hugo Award for Best Dramatic Presentation in Long Form, and a Peabody Award. Among the ensemble cast, Peter Dinklage won the Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series and the Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film for his role as Tyrion Lannister.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Binturong
+  title: Binturong
+  extract: |-
+    <p>The <b>binturong</b> (<i>Arctictis binturong</i>), also known as <b>bearcat</b>, is a viverrid native to South and Southeast Asia. It is uncommon in much of its range, and listed as <i>Vulnerable</i> by IUCN because of a declining population trend that is estimated at more than 30% over the last three decades.</p>
+    <p>Thomas Stamford Raffles first described a specimen from Malacca where it is called <i>binturung</i>. In standard Malay, it is known as <i>benturung</i>, and in Riau, Indonesia as <i>tenturun</i>.</p>
+    <p>The binturong is a monotypic genus. Its genus name <i>Arctictis</i> means ‘bear-weasel’, from Greek <i>arkt-</i> ‘bear’ + <i>iktis</i> ‘weasel’.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Rabbit
+  title: Rabbit
+  extract: |
+    <p><b>Rabbits</b> are small mammals in the family Leporidae of the order Lagomorpha, found in several parts of the world. There are eight different genera in the family classified as rabbits, including the European rabbit (<i>Oryctolagus cuniculus</i>), cottontail rabbits (genus <i>Sylvilagus</i>; 13 species), and the Amami rabbit (<i>Pentalagus furnessi</i>, an endangered species on Amami Ōshima, Japan). There are many other species of rabbit, and these, along with pikas and hares, make up the order Lagomorpha. The male is called a <i>buck</i> and the female is a <i>doe</i>; a young rabbit is a <i>kitten</i> or <i>kit</i>.</p>
+    <p></p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude
+  title: One Hundred Years of Solitude
+  extract: |-
+    <p><i><b>One Hundred Years of Solitude</b></i> (Spanish: <i>Cien años de soledad</i>) is a 1967 novel by Colombian author Gabriel García Márquez that tells the multi-generational story of the Buendía family, whose patriarch, José Arcadio Buendía, founds the town of Macondo, the metaphoric Colombia.</p>
+    <p>The widely acclaimed book, considered by many to be the author's masterpiece, was first published in Spanish in 1967, and subsequently has been translated into thirty-seven languages and has sold more than 30 million copies. The magic realist style and thematic substance of <i>One Hundred Years of Solitude</i> established it as an important, representative novel of the literary Latin American Boom of the 1960s and 1970s, that was stylistically influenced by Modernism (European and North American), and the Cuban <i>Vanguardia</i> (Vanguard) literary movement.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Great_white_shark
+  title: Great white shark
+  extract: |
+    <p>The <b>great white shark</b> (<i>Carcharodon carcharias</i>), also known as the <b>great white</b>, <b>white pointer</b>, <b>white shark</b>, or <b>white death</b>, is a species of large lamniform shark which can be found in the coastal surface waters of all the major oceans. The great white shark is mainly known for its size, with mature individuals growing up to 6.4 m (21 ft) in length (although reports have been published of great white sharks measuring over 8 m (26 ft), and 3,324 kg (7,328 lb) in weight). This shark reaches its maturity around 15 years of age and was previously believed to have a life span of over 30 years. The true lifespan of great white sharks is far longer; now estimated to be as long as 70 years or more, making it one of the longest lived cartilaginous fish currently known. Great white sharks can accelerate to speeds that exceed 56 km/h (35 mph).</p>
+    <p>The great white shark is an apex predator of the seas and has no natural predators other than the Orca. The great white shark is arguably the world's largest known extant macropredatory fish, and is one of the primary predators of marine mammals. It is also known to prey upon a variety of other marine animals, including fish and seabirds. It is the only known surviving species of its genus <i>Carcharodon</i>, and is ranked first in having the most attacks on humans. The IUCN list the great white shark as a vulnerable species, while it is included in Appendix II of CITES.</p>
+    <p>The bestselling novel <i>Jaws</i> by Peter Benchley and the subsequent blockbuster film by Steven Spielberg depicted the great white shark as a "ferocious man eater". In reality, humans are not the preferred prey of the great white shark, however of all shark species, the great white shark is responsible for by far the largest number of fatal unprovoked attacks on humans.</p>
+    <p></p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/JOP
+  title: JOP
+  extract: |-
+    <p><b>JOP</b> could refer to:</p>
+    <ul><li>Java optimized processor, a hardware implementation of a Java Virtual Machine</li>
+    <li><i>Jon Oliva's Pain</i>, a US heavy metal band fronted by Jon Oliva (co-founder of the band <i>Savatage</i>)</li>
+    <li>Judgment of Paris (wine) - the 1976 Paris wine tasting that sparked international interest in Californian wine</li>
+    <li>Justice of the Peace</li>
+    </ul>
