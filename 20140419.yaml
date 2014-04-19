@@ -1,0 +1,107 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Marcin_Ignaczak
+  title: Marcin Ignaczak
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Off-the-Record_Messaging
+  title: Off-the-Record Messaging
+  extract: |-
+    <p><b>Off-the-Record Messaging</b>, commonly referred to as <b>OTR</b>, is a cryptographic protocol that provides strong encryption for instant messaging conversations. OTR uses a combination of the AES symmetric-key algorithm, the Diffie–Hellman key exchange, and the SHA-1 hash function. In addition to authentication and encryption, OTR provides perfect forward secrecy and malleable encryption.</p>
+    <p>The primary motivation behind the protocol was providing deniability for the conversation participants while keeping conversations confidential, like a private conversation in real life, or off the record in journalism sourcing. This is in contrast with other cryptography tools that produce output which can be later used as a verifiable record of the communication event and the identities of the participants. In most cases, people using such cryptography software are not aware of this and might be better served by OTR tools instead.<sup class="Template-Fact" style="white-space:nowrap;">[<i>citation needed</i>]</sup> The initial introductory paper was named "<i>Off-the-Record Communication, or, Why Not To Use PGP</i>".</p>
+    <p>The OTR protocol was designed by cryptographers Ian Goldberg and Nikita Borisov. They provide a client library to facilitate support for instant messaging client developers who want to implement the protocol. A Pidgin and Kopete plugin exists that allows OTR to be used over any IM protocol supported by Pidgin or Kopete, offering an auto-detection feature that starts the OTR session with the buddies that have it enabled, without interfering with regular, unencrypted conversations.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Nanking_Massacre
+  title: Nanking Massacre
+  extract: |-
+    <p>The <b>Nanking Massacre</b>, also known as the <b>Rape of Nanking</b>, was an episode of mass murder and mass rape committed by Japanese troops against Nanking (current official spelling: Nanjing) during the Second Sino-Japanese War. The massacre occurred during a six-week period starting December 13, 1937, the day that the Japanese captured Nanking, which was then the Chinese capital. (See Republic of China). During this period, tens of thousands if not hundreds of thousands of Chinese civilians and disarmed combatants were murdered by soldiers of the Imperial Japanese Army. Widespread rape and looting also occurred. Several of the key perpetrators of the atrocities, at the time labelled as war crimes, were later tried and found guilty at the International Military Tribunal of the Far East and the Nanjing War Crimes Tribunal, and were executed. Another key perpetrator, Prince Asaka, a member of the Imperial Family, escaped prosecution by having earlier been granted immunity by the Allies.</p>
+    <p>An accurate estimation of the death toll in the massacre has not been achieved because most of the Japanese military records on the killings were deliberately destroyed or kept secret shortly after the surrender of Japan in 1945. The International Military Tribunal of the Far East estimated in 1948 over 200,000 Chinese were killed in the incident. China's official estimate is more than 300,000 dead based on the evaluation of the Nanjing War Crimes Tribunal in 1947. The death toll has been actively contested among scholars since the 1980s, with typical estimates ranging from 40,000 to over 300,000.</p>
+    <p>The event remains a contentious political issue, as various aspects of it have been disputed by some historical revisionists and Japanese nationalists, who have claimed that the massacre has been either exaggerated or wholly fabricated for propaganda purposes. As a result of the nationalist efforts to deny or rationalize the war crimes, the controversy surrounding the massacre remains a stumbling block in Sino-Japanese relations, as well as Japanese relations with other Asia-Pacific nations such as South Korea and the Philippines.</p>
+    <p>Although the Japanese government has admitted to the acts of killing of a large number of non-combatants, looting, and other violence committed by the Imperial Japanese Army after the fall of Nanking, and Japanese veterans who served in Nanking at that time have confirmed that a massacre took place, a small but vocal minority within both the Japanese government and society have argued that the death toll was military in nature and that no such crimes ever occurred. Denial of the massacre (and a divergent array of revisionist accounts of the killings) has become a staple of Japanese nationalism. In Japan, public opinion of the massacres varies, and few deny the occurrence of the massacre outright. Nonetheless, recurring attempts by negationists to promote a revisionist history of the incident have created controversy that periodically reverberates in the international media, particularly in China, South Korea, and other East Asian nations.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Chrysopelea
+  title: Chrysopelea
+  extract: |-
+    <p><i><b>Chrysopelea</b></i>, or more commonly known as the <b>flying snake</b>, is a genus that belongs to the family Colubridae. Flying snakes are mildly venomous, though they are considered harmless because their toxicity is not dangerous to humans. Their range is in Southeast Asia (the mainland, Greater and Lesser Sundas, Maluku, and the Philippines), southernmost China, India, and Sri Lanka.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Water_deer
+  title: Water deer
+  extract: |
+    <p>The <b>water deer</b> (<i>Hydropotes inermis</i>) is a small deer superficially more similar to a musk deer than a true deer. Native to China and Korea, there are two subspecies: the <b>Chinese water deer</b> (<i>Hydropotes inermis inermis</i>) and the <b>Korean water deer</b> (<i>Hydropotes inermis argyropus</i>). Its prominent tusks have led to it being colloquially named the <b>vampire deer</b> in English-speaking areas to which it has been imported. Despite its lack of antlers and certain other anatomical anomalies—including a pair of prominent tusks (downward-pointing canine teeth), it is classified as a cervid. Its unique anatomical characteristics have caused it to be classified in its own genus (<i><b>Hydropotes</b></i>) as well as its own subfamily (<b>Hydropotinae</b>). However, a study of mitochondrial cytochrome b sequences placed it near <i>Capreolus</i> within an Old World section of the subfamily Capreolinae.</p>
+    <p></p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Good_Friday
+  title: Good Friday
+  extract: |
+    <p><b>Good Friday</b> is a religious holiday, observed primarily by Christians, commemorating the crucifixion of Jesus Christ and his death at Calvary. The holiday is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as <b>Holy Friday</b>, <b>Great Friday</b>, <b>Black Friday</b>, or <b>Easter Friday</b>, though the last term properly refers to the Friday in Easter week.</p>
+    <p>Based on the details of the canonical gospels, the Crucifixion of Jesus was most likely to have been on a Friday (the day before the Jewish Sabbath) (John 19:42). The estimated year of the Crucifixion is AD 33, by two different groups, and originally as AD 34 by Isaac Newton via the differences between the Biblical and Julian calendars and the crescent of the moon. A third method, using a completely different astronomical approach based on a lunar Crucifixion darkness and eclipse model (consistent with Apostle Peter's reference to a "moon of blood" in Acts 2:20), points to Friday, 3 April AD 33.</p>
+    <p>Good Friday is a widely-instituted legal holiday in many national governments around the world, including in most Western countries as well as in 12 U.S. states. Some governments have laws prohibiting certain acts that are seen as contrasting the solemn nature of the day.</p>
+    <p></p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Pyura_chilensis
+  title: Pyura chilensis
+  extract: |-
+    <p><i><b>Pyura chilensis</b></i>, called <i><b>piure</b></i> in Spanish, is a tunicate of the family Pyuridae. It was described in 1782 by Juan Ignacio Molina.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>; Javanese: ꦗꦮ) is an island of Indonesia. With a population roughly equal to Russia as of 2014, (excluding the 3.7 million on the island of Madura which is administered as part of the province of East Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 57 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, with Javanese being the dominant language; it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Florida_Mitzvah_Disc_Jockey
+  title: Florida Mitzvah Disc Jockey
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Easter
+  title: Easter
+  extract: |-
+    <p><b>Easter</b> (Old English <i>Ēostre</i>), also called <b>the Pasch</b> or <b>Pascha</b> (the two latter names derived, through Latin: <i>Pascha</i> and Greek Πάσχα <i>Paskha</i>, from Hebrew: פֶּסַח‎ <i>Pesaḥ</i>), or <b>Resurrection Sunday</b>, is a festival and holiday celebrating the resurrection of Jesus Christ from the dead, described in the New Testament as having occurred three days after his crucifixion at Calvary. It is the culmination of the Passion of Christ, preceded by Lent, a forty-day period of fasting, prayer, and penance.</p>
+    <p>The last week of Lent is called Holy Week, and it contains the days of the Easter Triduum, including Maundy Thursday (also known as Holy Thursday), commemorating the Last Supper and its preceding foot washing, as well as Good Friday, commemorating the crucifixion and death of Jesus. Easter is followed by a fifty-day period called Eastertide, or the Easter Season, ending with Pentecost Sunday.</p>
+    <p>Easter is a moveable feast, meaning it is not fixed in relation to the civil calendar. The First Council of Nicaea (325) established the date of Easter as the first Sunday after the full moon (the Paschal Full Moon) following the March equinox. Ecclesiastically, the equinox is reckoned to be on 21 March (although the astronomical equinox occurs on 20 March in most years), and the "Full Moon" is not necessarily on the astronomically correct date. The date of Easter therefore varies from 22 March to 25 April inclusive. Eastern Christianity bases its calculations on the Julian calendar, whose 21 March corresponds, during the 21st century, to 3 April in the Gregorian calendar, and in which therefore the celebration of Easter varies between 4 April and 8 May.</p>
+    <p>Easter is linked to the Jewish Passover by much of its symbolism, as well as by its position in the calendar. In many languages, the words for "Easter" and "Passover" are identical or very similar. Easter customs vary across the Christian world, and include sunrise services, exclaiming the Paschal greeting, clipping the church and decorating Easter eggs, a symbol of the empty tomb. Additional customs that have become associated with Easter and are observed by both Christians and some non-Christians include egg hunting, the Easter Bunny, and Easter parades. There are also various traditional Easter foods that vary regionally.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez
+  title: Gabriel García Márquez
+  extract: |-
+    <p><b>Gabriel José de la Concordia</b> <b>García Márquez</b> (<small>American Spanish: </small>[ɡaˈβɾjel ɣarˈsi.a ˈmarkes]  audio ; 6 March 1927 – 17 April 2014) was a Colombian novelist, short-story writer, screenwriter and journalist, known affectionately as <b>Gabo</b> throughout Latin America. Considered one of the most significant authors of the 20th century, he was awarded the 1972 Neustadt International Prize for Literature and the 1982 Nobel Prize in Literature. He pursued a self-directed education that resulted in his leaving law school for a career in journalism. From early on, he showed no inhibitions in his criticism of Colombian and foreign politics. In 1958, he married Mercedes Barcha; they had two sons, Rodrigo and Gonzalo.</p>
+    <p>García Márquez started as a journalist, and wrote many acclaimed non-fiction works and short stories, but is best known for his novels, such as <i>One Hundred Years of Solitude</i> (1967), <i>The Autumn of the Patriarch</i> (1975) and <i>Love in the Time of Cholera</i> (1985). His works have achieved significant critical acclaim and widespread commercial success, most notably for popularizing a literary style labeled as magic realism, which uses magical elements and events in otherwise ordinary and realistic situations. Some of his works are set in a fictional village called Macondo (the town mainly inspired by his birthplace Aracataca), and most of them explore the theme of solitude.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Hi-hat
+  title: Hi-hat
+  extract: |-
+    <p>A <b>hi-hat</b>, or <b>hihat</b>, is a type of cymbal and stand used as a typical part of a drum kit by percussionists in R&amp;B, hip-hop, disco, jazz, metal, rock and roll, house, reggae and other forms of contemporary popular music. It is a standard part of the modern drum kit. The hi-hat consists of two cymbals that are mounted on a stand, one on top of the other, and a pedal which can be used to clash and hold the cymbals together.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Snipe
+  title: Snipe
+  extract: |-
+    <p>A <b>snipe</b> is any of about 25 wading bird species in three genera in the family Scolopacidae. They are characterized by a very long, slender bill and crypsis plumage. The <i>Gallinago</i> snipes have a nearly worldwide distribution, the <i>Lymnocryptes</i> Jack Snipe is restricted to Asia and Europe and the <i>Coenocorypha</i> snipes are found only in the Outlying Islands of New Zealand. The three species of painted snipe are not closely related to the typical snipes, and are placed in their own family, the Rostratulidae.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alive
+  title: Alive
+  extract: |
+    <p><b>Alive</b> may refer to:</p>
+    <ul><li>Life</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones
+  title: Game of Thrones
+  extract: |-
+    <p><i><b>Game of Thrones</b></i> is an American fantasy drama television series created for HBO by David Benioff and D. B. Weiss. It is an adaptation of <i>A Song of Ice and Fire</i>, George R. R. Martin's series of fantasy novels, the first of which is titled <i>A Game of Thrones</i>. Filmed in a Belfast studio and on location elsewhere in Northern Ireland, Malta, Scotland, Croatia, Iceland and Morocco, it premiered on HBO in the United States on April 17, 2011. Two days after the fourth season premiered in April 2014, HBO renewed <i>Game of Thrones</i> for a fifth and sixth season.</p>
+    <p>The series, set on the fictional continents of Westeros and Essos at the end of a decade-long summer, interweaves several plot lines. The first follows the members of several noble houses in a civil war for the Iron Throne of the Seven Kingdoms; the second covers the rising threat of the impending winter and the mythical creatures of the North; the third chronicles the attempts of the exiled last scion of the realm's deposed dynasty to reclaim the throne. Through its morally ambiguous characters, the series explores the issues of social hierarchy, religion, loyalty, corruption, civil war, crime, and punishment. It is the most recent big-budget work to have contributed to the popularity of the fantasy genre in mainstream media.</p>
+    <p><i>Game of Thrones</i> has obtained an exceptionally broad and active international fan base. It received widespread acclaim by critics, although its use of nudity and violence has caused controversy. The series has won numerous awards and nominations, including a Primetime Emmy Award nomination for Outstanding Drama Series in all three seasons, a Golden Globe Award nomination for Best Television Series – Drama, a Hugo Award for Best Dramatic Presentation in Long Form, and a Peabody Award. Among the ensemble cast, Peter Dinklage won the Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series and the Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film for his role as Tyrion Lannister.</p>
+    <p></p>
