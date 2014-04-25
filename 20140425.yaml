@@ -1,0 +1,120 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>; Javanese: ꦗꦮ) is an island of Indonesia. With a population roughly equal to Russia as of 2014, (excluding the 3.7 million on the island of Madura which is administered as part of the province of East Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 57 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, with Javanese being the dominant language; it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alive
+  title: Alive
+  extract: |
+    <p><b>Alive</b> may refer to:</p>
+    <ul><li>Life</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alive%21
+  title: Alive!
+  extract: |-
+    <ul><li>This is a redirect to a <b>disambiguation page</b>. This redirect is intended for use in links from other articles that need to refer to the disambiguation page, rather than be disambiguated. Therefore, this template should <i>only</i> appear on a redirect page that has "(disambiguation)" in its title. For more information, see the category link.</li>
+    </ul><dl><dd>
+    <ul><li><b>From an unprintworthy page title</b>: This is a redirect from a title that would not be helpful in a printed version of <i>Wikipedia</i>. For more information follow the category link.</li>
+    </ul></dd>
+    </dl>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Euthanasia_Coaster
+  title: Euthanasia Coaster
+  extract: |-
+    <p>The <b>Euthanasia Coaster</b> is an art concept for a steel roller coaster designed to kill its passengers. In 2010, it was designed and made into a scale model by Julijonas Urbonas, a PhD candidate at the Royal College of Art in London. Urbonas, who has worked at an amusement park, stated that the goal of his concept roller coaster is to take lives "with elegance and euphoria". As for practical applications of his design, Urbonas mentioned "euthanasia" or "execution". John Allen, who served as president of the Philadelphia Toboggan Company, inspired Urbonas with his description of the "ultimate" roller coaster as one that "sends out 24 people and they all come back dead". As it would euthanise its passengers, it was criticised by the anti-euthanasia association Care Not Killing.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Anzac_Day
+  title: Anzac Day
+  extract: |-
+    <p><b>Anzac Day</b> /ˈænzæk/ is a national day of remembrance in Australia and New Zealand that broadly commemorates all Australians and New Zealanders "who served and died in all wars, conflicts, and peacekeeping operations" and "the contribution and suffering of all those who have served." Originally 25 April every year was to honour the members of the Australian and New Zealand Army Corps (ANZAC) who fought at Gallipoli in the Ottoman Empire during World War I. Anzac Day is also observed in the Cook Islands, Niue, Pitcairn Islands, and Tonga<sup class="Template-Fact" style="white-space:nowrap;">[<i>citation needed</i>]</sup>. It is no longer observed as a national holiday in Papua New Guinea or Samoa.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Internet
+  title: Internet
+  extract: |-
+    <p>The <b>Internet</b> is a global system of interconnected computer networks that use the standard Internet protocol suite (TCP/IP) to link several billion devices worldwide. It is a <i>network of networks</i> that consists of millions of private, public, academic, business, and government networks, of local to global scope, that are linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries an extensive range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), the infrastructure to support email, and peer-to-peer networks for file sharing and telephony.</p>
+    <p>The origins of the Internet date back to research commissioned by the United States government in the 1960s to build robust, fault-tolerant communication via computer networks. While this work, together with work in the United Kingdom and France, led to important precursor networks, they were not the Internet. There is no consensus on the exact date when the modern Internet came into being, but sometime in the early to mid-1980s is considered reasonable. From that point, the network experienced decades of sustained exponential growth as generations of institutional, personal, and mobile computers were connected to it.</p>
+    <p>The funding of a new U.S. backbone by the National Science Foundation in the 1980s, as well as private funding for other commercial backbones, led to worldwide participation in the development of new networking technologies, and the merger of many networks. Though the Internet has been widely used by academia since the 1980s, the commercialization of what was by the 1990s an international network resulted in its popularization and incorporation into virtually every aspect of modern human life. As of June 2012<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, more than 2.4 billion people—over a third of the world's human population—have used the services of the Internet; approximately 100 times more people than were using it in 1995. Internet use grew rapidly in the West from the mid-1990s to early 2000s and from the late 1990s to present in the developing world. In 1994 only 3% of American classrooms had access to the Internet while by 2002 92% did.</p>
+    <p>Most traditional communications media including telephone, music, film, and television are being reshaped or redefined by the Internet, giving birth to new services such as voice over Internet Protocol (VoIP) and Internet Protocol television (IPTV). Newspaper, book, and other print publishing are adapting to website technology, or are reshaped into blogging and web feeds. The Internet has enabled and accelerated new forms of human interactions through instant messaging, Internet forums, and social networking. Online shopping has boomed both for major retail outlets and small artisans and traders. Business-to-business and financial services on the Internet affect supply chains across entire industries.</p>
+    <p>The Internet has no centralized governance in either technological implementation or policies for access and usage; each constituent network sets its own policies. Only the overreaching definitions of the two principal name spaces in the Internet, the Internet Protocol address space and the Domain Name System, are directed by a maintainer organization, the Internet Corporation for Assigned Names and Numbers (ICANN). The technical underpinning and standardization of the core protocols (IPv4 and IPv6) is an activity of the Internet Engineering Task Force (IETF), a non-profit organization of loosely affiliated international participants that anyone may associate with by contributing technical expertise.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Orientalism
+  title: Orientalism
+  extract: |
+    <p><br></p>
+    <p><b>Orientalism</b> is a term used by art historians and literary and cultural studies scholars for the imitation or depiction of aspects of Middle Eastern and East Asian cultures (Eastern cultures) by writers, designers and artists from the West. In particular, <b>Orientalist painting</b>, depicting more specifically "the Middle East", was one of the many specialisms of 19th-century Academic art, and the literatures of European countries took a similar interest in Oriental themes.</p>
+    <p>Since the publication of Edward Said's <i>Orientalism</i> in 1978, much academic discourse has begun to use the term "Orientalism" to refer to a general patronizing Western attitude towards Middle Eastern, Asian and North African societies. In Said's analysis, the West essentializes these societies as static and undeveloped—thereby fabricating a view of Oriental culture that can be studied, depicted, and reproduced. Implicit in this fabrication, writes Said, is the idea that Western society is developed, rational, flexible, and superior.</p>
+    <p></p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/April_24
+  title: April 24
+  extract: |
+    <p><b>April 24</b> is the 114th day of the year (115th in leap years) in the Gregorian calendar. There are 251 days remaining until the end of the year.</p>
+    <p></p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/JOP
+  title: JOP
+  extract: |-
+    <p><b>JOP</b> could refer to:</p>
+    <ul><li>Java optimized processor, a hardware implementation of a Java Virtual Machine</li>
+    <li><i>Jon Oliva's Pain</i>, a US heavy metal band fronted by Jon Oliva (co-founder of the band <i>Savatage</i>)</li>
+    <li>Judgment of Paris (wine) - the 1976 Paris wine tasting that sparked international interest in Californian wine</li>
+    <li>Justice of the Peace</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Pine_tar
+  title: Pine tar
+  extract: |-
+    <p><b>Pine tar</b> is a sticky material produced by the high temperature carbonization of pine wood in anoxic conditions (dry distillation or destructive distillation). The wood is rapidly decomposed by applying heat and pressure in a closed container; the primary resulting products are charcoal and pine tar.</p>
+    <p>Pine tar consists primarily of aromatic hydrocarbons, tar acids and tar bases. Components of tar vary according to the pyrolytic process (e.g. method, duration, temperature) and origin of the wood (e.g. age of pine trees, type of soil and moisture conditions during tree growth). The choice of wood, design of kiln, burning and collection of the tar can vary. Only pine stumps and roots are used in the traditional production of pine tar.</p>
+    <p>Pine tar has a long history as a wood preservative, as a wood sealant for maritime use, in roofing construction and maintenance, in soaps such as Packer’s Pine Tar Soap and in the treatment of carbuncles and skin diseases, such as psoriasis, eczema, and rosacea.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Automobile
+  title: Automobile
+  extract: |-
+    <p>An <b>automobile</b>, <b>autocar</b>, <b>motor car</b> or <b>car</b> is a wheeled motor vehicle used for transporting passengers, which also carries its own engine or motor. Most definitions of the term specify that automobiles are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels, and to be constructed principally for the transport of people rather than goods.</p>
+    <p>The year 1886 is regarded the year of birth of the modern automobile - with the Benz Patent-Motorwagen, by German inventor Karl Benz. Motorized wagons soon replaced animal-drafted carriages, especially after automobiles became affordable for many people when the Ford Model T was introduced in 1908.</p>
+    <p>The term <i>motorcar</i> has formerly also been used in the context of electrified rail systems to denote a car which functions as a small locomotive but also provides space for passengers and baggage. These locomotive cars were often used on suburban routes by both interurban and intercity railroad systems.</p>
+    <p>It was estimated in 2010 that the number of automobiles had risen to over 1 billion vehicles, up from the 500 million of 1986. The numbers are increasing rapidly, especially in China, India and other NICs.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Dan_Bilzerian
+  title: Dan Bilzerian
+  extract: |-
+    <p><b>Dan Bilzerian</b> (born December 7, 1980) is an American venture capitalist, poker player, and actor.</p>
+    <p><br></p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Creatonotos_gangis
+  title: Creatonotos gangis
+  extract: |-
+    <p><i><b>Creatonotos gangis</b></i> is a species of arctiid moth found in South East Asia and Australia.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones
+  title: Game of Thrones
+  extract: |-
+    <p><i><b>Game of Thrones</b></i> is an American fantasy drama television series created for HBO by David Benioff and D. B. Weiss. It is an adaptation of <i>A Song of Ice and Fire</i>, George R. R. Martin's series of fantasy novels, the first of which is titled <i>A Game of Thrones</i>. Filmed in a Belfast studio and on location elsewhere in Northern Ireland, Malta, Scotland, Croatia, Iceland and Morocco, it premiered on HBO in the United States on April 17, 2011. Two days after the fourth season premiered in April 2014, HBO renewed <i>Game of Thrones</i> for a fifth and sixth season.</p>
+    <p>The series, set on the fictional continents of Westeros and Essos at the end of a decade-long summer, interweaves several plot lines. The first follows the members of several noble houses in a civil war for the Iron Throne of the Seven Kingdoms; the second covers the rising threat of the impending winter and the mythical creatures of the North; the third chronicles the attempts of the exiled last scion of the realm's deposed dynasty to reclaim the throne. Through its morally ambiguous characters, the series explores the issues of social hierarchy, religion, loyalty, corruption, civil war, crime, and punishment.</p>
+    <p><i>Game of Thrones</i> has obtained an exceptionally broad and active international fan base. It received widespread acclaim by critics, although its use of nudity and violence has caused controversies. The series has won numerous awards and nominations, including a Primetime Emmy Award nomination for Outstanding Drama Series in all three seasons, a Golden Globe Award nomination for Best Television Series – Drama, a Hugo Award for Best Dramatic Presentation in both Long Form and Short Form, and a Peabody Award. Among the ensemble cast, Peter Dinklage won the Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series and the Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film for his role as Tyrion Lannister.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Deaths_in_2014
+  title: Deaths in 2014
+  extract: |-
+    <p>This is a chronology of notable <b>deaths in 2014</b>. Names are reported under the date of death. Names under each date are reported in alphabetical order by family name or pseudonym. Deaths of notable animals and other organisms are also reported here if they first have their own article. A typical entry reports information in the following sequence:</p>
+    <ul><li>Name, age, country of citizenship and reason for notability, established cause of death, reference.</li>
+    </ul>
