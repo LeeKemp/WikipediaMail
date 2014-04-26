@@ -1,0 +1,110 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Jan_Pawe%C5%82
+  title: Jan Paweł
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Tito_Vilanova
+  title: Tito Vilanova
+  extract: |-
+    <p><b>Francesc "Tito" Vilanova i Bayó</b> (17 September 1968 – 25 April 2014) was a Spanish manager and footballer who played as a central midfielder.</p>
+    <p>After a professional playing career which culminated in three seasons in La Liga, where he played 26 games in three seasons for Celta de Vigo, Vilanova went on to work with Barcelona as an assistant coach under Pep Guardiola, being part of the squads that won 14 titles.</p>
+    <p>In 2012 Vilanova was appointed first-team manager, winning the La Liga title in his first season. He stepped down in July 2013, due to ill health. He died of cancer 10 months later on 25 April 2014.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alive
+  title: Alive
+  extract: |
+    <p><b>Alive</b> may refer to:</p>
+    <ul><li>Life</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/LGBT_rights_in_Sweden
+  title: LGBT rights in Sweden
+  extract: |-
+    <p><b>Lesbian, gay, bisexual, transgender</b> (<b>LGBT</b>) <b>rights</b> in <b>Sweden</b> have been regarded as some of the most progressive in Europe and in the world. Same-sex sexual activity was legalized in 1944 and the age of consent was equalized in 1972. Homosexuality was declassified as a mental illness in 1979. Sweden also became the first country in the world to allow transsexuals to change their legal gender post-sex reassignment surgery in 1972 whilst transvestism was declassified as an illness. Transvestism was eventually declassified as a mental illness in 2008 and a law allowing transsexuals to change their legal gender without sex reassignment surgery was passed in 2013. After allowing same-sex couples to register for partnership benefits in 1995, Sweden became the seventh country in the world to legalize same-sex marriage countrywide in 2009. Discrimination on the basis of sexual orientation and gender identity and expression has been banned since 1987. Also, since 2003, gay and lesbian couples can adopt children, and lesbian couples have had equal access to IVF and assisted insemination since 2005. Sweden has been recognized as one of the most socially liberal countries in Europe and in the world, with recent polls indicating that a large majority of Swedes support LGBT rights.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>; Javanese: ꦗꦮ) is an island of Indonesia. With a population roughly equal to Russia as of 2014, (excluding the 3.7 million on the island of Madura which is administered as part of the province of East Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 57 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, with Javanese being the dominant language; it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alive%21
+  title: Alive!
+  extract: |-
+    <ul><li>This is a redirect to a <b>disambiguation page</b>. This redirect is intended for use in links from other articles that need to refer to the disambiguation page, rather than be disambiguated. Therefore, this template should <i>only</i> appear on a redirect page that has "(disambiguation)" in its title. For more information, see the category link.</li>
+    </ul><dl><dd>
+    <ul><li><b>From an unprintworthy page title</b>: This is a redirect from a title that would not be helpful in a printed version of <i>Wikipedia</i>. For more information follow the category link.</li>
+    </ul></dd>
+    </dl>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/National_Register_of_Historic_Places
+  title: National Register of Historic Places
+  extract: |-
+    <p>The <b>National Register of Historic Places</b> (<b>NRHP</b>) is the United States federal government's official list of districts, sites, buildings, structures, and objects deemed worthy of preservation. A property listed in the National Register, or located within a National Register Historic District, may qualify for tax incentives derived from the total value of expenses incurred preserving the property.</p>
+    <p>The passage of the National Historic Preservation Act (NHPA) in 1966 established the National Register and the process for adding properties to it. Of the more than one million properties on the National Register, 80,000 are listed individually. The remainder are contributing resources within historic districts. Each year approximately 30,000 properties are added to the National Register as part of districts or by individual listings.</p>
+    <p>For most of its history the National Register has been administered by the National Park Service (NPS), an agency within the United States Department of the Interior. Its goals are to help property owners and interest groups, such as the National Trust for Historic Preservation, coordinate, identify, and protect historic sites in the United States. While National Register listings are mostly symbolic, their recognition of significance provides some financial incentive to owners of listed properties. Protection of the property is not guaranteed. During the nomination process, the property is evaluated in terms of the four criteria for inclusion on the National Register of Historic Places. The application of those criteria has been the subject of criticism by academics of history and preservation, as well as the public and politicians.</p>
+    <p>Occasionally historic sites outside the country proper, but associated with the United States (such as the American Embassy in Tangiers) are also listed. Properties can be nominated in a variety of forms, including individual properties, historic districts, and multiple property submissions (MPS). The Register categorizes general listings into one of five types of properties: district, site, structure, building, or object. <b>National Register Historic Districts</b> are defined geographical areas consisting of contributing and non-contributing properties. Some properties are added automatically to the National Register when they become administered by the National Park Service. These include National Historic Landmarks (NHL), National Historic Sites (NHS), National Historical Parks, National Military Parks/Battlefields, National Memorials, and some National Monuments. (Federal properties can be proclaimed National Monuments under the Antiquities Act because of either their historical or natural significance. They are managed by multiple agencies. Only monuments that are historic in character and managed by the National Park Service are listed administratively in the National Register.)</p>
+    <p>Some examples are Fallingwater, Robie House, Martin Luther King Jr's Grave, and Old Slater Mill.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Euthanasia_Coaster
+  title: Euthanasia Coaster
+  extract: |-
+    <p>The <b>Euthanasia Coaster</b> is an art concept for a steel roller coaster designed to kill its passengers. In 2010, it was designed and made into a scale model by Julijonas Urbonas, a PhD candidate at the Royal College of Art in London. Urbonas, who has worked at an amusement park, stated that the goal of his concept roller coaster is to take lives "with elegance and euphoria". As for practical applications of his design, Urbonas mentioned "euthanasia" or "execution". John Allen, who served as president of the Philadelphia Toboggan Company, inspired Urbonas with his description of the "ultimate" roller coaster as one that "sends out 24 people and they all come back dead". As it would euthanise its passengers, it was criticised by the anti-euthanasia association Care Not Killing.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Dan_Bilzerian
+  title: Dan Bilzerian
+  extract: |-
+    <p><b>Dan Bilzerian</b> (born December 7, 1980) is an American Armenian venture capitalist, as well as a poker player.</p>
+    <p><br></p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Genie_(feral_child)
+  title: Genie (feral child)
+  extract: |-
+    <p><b>Genie</b> (born 1957) is the pseudonym of a feral child who was the victim of extraordinarily severe abuse, neglect and social isolation. Her circumstances are recorded prominently in the annals of abnormal child psychology. Born in Arcadia, California, United States, Genie's father kept her locked alone in a room from the age of 20 months to 13 years, 7 months, almost always strapped to a child's toilet or bound in a crib with her arms and legs completely immobilized. During this time she was never exposed to any significant amount of speech, and as a result she did not acquire a first language during childhood. Her abuse came to the attention of Los Angeles child welfare authorities on November 4, 1970.</p>
+    <p>In the first several years after Genie's life and circumstances came to light, psychologists, linguists and other scientists focused a great deal of attention on Genie's case, seeing in her near-total isolation an opportunity to study many aspects of human development. Upon finding that she had not yet learned a language, linguists saw Genie as potentially being an important way to gain further insight into the processes controlling language acquisition skills and linguistic development. Extensive observation of their new-found human subject enabled them to publish multiple academic works testing theories and hypotheses identifying critical periods during which humans learn to understand and use language.</p>
+    <p>After being found Genie was initially cared for at Children's Hospital Los Angeles, and her subsequent placements eventually gave rise to rancorous debate. After approximately eight months at Children's Hospital she was moved to one foster home for a month and a half, which proved to be the first of several moves. Upon removal from this home she was then placed with the scientist who was heading the research team studying her, where she lived for approximately four years and where most of the testing and research on her was conducted. In mid-1975, soon after turning 18, she went back to live with her mother, who could not adequately care for her. After a few months she was then placed in a series of at least six institutions for disabled adults, where she experienced further extreme physical and emotional abuse. Cut off from almost all of the people who had studied her, her newly acquired language and behavioral skills rapidly regressed.</p>
+    <p>After early 1978 Genie's mother decided to forbid all of the scientists except for one from having contact with Genie, and all testing and observations on her ceased. Although psychologists and linguists have continued to write about Genie's development long after the time she was being studied, no scientific analysis of Genie after 1977 has occurred. The only post-1977 updates on Genie and her whereabouts are personal observations or secondary accounts of them, and all are spaced several years apart. As of 2008<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, ABC News reported that Genie was living in California, "in psychological confinement as a ward of the state—her sixth foster home. And again, she is speechless."</p>
+    <p>Genie's case has been extensively compared with that of Victor of Aveyron, an eighteenth-century French child who similarly became a classic case of late language acquisition and delayed development.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/JOP
+  title: JOP
+  extract: |-
+    <p><b>JOP</b> could refer to:</p>
+    <ul><li>Java optimized processor, a hardware implementation of a Java Virtual Machine</li>
+    <li><i>Jon Oliva's Pain</i>, a US heavy metal band fronted by Jon Oliva (co-founder of the band <i>Savatage</i>)</li>
+    <li>Judgment of Paris (wine) - the 1976 Paris wine tasting that sparked international interest in Californian wine</li>
+    <li>Justice of the Peace</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Martine_Dalmas
+  title: Martine Dalmas
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Deaths_in_2014
+  title: Deaths in 2014
+  extract: |-
+    <p>This is a chronology of notable <b>deaths in 2014</b>. Names are reported under the date of death. Names under each date are reported in alphabetical order by family name or pseudonym. Deaths of notable animals and other organisms are also reported here if they first have their own article. A typical entry reports information in the following sequence:</p>
+    <ul><li>Name, age, country of citizenship and reason for notability, established cause of death, reference.</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2
+  title: The Amazing Spider-Man 2
+  extract: |-
+    <p><i><b>The Amazing Spider-Man 2</b></i> is a 2014 American superhero film featuring the Marvel Comics character Spider-Man, directed by Marc Webb and released by Columbia Pictures. It serves as a sequel to the 2012 film <i>The Amazing Spider-Man</i> and was announced in 2011. The studio hired James Vanderbilt to write the screenplay and Alex Kurtzman and Roberto Orci to re-write it. Andrew Garfield, Emma Stone, Jamie Foxx, Dane DeHaan, Campbell Scott, Embeth Davidtz, Colm Feore, Paul Giamatti and Sally Field star.</p>
+    <p>Development of <i>The Amazing Spider-Man 2</i> began after the success of <i>The Amazing Spider-Man</i>. DeHaan, Giamatti, Jones, and Cooper were cast between December 2012 and February 2013. Filming took place in New York from February to June 2013. The film is scheduled to be released in 2D, 3D, and IMAX 3D on May 2, 2014 in the United States.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Lycos
+  title: Lycos
+  extract: |-
+    <p><b>Lycos, Inc.</b> is a search engine and web portal established in 1994. Lycos also encompasses a network of email, webhosting, social networking, and entertainment websites.</p>
+    <p></p>
