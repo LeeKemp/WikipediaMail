@@ -1,0 +1,112 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alive
+  title: Alive
+  extract: |-
+    <p><b>Alive</b> may refer to:</p>
+    <ul><li>Life</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alive%21
+  title: Alive!
+  extract: |-
+    <ul><li>This is a redirect to a <b>disambiguation page</b>. This redirect is intended for use in links from other articles that need to refer to the disambiguation page, rather than be disambiguated. Therefore, this template should <i>only</i> appear on a redirect page that has "(disambiguation)" in its title. For more information, see the category link.</li>
+    </ul><dl><dd>
+    <ul><li><b>From an unprintworthy page title</b>: This is a redirect from a title that would not be helpful in a printed version of <i>Wikipedia</i>. For more information follow the category link.</li>
+    </ul></dd>
+    </dl>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Java
+  title: Java
+  extract: |-
+    <p><b>Java</b> (Indonesian: <i><b>Jawa</b></i>; Javanese: ꦗꦮ) is an island of Indonesia. With a population roughly equal to Russia as of 2014, (excluding the 3.7 million on the island of Madura which is administered as part of the province of East Java), Java is the world's most populous island, and one of the most densely populated places in the world. Java is the home of 57 percent of the Indonesian population. The Indonesian capital city, Jakarta, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful Hindu-Buddhist empires, the Islamic sultanates, and the core of the colonial Dutch East Indies. Java was also the center of the Indonesian struggle for independence during the 1930s and 40s. Java dominates Indonesia politically, economically and culturally.</p>
+    <p>Formed mostly as the result of volcanic eruptions, Java is the 13th largest island in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, with Javanese being the dominant language; it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are bilingual, with Indonesian as their first or second languages. While the majority of the people of Java are Muslim, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.</p>
+    <p>Java is divided into four provinces, West Java, Central Java, East Java, and Banten, and also two special regions, Jakarta and Yogyakarta.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2
+  title: The Amazing Spider-Man 2
+  extract: |-
+    <p><i><b>The Amazing Spider-Man 2</b></i> (released as <i><b>The Amazing Spider-Man 2: Rise of Electro</b></i> in some markets) is a 2014 American superhero film featuring the Marvel Comics character Spider-Man, directed by Marc Webb and released by Columbia Pictures. It serves as a sequel to the 2012 film <i>The Amazing Spider-Man</i> and was announced in 2011. The studio hired James Vanderbilt to write the screenplay and Alex Kurtzman and Roberto Orci to rewrite it. Andrew Garfield, Emma Stone, Jamie Foxx, Dane DeHaan, Campbell Scott, Embeth Davidtz, Colm Feore, Paul Giamatti and Sally Field star.</p>
+    <p>Development of <i>The Amazing Spider-Man 2</i> began after the success of <i>The Amazing Spider-Man</i>. DeHaan, Giamatti, Jones, and Cooper were cast between December 2012 and February 2013. Filming took place in New York from February to June 2013. The film was released in 2D, 3D, and IMAX 3D on May 2, 2014 in the United States.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Jersey_Videographer
+  title: Jersey Videographer
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Cinco_de_Mayo
+  title: Cinco de Mayo
+  extract: |-
+    <p><b>Cinco de Mayo</b> (Spanish for "fifth of May") is a celebration held on <b>May 5</b>. It is celebrated in the United States and in Mexico, primarily in the state of Puebla, where the holiday is called <i>El Día de la Batalla de Puebla</i> (English: The Day of the Battle of Puebla).</p>
+    <p>It originated with Mexican-American communities in the American West as a way to commemorate the cause of freedom and democracy during the first years of the American Civil War, and today the date is observed in the United States as a celebration of Mexican heritage and pride. In the state of Puebla, the date is observed to commemorate the Mexican army's unlikely victory over French forces at the Battle of Puebla on May 5, 1862, under the leadership of General Ignacio Zaragoza Seguín. Cinco de Mayo is not Mexico's Independence Day—the most important national patriotic holiday in Mexico—which is celebrated on September 16.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Donald_Sterling
+  title: Donald Sterling
+  extract: |-
+    <p><b>Donald Sterling</b> (born <b>Donald Tokowitz</b>; April 26, 1934) is an American business magnate and former attorney. He is the owner of the Los Angeles Clippers professional basketball franchise of the National Basketball Association (NBA). Sterling acquired the Clippers in 1981 for $12.5 million, and as of 2014, the team is valued at $575 million by <i>Forbes</i> magazine, ranking them 13th out of 30 teams. At 33 seasons of ownership (1981 to present), Sterling has been the longest-tenured owner in the NBA since the death of Los Angeles Lakers majority owner Jerry Buss in 2013.</p>
+    <p>On April 29, 2014, Sterling was banned from the NBA for life and fined $2.5 million by the NBA after recordings of him making racist comments were made public.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Deaths_in_2014
+  title: Deaths in 2014
+  extract: |-
+    <p>This is a chronology of notable <b>deaths in 2014</b>. Names are reported under the date of death. Names under each date are reported in alphabetical order by family name or pseudonym. Deaths of notable animals and other organisms are also reported here if they first have their own article. A typical entry reports information in the following sequence:</p>
+    <ul><li>Name, age, country of citizenship and reason for notability, established cause of death, reference.</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Bob_Newhart
+  title: Bob Newhart
+  extract: |-
+    <p><b>George Robert "Bob" Newhart</b> (born September 5, 1929) is an American stand-up comedian and actor. Noted for his deadpan and slightly stammering delivery, Newhart came to prominence in the 1960s when his album of comedic monologues <i>The Button-Down Mind of Bob Newhart</i> was a worldwide bestseller and reached number one on the <i>Billboard</i> pop album chart—it remains the 20th best-selling comedy album in history. The follow-up album, <i>The Button-Down Mind Strikes Back!</i> was also a massive success, and the two albums held the <i>Billboard</i> number one and number two spots simultaneously.</p>
+    <p>Newhart later went into acting, starring in two long-running and prize-winning situation comedies, first as psychologist Dr. Robert "Bob" Hartley on the 1970s sitcom <i>The Bob Newhart Show</i> and then as innkeeper Dick Loudon on the 1980s sitcom <i>Newhart</i>. He also had two short-lived sitcoms in the nineties titled <i>Bob</i> and <i>George and Leo</i>. Newhart also appeared in film roles such as Major Major in <i>Catch-22</i> and Papa Elf in <i>Elf</i>. He provided the voice of Bernard in the Walt Disney animated films <i>The Rescuers</i> and <i>The Rescuers Down Under</i>. In 2004 he played the library head Judson in <i>The Librarian</i> and again in 2006 and 2008. In 2011, Newhart made a cameo in the film <i>Horrible Bosses</i>, and in 2013 he guest starred in three episodes of <i>The Big Bang Theory</i>, for one of which he won his first Primetime Emmy Award on September 15, 2013.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/History_of_B%C4%83l%C5%A3i
+  title: History of Bălţi
+  extract: |-
+    <p><b>Bălţi</b> is the second largest city in Moldova. It is located in the northern part of the country, within the historical region of Bessarabia, with which the city's own history is closely intertwined.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Vikings_(TV_series)
+  title: Vikings (TV series)
+  extract: |-
+    <p><i><b>Vikings</b></i> is a Canadian-Irish historical drama television series, written and created by Michael Hirst for the television channel History. It premiered on March 3, 2013 in Canada and the United States.</p>
+    <p>Filmed in Ireland, <i>Vikings</i> is inspired by the sagas about the viking Ragnar Lothbrok, one of the best-known mythological Norse heroes and notorious as the scourge of England and France. It portrays Ragnar as a former farmer who rises to fame by sucessful raids into England with the support of his family and fellow warriors: his brother Rollo, his son Bjorn, and his wives - the shieldmaiden Lagertha and the princess Aslaug.</p>
+    <p>On April 5, 2013, History renewed <i>Vikings</i> for a ten-episode second season, which premiered on February 27, 2014. On March 25, 2014, History renewed <i>Vikings</i> for a ten-episode third season.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Lycos
+  title: Lycos
+  extract: |-
+    <p><b>Lycos, Inc.</b> is a search engine and web portal established in 1994. Lycos also encompasses a network of email, webhosting, social networking, and entertainment websites.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones
+  title: Game of Thrones
+  extract: |-
+    <p><i><b>Game of Thrones</b></i> is an American fantasy drama television series created for HBO by David Benioff and D. B. Weiss. It is an adaptation of <i>A Song of Ice and Fire</i>, George R. R. Martin's series of fantasy novels, the first of which is titled <i>A Game of Thrones</i>. Filmed in a Belfast studio and on location elsewhere in Northern Ireland, Malta, Scotland, Croatia, Iceland and Morocco, it premiered on HBO in the United States on April 17, 2011. Two days after the fourth season premiered in April 2014, HBO renewed <i>Game of Thrones</i> for a fifth and sixth season.</p>
+    <p>The series, set on the fictional continents of Westeros and Essos at the end of a decade-long summer, interweaves several plot lines. The first follows the members of several noble houses in a civil war for the Iron Throne of the Seven Kingdoms; the second covers the rising threat of the impending winter and the mythical creatures of the North; the third chronicles the attempts of the exiled last scion of the realm's deposed dynasty to reclaim the throne. Through its morally ambiguous characters, the series explores the issues of social hierarchy, religion, loyalty, corruption, civil war, crime, and punishment.</p>
+    <p><i>Game of Thrones</i> has obtained an exceptionally broad and active international fan base. It received widespread acclaim by critics, although its use of nudity and violence has caused controversies. The series has won numerous awards and nominations, including a Primetime Emmy Award nomination for Outstanding Drama Series in all three seasons, a Golden Globe Award nomination for Best Television Series – Drama, a Hugo Award for Best Dramatic Presentation in both Long Form and Short Form, and a Peabody Award. Among the ensemble cast, Peter Dinklage won the Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series and the Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film for his role as Tyrion Lannister.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy
+  title: Climatic Research Unit email controversy
+  extract: |-
+    <p>The <b>Climatic Research Unit email controversy</b> (also known as <b>"Climategate"</b>) began in November 2009 with the hacking of a server at the Climatic Research Unit (CRU) at the University of East Anglia (UEA) by an external attacker. Several weeks before the Copenhagen Summit on climate change, an unknown individual or group breached CRU's server and copied thousands of emails and computer files to various locations on the Internet.</p>
+    <p>The story was first broken by climate change critics on their blogs, with columnist James Delingpole popularising the term "Climategate" to describe the controversy. Climate change critics and others denying the significance of human caused climate change argued that the emails showed that global warming was a scientific conspiracy, in which they alleged that scientists manipulated climate data and attempted to suppress critics. The accusations were rejected by the CRU, who said that the emails had been taken out of context and merely reflected an honest exchange of ideas.</p>
+    <p>The mainstream media picked up the story as negotiations over climate change mitigation began in Copenhagen on 7 December. Because of the timing, scientists, policy makers, and public relations experts said that the release of emails was a smear campaign intended to undermine the climate conference. In response to the controversy, the American Association for the Advancement of Science (AAAS), the American Meteorological Society (AMS) and the Union of Concerned Scientists (UCS) released statements supporting the scientific consensus that the Earth's mean surface temperature had been rising for decades, with the AAAS concluding "based on multiple lines of scientific evidence that global climate change caused by human activities is now underway...it is a growing threat to society."</p>
+    <p>Eight committees investigated the allegations and published reports, finding no evidence of fraud or scientific misconduct. However, the reports called on the scientists to avoid any such allegations in the future by taking steps to regain public confidence in their work, for example by opening up access to their supporting data, processing methods and software, and by promptly honouring freedom of information requests. The scientific consensus that global warming is occurring as a result of human activity remained unchanged throughout the investigations.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Liposome
+  title: Liposome
+  extract: |
+    <p>A <b>liposome</b> is an artificially-prepared spherical vesicle composed of a lipid bilayer. The liposome can be used as a vehicle for administration of nutrients and pharmaceutical drugs. Liposomes can be prepared by disrupting biological membranes (such as by sonication).</p>
+    <p>Liposomes are often composed of phosphatidylcholine-enriched phospholipids and may also contain mixed lipid chains with surfactant properties such as egg phosphatidylethanolamine. A liposome design may employ surface ligands for attaching to unhealthy tissue.</p>
+    <p>The major types of liposomes are the multilamellar vesicle (MLV), the small unilamellar vesicle (SUV), the large unilamellar vesicle (LUV), and the cochleate vesicle.</p>
+    <p>Liposomes should not be confused with micelles and reverse micelles composed of monolayers.</p>
+    <p></p>
+
+    <p></p>
