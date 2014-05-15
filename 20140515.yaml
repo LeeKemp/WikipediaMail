@@ -1,0 +1,111 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Marcin_Ignaczak
+  title: Marcin Ignaczak
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Godzilla_(2014_film)
+  title: Godzilla (2014 film)
+  extract: |-
+    <p><i><b>Godzilla</b></i> is a 2014 American science fiction monster film featuring the Japanese film monster of the same name in a reboot of the <i>Godzilla</i> film franchise. The film retells the origins of Godzilla in contemporary times as a "terrifying force of nature", depicted in a style faithful to the Toho series of <i>Godzilla</i> films. The film is directed by Gareth Edwards, written by Max Borenstein and stars Aaron Taylor-Johnson, Ken Watanabe, Elizabeth Olsen, Juliette Binoche, Sally Hawkins, David Strathairn, and Bryan Cranston.</p>
+    <p>The film is a co-production between Legendary Pictures and Warner Bros. Pictures, with participation by Toho. Warner Bros. will also distribute the film worldwide, except in Japan where it will be distributed by Toho. It is the second <i>Godzilla</i> film to be fully filmed by an American studio, the first having been the 1998 <i>Godzilla</i>. This film is scheduled for wide release world-wide on May 15, 2014, in North America on May 16, 2014, China on June 13 and Japan on July 25, 2014 in 2D and 3D.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Conchita_Wurst
+  title: Conchita Wurst
+  extract: |-
+    <p><b>Thomas "Tom" Neuwirth</b> (born 6 November 1988), better known as the drag persona <b>Conchita Wurst</b>, is an Austrian singer. Wurst represented Austria and won the Eurovision Song Contest 2014 in Copenhagen, Denmark. The singer uses female pronouns for self description when in the role of Wurst.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Jersey_Videographer
+  title: Jersey Videographer
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alive
+  title: Alive
+  extract: |
+    <p><b>Alive</b> may refer to:</p>
+    <ul><li>Life</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Old_Norse
+  title: Old Norse
+  extract: |-
+    <p><b>Old Norse</b> is a North Germanic language that was spoken by inhabitants of Scandinavia and inhabitants of their overseas settlements during the Viking Age, until about 1300.</p>
+    <p>The Proto-Norse language developed into Old Norse by the 8th century, and Old Norse began to develop into the modern North Germanic languages in the mid- to late 14th century, ending the language phase known as Old Norse. These dates, however, are not absolute, since written Old Norse is found well into the 15th century.</p>
+    <p>Old Norse was divided into three dialects: Old East Norse, Old West Norse, and Old Gutnish. Old West and East Norse formed a dialect continuum, with no clear geographical boundary between them. For example, Old East Norse traits were found in eastern Norway, although Old Norwegian is classified as Old West Norse, and Old West Norse traits were found in western Sweden. Most speakers spoke Old East Norse in what is present day Denmark and Sweden. Old Gutnish, the more obscure dialectal branch, is sometimes included in the Old East Norse dialect due to geographical associations. It developed its own unique features and shared in changes to both other branches.</p>
+    <p>The 12th-century Icelandic <i>Gray Goose Laws</i> state that Swedes, Norwegians, Icelanders and Danes spoke the same language, <i>dǫnsk tunga</i> ("Danish tongue"; speakers of Old East Norse would have said <i>dansk tunga</i>). Another term used, used especially commonly with reference to West Norse, was <i>norrœnt mál</i> ("Nordic speech"). Today Old Norse has developed into the modern North Germanic languages (Icelandic, Faroese, Norwegian, Danish and Swedish), which although considered distinct languages, retain considerable mutual intelligibility.</p>
+    <p>In some instances the term <i>Old Norse</i> refers specifically to Old West Norse.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alive%21
+  title: Alive!
+  extract: |-
+    <ul><li>This is a redirect to a <b>disambiguation page</b>. This redirect is intended for use in links from other articles that need to refer to the disambiguation page, rather than be disambiguated. Therefore, this template should <i>only</i> appear on a redirect page that has "(disambiguation)" in its title. For more information, see the category link.</li>
+    <li>This is a redirect from a title that would <b>not be helpful</b> in a printed version of <i>Wikipedia</i>. For more information follow the category link.</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/List_of_Arrow_episodes
+  title: List of Arrow episodes
+  extract: |-
+    <p><i><b>Arrow</b></i> is an American television series, developed by Greg Berlanti, Marc Guggenheim and Andrew Kreisberg, based on the DC Comics character Green Arrow. The series premiered in the United States on October 10, 2012 for The CW television network, and it is currently in its second season. Season one averaged 3.68 million viewers each week, and was released on DVD and Blu-ray to Regions 1, 2, and 4.</p>
+    <p><i>Arrow</i> follows billionaire playboy Oliver Queen (Stephen Amell), who, after five years of being stranded on a hostile island, returns home and becomes a bow and arrow wielding vigilante. Oliver is initially aided by his friends, John Diggle (David Ramsey) and Felicity Smoak (Emily Bett Rickards), but later the aspiring vigilante Roy Harper (Colton Haynes) and Oliver's love interest Sara Lance (Caity Lotz) join them. The series also features flashbacks in each episode to Oliver's time on the island, and how it shaped him into the man that returned home to fight crime. The first season focuses on Oliver seeking vengeance on the corrupt wealthy, who contributed to the downfall of the city, while the second season sees him expanding his efforts to include all crimes that affect the citizens of Starling City.</p>
+    <p>As of May 14, 2014<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, 46 episodes of <i>Arrow</i> have aired.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Belief_propagation
+  title: Belief propagation
+  extract: |
+    <p><b>Belief propagation</b>, also known as <b>sum-product message passing</b> is a message passing algorithm for performing inference on graphical models, such as Bayesian networks and Markov random fields. It calculates the marginal distribution for each unobserved node, conditional on any observed nodes. Belief propagation is commonly used in artificial intelligence and information theory and has demonstrated empirical success in numerous applications including low-density parity-check codes, turbo codes, free energy approximation, and satisfiability.</p>
+    <p>The algorithm was first proposed by Judea Pearl in 1982, who formulated this algorithm on trees, and was later extended to polytrees. It has since been shown to be a useful approximate algorithm on general graphs.</p>
+    <p>If <i>X</i>=(<i>X</i><sub><i>v</i></sub>) is a set of discrete random variables with a joint mass function <i>p</i>, the marginal distribution of a single <i>X</i><sub><i>i</i></sub> is simply the summation of <i>p</i> over all other variables:</p>
+    <dl><dd></dd>
+    </dl><p>However this quickly becomes computationally prohibitive: if there are 100 binary variables, then one needs to sum over 2<sup>99</sup> ≈ 6.338 × 10<sup>29</sup> possible values. By exploiting the graphical structure, belief propagation allows the marginals to be computed much more efficiently.</p>
+    <p></p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/B%C3%A9la_Guttmann
+  title: Béla Guttmann
+  extract: |-
+    <p><b>Béla Guttmann</b> (<small>Hungarian pronunciation: </small>[ˈbeːlɒ ˈɡutmɒnː]; 27 January 1899 – 28 August 1981) was a Jewish Hungarian footballer and coach. He played as a midfielder for MTK Hungária FC, SC Hakoah Wien, Hungary and several clubs in the United States. However he is perhaps best remembered as a coach and manager of some the world's leading football teams, including AC Milan, São Paulo FC, FC Porto, Benfica and C.A. Peñarol. His greatest success came with Benfica when he guided them to two successive European Cup wins in 1961 and in 1962.</p>
+    <p>Together with Márton Bukovi and Gusztáv Sebes, Guttmann formed a triumvirate of radical Hungarian coaches who pioneered the 4–2–4 formation and he is also credited with mentoring Eusébio. However throughout his career he was never far from controversy. Widely travelled, as both a player and coach, he rarely stayed at a club longer than two seasons, and was quoted as saying <i>the third season is fatal</i>. He was sacked at AC Milan while they were top of Serie A and he walked out on Benfica after they refused a request for a pay rise, purportedly leaving the club with a curse as he left. He also earned a reputation for his self-confidence and his brash style, leading to comparisons with José Mourinho.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones
+  title: Game of Thrones
+  extract: |-
+    <p><i><b>Game of Thrones</b></i> is an American fantasy drama television series created for HBO by David Benioff and D. B. Weiss. It is an adaptation of <i>A Song of Ice and Fire</i>, George R. R. Martin's series of fantasy novels, the first of which is titled <i>A Game of Thrones</i>. Filmed in a Belfast studio and on location elsewhere in Northern Ireland, Malta, Scotland, Croatia, Iceland and Morocco, it premiered on HBO in the United States on April 17, 2011. Two days after the fourth season premiered in April 2014, HBO renewed <i>Game of Thrones</i> for a fifth and sixth season.</p>
+    <p>The series, set on the fictional continents of Westeros and Essos at the end of a decade-long summer, interweaves several plot lines. The first follows the members of several noble houses in a civil war for the Iron Throne of the Seven Kingdoms; the second covers the rising threat of the impending winter and the mythical creatures of the North; the third chronicles the attempts of the exiled last scion of the realm's deposed dynasty to reclaim the throne. Through its morally ambiguous characters, the series explores the issues of social hierarchy, religion, loyalty, corruption, civil war, crime, and punishment.</p>
+    <p><i>Game of Thrones</i> has attracted record numbers of viewers on HBO and obtained an exceptionally broad and active international fan base. It received widespread acclaim by critics, although its frequent use of nudity, violence and sexual violence has attracted criticism. The series has won numerous awards and nominations, including a Primetime Emmy Award nomination for Outstanding Drama Series in all three seasons, a Golden Globe Award nomination for Best Television Series – Drama, a Hugo Award for Best Dramatic Presentation in both Long Form and Short Form, and a Peabody Award. Among the ensemble cast, Peter Dinklage won the Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series and the Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film for his role as Tyrion Lannister.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Deaths_in_2014
+  title: Deaths in 2014
+  extract: |-
+    <p>This is a chronology of notable <b>deaths in 2014</b>. Names are reported under the date of death. Names under each date are reported in alphabetical order by family name or pseudonym. Deaths of notable animals and other organisms are also reported here if they first have their own article. A typical entry reports information in the following sequence:</p>
+    <ul><li>Name, age, country of birth, country of citizenship and reason for notability, established cause of death, reference.</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Olivia_Munn
+  title: Olivia Munn
+  extract: |-
+    <p><b>Lisa Olivia Munn</b> (born July 3, 1980) is an American actress, comedian, model, television personality and author. She began her career being credited as <b>Lisa Munn</b>. Since 2006, she has been using the name <b>Olivia Munn</b> personally and professionally.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Casey_Kasem
+  title: Casey Kasem
+  extract: |-
+    <p><b>Kemal Amin</b> "<b>Casey</b>" <b>Kasem</b> (born April 27, 1932) is a former American radio personality, actor, singer, voice artist, and comedian, best known for being the host of <i>American Top 40</i> and for voicing Shaggy in the <i>Scooby-Doo</i> franchise.</p>
+    <p>Kasem, Don Bustany, and Ron Jacobs founded the <i>American Top 40</i> franchise in 1970, hosting it from 1970 to 1988 and from 1998 to 2004. Between January 1989 and early 1998, he was the host of <i>Casey's Top 40</i>, <i>Casey's Hot 20</i>, and <i>Casey's Countdown</i>. Also beginning in 1998, Kasem hosted two adult contemporary spin-offs of <i>American Top 40</i>, <i>American Top 20</i>, and <i>American Top 10</i>. Kasem retired from <i>AT20</i> and <i>AT10</i> on July 4, 2009 and both shows ended on that day.</p>
+    <p>In addition to his radio shows, Kasem has provided the voice of many commercials; has done many voices for <i>Sesame Street</i>; provided the character voice of Peter Cottontail in the Rankin/Bass production of <i>Here Comes Peter Cottontail</i>; was the voice of NBC; helps out with the annual Jerry Lewis telethon; and provided the cartoon voices of Robin in <i>Super Friends</i>, Mark on <i>Battle of the Planets</i>, and a number of characters for the <i>Transformers</i> cartoon series of the 1980s. In 2008, he was the voice of <i>Out of Sight Retro Night</i> which aired on WGN America, but was replaced by rival Rick Dees. After 40 years, Kasem retired from his role of voicing Shaggy in 2009, although he did voice Shaggy's father in the 2010 TV series, <i>Scooby-Doo! Mystery Incorporated</i>.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Arrow_(TV_series)
+  title: Arrow (TV series)
+  extract: |-
+    <p><i><b>Arrow</b></i> is an American television series developed by writer/producers Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg. It is based on the DC Comics character Green Arrow, a costumed crime-fighter who was created by Mort Weisinger and George Papp. It premiered in North America on The CW on October 10, 2012, with international broadcasting taking place in late 2012. The series follows billionaire playboy Oliver Queen, portrayed by Stephen Amell, who, after five years of being stranded on a hostile island, returns home to fight crime and corruption as a secret vigilante whose weapon of choice is a bow and arrow. Unlike in the comic books, Oliver does not go by the alias "Green Arrow" in the television series. <i>Arrow</i> also features appearances by other DC Comics characters.</p>
+    <p>The series takes a realistic look at the Green Arrow character, as well as other characters from the DC Comics universe. Although Oliver Queen/Green Arrow had been featured in the television series <i>Smallville</i> from 2006 to 2011, the producers decided to start clean and find a new actor (Amell) to portray the character. <i>Arrow</i> focuses on the humanity of Oliver Queen, and how his time on a presumably deserted island affected him. The creative team chose to illustrate that in the series by crafting flashback scenes to the island for almost every episode. The series is primarily filmed in Vancouver, British Columbia, Canada.</p>
+    <p><i>Arrow</i> has received generally favorable reviews from critics, and was the highest rated new series on the CW in past five years up to its release. The series averaged approximately 3.68 million viewers over the course of the first season, and has garnered multiple award nominations and three wins. To assist in promotion, a preview comic book was released before the television series began, while webisodes featuring a product tie-in with Bose were developed for the second season. The first season is available on DVD and Blu-ray in regions 1, 2 and 4 and a soundtrack of it also been released. The second season of <i>Arrow</i> premiered on October 9, 2013.</p>
+    <p>On February 13, 2014, The CW renewed the series for a third season.</p>
+    <p></p>
