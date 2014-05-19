@@ -1,0 +1,115 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Indigenous_australian
+  title: Indigenous australian
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/indigenous_australian
+  title: indigenous australian
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Rubik&#39;s_Cube
+  title: Rubik&#39;s Cube
+  extract: |-
+    <p><b>Rubik</b> or <b>Rubiks</b> may refer to:</p>
+    <dl><dt>People</dt>
+    </dl><ul><li>Alfrēds Rubiks (born 1935), Latvian politician</li>
+    <li>Anja Rubik (born 1983), Polish fashion model</li>
+    <li>Ernő Rubik (born 1944), Hungarian professor and inventor, son of Ernő Rubik (aircraft designer)
+    <ul><li>Rubik's Cube, his most famous invention</li>
+    </ul></li>
+    <li>Ernő Rubik (1910-1997), Hungarian aircraft designer, father of Ernő Rubik</li>
+    <li>Piotr Rubik (born 1968), Polish composer</li>
+    <li>Silvia Rubik (de) (born 1960), Austrian politician (SPÖ)</li>
+    </ul><dl><dt>Other</dt>
+    </dl><ul><li>Rubik, Albania, mining town</li>
+    <li>Rubik (band), Finnish pop/rock band</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Zofia_Palak
+  title: Zofia Palak
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Charles_Durning
+  title: Charles Durning
+  extract: |-
+    <p><b>Charles Edward Durning</b> (February 28, 1923 – December 24, 2012) was an American actor, with appearances in over 200 movies, television shows and plays. Durning's memorable roles included the Oscar-winning <i>The Sting</i> (1973) and <i>Dog Day Afternoon</i> (1975), along with the comedies <i>Tootsie</i> (1982), and <i>The Best Little Whorehouse in Texas</i> (1982) and <i>To Be or Not to Be</i> (1983).</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Godzilla_(2014_film)
+  title: Godzilla (2014 film)
+  extract: |-
+    <p><i><b>Godzilla</b></i> is a 2014 American science fiction monster film directed by Gareth Edwards. The film is a reboot of the <i>Godzilla</i> film franchise. The film retells the origins of Godzilla in contemporary times as a "terrifying force of nature", depicted in a style faithful to the Toho series of <i>Godzilla</i> films. The film is directed by Gareth Edwards, and stars Aaron Taylor-Johnson, Ken Watanabe, Elizabeth Olsen, Juliette Binoche, Sally Hawkins, David Strathairn, and Bryan Cranston. The screenplay is credited to Max Borenstein but includes contributions from David Callaham, David S. Goyer, Drew Pearce, and Frank Darabont.</p>
+    <p>The film is a co-production between Legendary Pictures and Warner Bros. Pictures. Warner Bros. will also distribute the film worldwide, except in Japan where it will be distributed by Toho. It is the second <i>Godzilla</i> film to be fully filmed by an American studio, the first being the 1998 film of the same name. The film was released worldwide on May 14, 2014, as well as in the United States on May 16, 2014 and in China on June 13 and Japan on July 25, 2014 in 2D and 3D.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones_(season_4)
+  title: Game of Thrones (season 4)
+  extract: |-
+    <p>The fourth season of the fantasy drama television series <i>Game of Thrones</i> premiered on April 6, 2014, on HBO. It is adapted primarily from the second half of <i>A Storm of Swords</i>, along with elements of <i>A Feast for Crows</i> and <i>A Dance with Dragons</i>, all novels from the <i>A Song of Ice and Fire</i> series by George R. R. Martin.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Computer_virus
+  title: Computer virus
+  extract: |-
+    <p>A <b>computer virus</b> is a malware program that, when executed, replicates by inserting copies of itself (possibly modified) into other computer programs, data files, or the boot sector of the hard drive; when this replication succeeds, the affected areas are then said to be "infected". Viruses often perform some type of harmful activity on infected hosts, such as stealing hard disk space or CPU time, accessing private information, corrupting data, displaying political or humorous messages on the user's screen, spamming their contacts, or logging their keystrokes. However, not all viruses carry a destructive payload or attempt to hide themselves—the defining characteristic of viruses is that they are self-replicating computer programs which install themselves without the user's consent.</p>
+    <p>Virus writers use social engineering and exploit detailed knowledge of security vulnerabilities to gain access to their hosts' computing resources. The vast majority of viruses target systems running Microsoft Windows, employing a variety of mechanisms to infect new hosts, and often using complex anti-detection/stealth strategies to evade antivirus software. Motives for creating viruses can include seeking profit, desire to send a political message, personal amusement, to demonstrate that a vulnerability exists in software, for sabotage and denial of service, or simply because they wish to explore artificial life and evolutionary algorithms.</p>
+    <p>Computer viruses currently cause billions of dollars worth of economic damage each year, due to causing systems failure, wasting computer resources, corrupting data, increasing maintenance costs, etc. In response, free, open-source antivirus tools have been developed, and a multi-billion dollar industry of antivirus software vendors has cropped up, selling virus protection to Windows users. Unfortunately, no currently existing antivirus software is able to catch all computer viruses (especially new ones); computer security researchers are actively searching for new ways to enable antivirus solutions to more effectively detect emerging viruses, before they have already become widely distributed.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes
+  title: List of Game of Thrones episodes
+  extract: |-
+    <p><i>Game of Thrones</i> is a fantasy drama television series created by David Benioff and D. B. Weiss which premiered on HBO on April 17, 2011. The series is based on the <i>A Song of Ice and Fire</i> novels by author George R. R. Martin. The series takes place on the fictional continents of Westeros and Essos and chronicles the power struggles among the noble families as they fight for control of the Iron Throne of the Seven Kingdoms.</p>
+    <p>As of May 18, 2014<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, 37 episodes of <i>Game of Thrones</i> have aired.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones
+  title: Game of Thrones
+  extract: |-
+    <p><i><b>Game of Thrones</b></i> is an American fantasy drama television series created for HBO by David Benioff and D. B. Weiss. It is an adaptation of <i>A Song of Ice and Fire</i>, George R. R. Martin's series of fantasy novels, the first of which is titled <i>A Game of Thrones</i>. Filmed in a Belfast studio and on location elsewhere in Northern Ireland, Malta, Scotland, Croatia, Iceland and Morocco, it premiered on HBO in the United States on April 17, 2011. Two days after the fourth season premiered in April 2014, HBO renewed <i>Game of Thrones</i> for a fifth and sixth season.</p>
+    <p>The series, set on the fictional continents of Westeros and Essos at the end of a decade-long summer, interweaves several plot lines. The first follows the members of several noble houses in a civil war for the Iron Throne of the Seven Kingdoms; the second covers the rising threat of the impending winter and the mythical creatures of the North; the third chronicles the attempts of the exiled last scion of the realm's deposed dynasty to reclaim the throne. Through its morally ambiguous characters, the series explores the issues of social hierarchy, religion, loyalty, corruption, civil war, crime, and punishment.</p>
+    <p><i>Game of Thrones</i> has attracted record numbers of viewers on HBO and obtained an exceptionally broad and active international fan base. It received widespread acclaim by critics, although its frequent use of nudity, violence and sexual violence has attracted criticism. The series has won numerous awards and nominations, including a Primetime Emmy Award nomination for Outstanding Drama Series in all three seasons, a Golden Globe Award nomination for Best Television Series – Drama, a Hugo Award for Best Dramatic Presentation in both Long Form and Short Form, and a Peabody Award. Among the ensemble cast, Peter Dinklage won the Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series and the Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film for his role as Tyrion Lannister.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Narendra_Modi
+  title: Narendra Modi
+  extract: |-
+    <p><b>Narendra Damodardas Modi</b> ( pronunciation , born 17 September 1950) is the designated Prime Minister of India, set to take office soon after leading the Bharatiya Janata Party (BJP) to a decisive victory in the 2014 general elections. He is also the 14th and current Chief Minister of Gujarat, though he is expected to resign soon to take up the office of Prime Minister.</p>
+    <p>Modi was a key strategist for the BJP in the successful 1995 and 1998 Gujarat state election campaigns, and was a major campaign figure in the 2009 general elections, eventually won by the Indian National Congress led United Progressive Alliance (UPA). He first became chief minister of Gujarat in October 2001 after the resignation of his predecessor, Keshubhai Patel, and following the defeat of BJP in the by-elections. In July 2007, he became the longest-serving Chief Minister in Gujarat's history, at which point he had been in power for 2,063 days continuously. He is currently serving his fourth consecutive term as Chief Minister.</p>
+    <p>Modi is a member of the Rashtriya Swayamsevak Sangh (RSS) and is described as a Hindu nationalist by media, scholars and himself. He is a controversial figure both within India and internationally as his administration has been criticised for the incidents surrounding the 2002 Gujarat riots. He has been praised for his economic policies, which are credited with creating an environment for a high rate of economic growth in Gujarat. However, his administration has also been criticised for failing to make a significant positive impact upon the human development of the state.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Godzilla
+  title: Godzilla
+  extract: |
+    <p><b>Godzilla</b> (ゴジラ, <i>Gojira</i><sup class="t_nihongo_help noprint">?</sup>) (/ɡɒdˈzɪlə/; [ɡoꜜdʑiɽa]<small class="nowrap"> ( )</small>) is a giant monster or daikaiju originating from a series of tokusatsu films of the same name from Japan. He first appeared in Ishirō Honda's 1954 film <i>Godzilla</i>. Since then, Godzilla has gone on to become a worldwide pop culture icon starring in 28 films produced by Toho Co., Ltd.. The character has appeared in numerous other medium incarnations including video games, novels, comic books, and television series. A 1998 American reimagining was produced by Tri-Star Pictures (the title monster of which was renamed to Zilla by Toho in 2004's <i>Godzilla: Final Wars</i>), while a second American version by Legendary Pictures was released on May 16, 2014. The character is commonly alluded to by the title <b>King of the Monsters</b>, an epithet first used in the Americanized version of Ishiro Honda's original 1954 film.</p>
+    <p>With the nuclear bombings of Hiroshima and Nagasaki and the <i>Lucky Dragon 5</i> incident still fresh in the Japanese consciousness, Godzilla was conceived as a metaphor for nuclear weapons. As the film series expanded, some stories took on less serious undertones portraying Godzilla as a hero while other plots still portrayed Godzilla as a destructive monster; sometimes the lesser of two threats who plays the defender by default but is still a danger to humanity.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/main_page
+  title: main page
+  extract: |-
+    <ul><li>This is a redirect from a title with <b>another method of capitalisation</b>. It leads to the title in accordance with the Wikipedia naming conventions for capitalisation, or it leads to a title that is associated in some way with the conventional capitalisation of this redirect title. This may help writing, searching, and international language issues.
+    <ul><li>Use this rcat to tag mainspace redirects; when other capitalisations are in different namespaces, use {{R from modification}} instead. For more information, follow the category link.</li>
+    </ul></li>
+    <li><b>From an unprintworthy page title</b>: This is a redirect from a title that would not be helpful in a printed version of <i>Wikipedia</i>. For more information follow the category link.</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Iggy_Azalea
+  title: Iggy Azalea
+  extract: |-
+    <p><b>Amethyst Amelia Kelly</b> (born 7 June 1990), better known by her stage name <b>Iggy Azalea</b> (/əˈzeɪljə/), is an Australian recording artist and model from Mullumbimby, New South Wales. She relocated to the United States at the age of 16, first staying in Miami, Florida, and then other parts of the South, including Houston, Texas and Atlanta, Georgia. She first gained recognition after the respective music videos for her controversial songs "Pussy" and "Two Times" went viral on YouTube. On 27 September 2011, Azalea released her first full-length project, a mixtape entitled <i>Ignorant Art</i>, saying she made it "with the intent to make people question and redefine old ideals." In 2012, she announced her signing to Mercury Records and the following year to Island Def Jam. Azalea went into professional modeling, when she became represented by Wilhelmina Models, in the spring of 2012; later that year she was announced the "New Face of Levi Jeans".</p>
+    <p>In 2012, Azalea became the first female and non-American rapper to be featured on <i>XXL</i> magazine's annual Top 10 Freshman cover issue. On 30 July 2012, she released <i>Glory</i>, her debut extended play (EP), which was executive produced by American rapper and Grand Hustle label-boss T.I.. The EP was composed of songs originally meant to appear on Azalea's long-awaited and often-delayed debut album. On 11 October 2012, she released her second mixtape <i>TrapGold</i>, which was produced entirely by high-profile producer Diplo, as well as 1st Down of production team FKi. The mixtape is significant for foreshadowing Azalea's new approach to music and her later work, which heavily includes electronic elements. <sup style="white-space:nowrap;">[<i>check quotation syntax</i>]</sup> Azalea's debut studio album <i>The New Classic</i> was released on 21 April 2014. Initially set to be released with Grand Hustle and Interscope Records, after label conflicts, in 2013 Azalea finally secured a deal with Mercury Records and later Island Def Jam, to release her debut album. The album was preceded by the lead single and Azalea's commercial debut single "Work", which successfully charted on several international music charts and peaked at No. 17 on the UK Singles Chart. The other three singles released in promotion for the album were "Bounce", "Change Your Life" and "Fancy", with the latter two featuring guest appearances from T.I. and Charli XCX, respectively.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Checker_shadow_illusion
+  title: Checker shadow illusion
+  extract: |-
+    <p>The <b>checker shadow illusion</b> is an optical illusion published by Edward H. Adelson, Professor of Vision Science at MIT in 1995. The image depicts a checkerboard with light and dark squares. The optical illusion is that the area of the image labeled A appears to be a darker color than the area of the image labeled B. However, they are actually exactly the same color.</p>
+    <p>This can be proven using the following methods:</p>
+    <ul><li>Opening the illusion in an image editing program and using the eyedropper tool to verify that the colors are the same</li>
+    <li>Isolating the squares. Without the surrounding context, the effect of the illusion is dispelled. This can be done by using the selection tool in some image editing programs.</li>
+    <li>Using a photometer</li>
+    <li>Connecting the squares with a rectangle of the same color, as seen below in the middle figure.</li>
+    </ul>
