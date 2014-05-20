@@ -1,0 +1,118 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Indigenous_australian
+  title: Indigenous australian
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/indigenous_australian
+  title: indigenous australian
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Checker_shadow_illusion
+  title: Checker shadow illusion
+  extract: |-
+    <p>The <b>checker shadow illusion</b> is an optical illusion published by Edward H. Adelson, Professor of Vision Science at MIT in 1995. The image depicts a checkerboard with light and dark squares. The optical illusion is that the area of the image labeled A appears to be a darker color than the area of the image labeled B. However, they are actually exactly the same color.</p>
+    <p>This can be proven using the following methods:</p>
+    <ul><li>Opening the illusion in an image editing program and using the eyedropper tool to verify that the colors are the same</li>
+    <li>Isolating the squares. Without the surrounding context, the effect of the illusion is dispelled. This can be done by using the selection tool in some image editing programs.</li>
+    <li>Using a photometer</li>
+    <li>Connecting the squares with a rectangle of the same color, as seen below in the middle figure.</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Fern
+  title: Fern
+  extract: |-
+    <p>A <b>fern</b> is any one or more of a group of roughly 12,000 species of plants belonging to the botanical group known as Pteridophyta. Unlike mosses, they are vascular plants. They have stems and leaves, like other vascular plants. Ferns reproduce via spores and have neither seeds nor flowers. Most ferns have what are called fiddleheads. The fiddleheads expand into what are called fronds, which are each delicately divided.</p>
+    <p>By far the largest group of ferns is the leptosporangiate ferns, but ferns as defined here (also called <b>monilophytes</b>) include horsetails, whisk ferns, marattioid ferns, and ophioglossoid ferns. The term <b>pteridophyte</b> traditionally refers to ferns and a few other seedless vascular plants (see classification section below), although some recent authors have used the term to refer strictly to the monilophytes.</p>
+    <p>Ferns first appear in the fossil record 360 million years ago in the late Devonian period but many of the current families and species did not appear until roughly 145 million years ago in the early Cretaceous, after flowering plants came to dominate many environments.</p>
+    <p>Ferns are not of major economic importance, but some are grown or gathered for food, as ornamental plants, for remediating contaminated soils, and have been the subject of research for their ability to remove some chemical pollutants from the air. Some are significant weeds. They also play a role in mythology, medicine, and art</p>
+    <p><br></p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Rubik&#39;s_Cube
+  title: Rubik&#39;s Cube
+  extract: |-
+    <p><b>Rubik</b> or <b>Rubiks</b> may refer to:</p>
+    <dl><dt>People</dt>
+    </dl><ul><li>Alfrēds Rubiks (born 1935), Latvian politician</li>
+    <li>Anja Rubik (born 1983), Polish fashion model</li>
+    <li>Ernő Rubik (born 1944), Hungarian professor and inventor, son of Ernő Rubik (aircraft designer)
+    <ul><li>Rubik's Cube, his most famous invention</li>
+    </ul></li>
+    <li>Ernő Rubik (1910-1997), Hungarian aircraft designer, father of Ernő Rubik</li>
+    <li>Piotr Rubik (born 1968), Polish composer</li>
+    <li>Silvia Rubik (de) (born 1960), Austrian politician (SPÖ)</li>
+    </ul><dl><dt>Other</dt>
+    </dl><ul><li>Rubik, Albania, mining town</li>
+    <li>Rubik (band), Finnish pop/rock band</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/SingStar_ABBA
+  title: SingStar ABBA
+  extract: |-
+    <p><i><b>SingStar ABBA</b></i> is a singing/voice simulation video game released in 2008 for the PlayStation 2 and PlayStation 3. It was the first band specific <i>SingStar</i> game, followed by <i>SingStar Queen</i> in 2009.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Godzilla_(2014_film)
+  title: Godzilla (2014 film)
+  extract: |-
+    <p><i><b>Godzilla</b></i> is a 2014 American science fiction monster film directed by Gareth Edwards. The film is a reboot of the <i>Godzilla</i> film franchise. It retells the origins of Godzilla in contemporary times as a "terrifying force of nature", depicted in a style faithful to the Toho series of Godzilla films. It stars Aaron Taylor-Johnson, Ken Watanabe, Elizabeth Olsen, Juliette Binoche, Sally Hawkins, David Strathairn, and Bryan Cranston. The screenplay is credited to Max Borenstein but includes contributions from David Callaham, David S. Goyer, Drew Pearce, and Frank Darabont.</p>
+    <p>The film is a co-production between Legendary Pictures and Warner Bros. Pictures. Warner Bros. will also distribute the film worldwide, except in Japan where it will be distributed by Toho. It is the second Godzilla film to be fully filmed by an American studio, the first being the 1998 film of the same name. The film was released worldwide on May 14, 2014, as well as in the United States on May 16, 2014 with releases in China on June 13 and Japan on July 25, 2014 in 2D and 3D.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Nicholas_Winton
+  title: Nicholas Winton
+  extract: |-
+    <p><b>Sir Nicholas George Winton</b>, MBE (born <b>Nicholas Wertheim</b>; 19 May 1909) is a British humanitarian who organized the rescue of 669 mostly Jewish children from German-occupied Czechoslovakia on the eve of the Second World War, in an operation later known as the Czech Kindertransport. Winton found homes for the children and arranged for their safe passage to Britain. The British press has dubbed him the "British Schindler".</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones
+  title: Game of Thrones
+  extract: |-
+    <p><i><b>Game of Thrones</b></i> is an American fantasy drama television series created for HBO by David Benioff and D. B. Weiss. It is an adaptation of <i>A Song of Ice and Fire</i>, George R. R. Martin's series of fantasy novels, the first of which is titled <i>A Game of Thrones</i>. Filmed in a Belfast studio and on location elsewhere in Northern Ireland, Malta, Scotland, Croatia, Iceland and Morocco, it premiered on HBO in the United States on April 17, 2011. Two days after the fourth season premiered in April 2014, HBO renewed <i>Game of Thrones</i> for a fifth and sixth season.</p>
+    <p>The series, set on the fictional continents of Westeros and Essos at the end of a decade-long summer, interweaves several plot lines. The first follows the members of several noble houses in a civil war for the Iron Throne of the Seven Kingdoms; the second covers the rising threat of the impending winter and the mythical creatures of the North; the third chronicles the attempts of the exiled last scion of the realm's deposed dynasty to reclaim the throne. Through its morally ambiguous characters, the series explores the issues of social hierarchy, religion, loyalty, corruption, civil war, crime, and punishment.</p>
+    <p><i>Game of Thrones</i> has attracted record numbers of viewers on HBO and obtained an exceptionally broad and active international fan base. It received widespread acclaim by critics, although its frequent use of nudity, violence and sexual violence has attracted criticism. The series has won numerous awards and nominations, including a Primetime Emmy Award nomination for Outstanding Drama Series in all three seasons, a Golden Globe Award nomination for Best Television Series – Drama, a Hugo Award for Best Dramatic Presentation in both Long Form and Short Form, and a Peabody Award. Among the ensemble cast, Peter Dinklage won the Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series and the Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film for his role as Tyrion Lannister.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones_(season_4)
+  title: Game of Thrones (season 4)
+  extract: |-
+    <p>The fourth season of the fantasy drama television series <i>Game of Thrones</i> premiered on April 6, 2014, on HBO. It is adapted primarily from the second half of <i>A Storm of Swords</i>, along with elements of <i>A Feast for Crows</i> and <i>A Dance with Dragons</i>, all novels from the <i>A Song of Ice and Fire</i> series by George R. R. Martin.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Louis_van_Gaal
+  title: Louis van Gaal
+  extract: |-
+    <p><b>Aloysius Paulus Maria van Gaal</b> <small>OON</small>, known as <b>Louis van Gaal</b> (<small>Dutch pronunciation: </small>[luˈwi vɑŋˈɣaːɫ]; born 8 August 1951), is a Dutch football manager who is the current manager of the Dutch national team. He was formerly manager of Ajax, Barcelona, AZ and Bayern Munich; on 19 May 2014, van Gaal was appointed as the manager of Manchester United on a three-year contract beginning from the 2014-15 season.</p>
+    <p>Before his career as a coach, Van Gaal played as a midfielder for Royal Antwerp, Telstar, Sparta Rotterdam and AZ. He is also a fully qualified gymnastics teacher and has worked as such at high schools during various stages of his career as a semi-professional footballer. Van Gaal is an avid proponent of attacking football, educated in the tradition of the <i>Total Football</i> playing style of Ajax and the Dutch national team of the 1970s.</p>
+    <p>After a brief spell as coach at AZ, Van Gaal served as assistant coach under Leo Beenhakker at Ajax and eventually took over as head coach in 1991. Under his lead, the club won three Eredivisie titles, the UEFA Cup, and the Champions League. Van Gaal moved to Barcelona in 1997 and won two Spanish league titles and one Copa del Rey. After some disagreements at Barcelona, he was appointed coach of the Netherlands national team, but failed to qualify for the 2002 World Cup. Another brief spell at Barcelona followed before he became manager of AZ. After winning the Eredivisie with AZ in 2008–09, he was hired by Bayern Munich on 1 July 2009. In his first season at Bayern, he secured the Bundesliga title, won the DFB-Pokal, and reached the final of the Champions League. In July 2012, he was appointed manager of the Netherlands for the second time.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes
+  title: List of Game of Thrones episodes
+  extract: |-
+    <p><i>Game of Thrones</i> is a fantasy drama television series created by David Benioff and D. B. Weiss which premiered on HBO on April 17, 2011. The series is based on the <i>A Song of Ice and Fire</i> novels by author George R. R. Martin. The series takes place on the fictional continents of Westeros and Essos and chronicles the power struggles among the noble families as they fight for control of the Iron Throne of the Seven Kingdoms.</p>
+    <p>As of May 18, 2014<sup class="plainlinks noprint asof-tag update" style="display:none;">[update]</sup>, 37 episodes of <i>Game of Thrones</i> have aired.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Narendra_Modi
+  title: Narendra Modi
+  extract: |-
+    <p><b>Narendra Damodardas Modi</b> ( pronunciation , born 17 September 1950) is the designated Prime Minister of India, set to take office soon after leading the Bharatiya Janata Party (BJP) to a decisive victory in the 2014 general elections. He is also the 14th and current Chief Minister of Gujarat, though he is expected to resign soon to take up the office of Prime Minister.</p>
+    <p>Modi was a key strategist for the BJP in the successful 1995 and 1998 Gujarat state election campaigns, and was a major campaign figure in the 2009 general elections, eventually won by the Indian National Congress led United Progressive Alliance (UPA). He first became chief minister of Gujarat in October 2001 after the resignation of his predecessor, Keshubhai Patel, and following the defeat of BJP in the by-elections. In July 2007, he became the longest-serving Chief Minister in Gujarat's history, at which point he had been in power for 2,063 days continuously. He is currently serving his fourth consecutive term as Chief Minister.</p>
+    <p>Modi is a member of the Rashtriya Swayamsevak Sangh (RSS) and is described as a Hindu nationalist by media and scholars. He is a controversial figure both within India and internationally as his administration has been criticised for the incidents surrounding the 2002 Gujarat riots. He has been praised for his economic policies, which are credited with creating an environment for a high rate of economic growth in Gujarat. However, his administration has also been criticised for failing to make a significant positive impact upon the human development of the state.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Chimney_swift
+  title: Chimney swift
+  extract: |-
+    <p>The <b>chimney swift</b> (<i>Chaetura pelagica</i>) is a bird belonging to the swift family Apodidae. A member of the genus <i>Chaetura</i>, it is closely related to both the Vaux's swift and the Chapman's swift; in the past, the three were sometimes considered to be conspecific. It has no subspecies.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Computer_virus
+  title: Computer virus
+  extract: |-
+    <p>A <b>computer virus</b> is a malware program that, when executed, replicates by inserting copies of itself (possibly modified) into other computer programs, data files, or the boot sector of the hard drive; when this replication succeeds, the affected areas are then said to be "infected". Viruses often perform some type of harmful activity on infected hosts, such as stealing hard disk space or CPU time, accessing private information, corrupting data, displaying political or humorous messages on the user's screen, spamming their contacts, or logging their keystrokes. However, not all viruses carry a destructive payload or attempt to hide themselves—the defining characteristic of viruses is that they are self-replicating computer programs which install themselves without the user's consent.</p>
+    <p>Virus writers use social engineering and exploit detailed knowledge of security vulnerabilities to gain access to their hosts' computing resources. The vast majority of viruses target systems running Microsoft Windows, employing a variety of mechanisms to infect new hosts, and often using complex anti-detection/stealth strategies to evade antivirus software. Motives for creating viruses can include seeking profit, desire to send a political message, personal amusement, to demonstrate that a vulnerability exists in software, for sabotage and denial of service, or simply because they wish to explore artificial life and evolutionary algorithms.</p>
+    <p>Computer viruses currently cause billions of dollars worth of economic damage each year, due to causing systems failure, wasting computer resources, corrupting data, increasing maintenance costs, etc. In response, free, open-source antivirus tools have been developed, and a multi-billion dollar industry of antivirus software vendors has cropped up, selling virus protection to Windows users. Unfortunately, no currently existing antivirus software is able to catch all computer viruses (especially new ones); computer security researchers are actively searching for new ways to enable antivirus solutions to more effectively detect emerging viruses, before they have already become widely distributed.</p>
+    <p></p>
