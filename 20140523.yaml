@@ -1,0 +1,113 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alive%21
+  title: Alive!
+  extract: |-
+    <ul><li>This is a redirect to a <b>disambiguation page</b>. This redirect is intended for use in links from other articles that need to refer to the disambiguation page, rather than be disambiguated. Therefore, this template should <i>only</i> appear on a redirect page that has "(disambiguation)" in its title. For more information, see the category link.</li>
+    <li>This is a redirect from a title that would <b>not be helpful</b> in a printed version of <i>Wikipedia</i>. For more information follow the category link.</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alive
+  title: Alive
+  extract: |
+    <p><b>Alive</b> may refer to:</p>
+    <ul><li>Life</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Memorial_Day
+  title: Memorial Day
+  extract: |
+    <p><b>Memorial Day</b> is a US federal holiday wherein the men and women who died while serving in the United States Armed Forces are remembered. The holiday, which is celebrated every year on the final Monday of May, was formerly known as <b>Decoration Day</b> and originated after the American Civil War to commemorate the Union and Confederate soldiers who died in the Civil War. By the 20th century, Memorial Day had been extended to honor all Americans who have died while in the military service. It typically marks the start of the summer vacation season, while Labor Day marks its end.</p>
+    <p>Many people visit cemeteries and memorials, particularly to honor those who have died in military service. Many volunteers place an American flag on each grave in national cemeteries.</p>
+    <p>Annual Decoration Days for particular cemeteries are held on a Sunday in late spring or early summer in some rural areas of the American South, notably in the mountains. In cases involving a family graveyard where remote ancestors as well as those who were deceased more recently are buried, this may take on the character of an extended family reunion to which some people travel hundreds of miles. People gather on the designated day and put flowers on graves and renew contacts with kinfolk and others. There often is a religious service and a "dinner on the ground," the traditional term for a potluck meal in which people used to spread the dishes out on sheets or tablecloths on the grass. It is believed that this practice began before the American Civil War and thus may reflect the real origin of the "memorial day" idea.</p>
+    <p>Memorial Day is not to be confused with Veterans Day; Memorial Day is a day of remembering the men and women who died while serving, while Veterans Day celebrates the service of all U.S. military veterans.</p>
+
+    <p></p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Whitechapel_Bell_Foundry
+  title: Whitechapel Bell Foundry
+  extract: |-
+    <p>The <b>Whitechapel Bell Foundry</b> is a bell foundry in Whitechapel in the London Borough of Tower Hamlets, and is the oldest manufacturing company in Great Britain. The foundry's main business is the bellfounding and manufacture of church bells and their fittings and accessories, although it also provides single tolling bells, carillon bells and handbells. The foundry's premises are a Grade II* listed building.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Ronald_McDonald
+  title: Ronald McDonald
+  extract: |
+    <p><b>Ronald McDonald</b> is a clown character used as the primary mascot of the McDonald's fast-food restaurant chain. In television commercials, the clown inhabits a fantasy world called McDonaldland, and has adventures with his friends Mayor McCheese, the Hamburglar, Grimace, Birdie the Early Bird, and The Fry Kids. In recent years, McDonaldland has been largely phased out, and Ronald is instead shown interacting with normal children in their everyday lives.</p>
+    <p>Many people work full-time making appearances in the Ronald McDonald costume, visiting children in hospitals, and attending regular events. There are also Ronald McDonald Houses, where parents can stay overnight when visiting sick children in nearby chronic care facilities.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Jack_Churchill
+  title: Jack Churchill
+  extract: <p>Lieutenant Colonel <b>John Malcolm Thorpe Fleming</b> "<b>Jack</b>"
+    <b>Churchill</b>, DSO &amp; Bar, MC &amp; Bar (16 September 1906 – 8 March 1996),
+    nicknamed <b>Fighting Jack Churchill</b> and <b>Mad Jack</b>, was a British soldier
+    who fought throughout the Second World War armed with a longbow, and a Scottish
+    sword (a basket-hilted <i>claymore</i>). He is known for the motto "any officer
+    who goes into action without his sword is improperly dressed." Churchill also
+    carried out the last recorded bow and arrow killing in action, shooting a German
+    officer in 1940 in a French village. </p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/X-Men_(film_series)
+  title: X-Men (film series)
+  extract: |-
+    <p>The <i><b>X-Men</b></i> film series consists of superhero films based on the Marvel Comics superhero team of the same name. 20th Century Fox obtained the film rights to the characters in 1994, and after numerous drafts, Bryan Singer was hired to direct <i>X-Men</i> (2000) and its sequel, <i>X2</i> (2003). Singer left the potential third and fourth films, leaving Brett Ratner to direct <i>X-Men: The Last Stand</i> (2006). <i>X-Men</i> and <i>X2</i> were met with positive reviews for their dark, realistic tone and subtexts dealing with discrimination and intolerance, while <i>X-Men: The Last Stand</i> was met with mixed reviews.</p>
+    <p>After each film earned higher box-office grosses than its predecessor, three spin-off films were released. <i>X-Men Origins: Wolverine</i> (2009), directed by Gavin Hood, focuses on Wolverine's origin story. <i>X-Men: First Class</i> (2011), directed by Matthew Vaughn, focuses on the origins of Professor X and Magneto. <i>The Wolverine</i> (2013), directed by James Mangold, focuses on Wolverine after the events of <i>The Last Stand</i>. <i>X-Men Origins: Wolverine</i> was met with negative reviews from critics, while <i>X-Men: First Class</i> and <i>The Wolverine</i> were received more positively.</p>
+    <p>The seventh film, <i>X-Men: Days of Future Past</i> (2014) featured the return of the original trilogy cast and Singer as the director. Serving as a dual sequel to both <i>X-Men: The Last Stand</i> and <i>X-Men: First Class</i>, it was met with critical acclaim, with some praising it as the best film in the series.</p>
+    <p>With seven films released, the <i>X-Men</i> film series is the 15th highest-grossing film franchise, having grossed over $2 billion worldwide. It is set to continue with <i>X-Men: Apocalypse</i> (2016), a sequel to <i>Days of Future Past</i> and a third <i>Wolverine</i> film (2017).</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Godzilla_(2014_film)
+  title: Godzilla (2014 film)
+  extract: |-
+    <p><i><b>Godzilla</b></i> is a 2014 American science fiction monster film directed by Gareth Edwards. The film is a reboot of the <i>Godzilla</i> film franchise. It retells the origins of Godzilla in contemporary times as a "terrifying force of nature", depicted in a style faithful to the Toho series of Godzilla films. It stars Aaron Taylor-Johnson, Ken Watanabe, Elizabeth Olsen, Juliette Binoche, Sally Hawkins, David Strathairn, and Bryan Cranston. The screenplay is credited to Max Borenstein but includes contributions from David Callaham, David S. Goyer, Drew Pearce, and Frank Darabont.</p>
+    <p>The film is a co-production between Legendary Pictures and Warner Bros. Pictures. Warner Bros. will also distribute the film worldwide, except in Japan where it will be distributed by Toho. Filmed in the United States and Canada, it is the second Godzilla film to be fully filmed by an American studio, the first being the 1998 film of the same name.<sup class="reference plainlinks nourlexpansion" id="ref_1">1</sup> The film was released worldwide in 2D and 3D on May 14, 2014; in North America on May 16; with releases scheduled in China on June 13 and Japan on July 25, 2014.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/2014_in_film
+  title: 2014 in film
+  extract: |-
+    <p>The following is an overview of the events of <b>2014 in film</b>, including the highest-grossing films, award ceremonies and festivals, a list of films released and notable deaths.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Iggy_Azalea
+  title: Iggy Azalea
+  extract: |-
+    <p><b>Amethyst Amelia Kelly</b> (born 7 June 1990), better known by her stage name <b>Iggy Azalea</b> (/əˈzeɪljə/), is an Australian recording artist and model from Mullumbimby, New South Wales. She relocated to the United States at the age of 16, first staying in Miami, Florida, and then other parts of the South, including Houston, Texas and Atlanta, Georgia. She first gained recognition after the respective music videos for her controversial songs "Pussy" and "Two Times" went viral on YouTube. On 27 September 2011, Azalea released her first full-length project, a mixtape entitled <i>Ignorant Art</i>, saying she made it "with the intent to make people question and redefine old ideals." In 2012, she announced her signing to Mercury Records and the following year to Island Def Jam. Azalea went into professional modeling, when she became represented by Wilhelmina Models, in the spring of 2012; later that year she was announced the "New Face of Levi Jeans".</p>
+    <p>In 2012, Azalea became the first female and non-American rapper to be featured on <i>XXL</i> magazine's annual Top 10 Freshman cover issue. On 30 July 2012, she released <i>Glory</i>, her debut extended play (EP), which was executive produced by American rapper and Grand Hustle label-boss T.I.. The EP was composed of songs originally meant to appear on Azalea's long-awaited and often-delayed debut album. On 11 October 2012, she released her second mixtape <i>TrapGold</i>, which was produced entirely by high-profile producer Diplo, as well as 1st Down of production team FKi. The mixtape is significant for foreshadowing Azalea's new approach to music and her later work, which heavily includes electronic elements. <sup style="white-space:nowrap;">[<i>check quotation syntax</i>]</sup> Azalea's debut studio album <i>The New Classic</i> was released on 21 April 2014. Initially set to be released with Grand Hustle and Interscope Records, after label conflicts, in 2013 Azalea finally secured a deal with Mercury Records and later Island Def Jam, to release her debut album. The album was preceded by the lead single and Azalea's commercial debut single "Work", which successfully charted on several international music charts and peaked at No. 17 on the UK Singles Chart. The other three singles released in promotion for the album were "Bounce", "Change Your Life" and "Fancy", with the latter two featuring guest appearances from T.I. and Charli XCX, respectively.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Apocalypse_(comics)
+  title: Apocalypse (comics)
+  extract: |-
+    <p><b>Apocalypse</b> is a fictional character who is an ancient mutant that appears in comic books published by Marvel Comics. The character first appeared in <i>X-Factor</i> #5 (May 1986), created by writer Louise Simonson and designed by artist Jackson Guice. The character is not to be confused with the Marvel Comics villain Harbinger of Apocalypse.</p>
+    <p>Debuting in the Modern Age of Comic Books, the character has appeared in a number of <i>X-Men</i> titles including spin-offs and several limited series. The character has also featured in associated Marvel merchandise including animated television series, toys, trading cards, and games.</p>
+    <p>In 2008, Apocalypse was ranked #3 at Marvel.com on their list of Top 10 X-Men villains. In 2009, Apocalypse was ranked as IGN's 24th Greatest Comic Book Villain of All Time.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Peter_Dinklage
+  title: Peter Dinklage
+  extract: |-
+    <p><b>Peter Hayden Dinklage</b> (/ˈdɪŋklɪdʒ/ <i><b>DINGK</b>-lij</i>, born June 11, 1969) is an American actor. Since his breakout role in <i>The Station Agent</i> (2003), he has appeared in films such as <i>Elf</i> (2003), <i>Find Me Guilty</i> (2006), <i>Underdog</i> (2007), the British film <i>Death at a Funeral</i> (2007) and its American remake of the same name (2010), <i>The Chronicles of Narnia: Prince Caspian</i> (2008), <i>A Little Bit of Heaven</i> (2011), <i>Ice Age: Continental Drift</i> (2012), and <i>Knights of Badassdom</i> (2013). Since 2011, he has played Tyrion Lannister in the HBO series <i>Game of Thrones</i>, which earned him the Emmy and the Golden Globe Award for Supporting Actor in 2011.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Zofia_Palak
+  title: Zofia Palak
+  extract: 
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+  title: 2014 FIFA World Cup
+  extract: |-
+    <p>The <b>2014 FIFA World Cup</b> will be the 20th FIFA World Cup, an international men's football tournament that is scheduled to take place in Brazil from 12 June to 13 July 2014. It will be the second time that Brazil has hosted the competition, the previous being in 1950. Brazil was elected unchallenged as host nation in 2007 after the international football federation, FIFA, decreed that the tournament would be staged in South America for the first time since 1978 in Argentina, and the fifth time overall.</p>
+    <p>The national teams of 31 countries advanced through qualification competitions that began in June 2011 to participate with the host nation Brazil in the final tournament. A total of 64 matches are to be played in twelve cities across Brazil in either new or redeveloped stadiums, with the tournament beginning with a group stage. For the first time at a World Cup Finals, the matches will use goal-line technology.</p>
+    <p>With the host country, all world champion teams since the first World Cup in 1930 (Uruguay, Italy, Germany, England, Argentina, France and Spain) have qualified for this competition. Spain is the defending champion, having defeated the Netherlands 1–0 in the 2010 World Cup final to win its first World title. The previous four World Cups staged in South America were all won by South American teams.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/May_22
+  title: May 22
+  extract: |
+    <p><b>May 22</b> is the 142nd day of the year (143rd in leap years) in the Gregorian calendar. There are 223 days remaining until the end of the year.</p>
+    <p></p>
+
+    <p></p>
