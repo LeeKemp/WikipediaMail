@@ -1,0 +1,112 @@
+---
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Halley%27s_Comet
+  title: Halley's Comet
+  extract: |-
+    <p><b>Halley's Comet</b> or <b>Comet Halley</b> (/ˈhæli/ or /ˈheɪli/), officially designated <b>1P/Halley</b>, is the best-known of the short-period comets and is visible from Earth every 75–76 years. Halley is the only short-period comet that is clearly visible to the naked eye from Earth, and the only naked-eye comet that might appear twice in a human lifetime. Other naked-eye comets may be brighter and more spectacular, but will appear only once in thousands of years. Halley last appeared in the inner Solar System in 1986 and will next appear in mid-2061.</p>
+    <p>Halley's returns to the inner Solar System have been observed and recorded by astronomers since at least 240 BC. Clear records of the comet's appearances were made by Chinese, Babylonian, and medieval European chroniclers, but were not recognized as reappearances of the same object at the time. The comet's periodicity was first determined in 1705 by English astronomer Edmond Halley, after whom it is now named.</p>
+    <p>During its 1986 apparition, Halley's Comet became the first to be observed in detail by spacecraft, providing the first observational data on the structure of a comet nucleus and the mechanism of coma and tail formation. These observations supported a number of longstanding hypotheses about comet construction, particularly Fred Whipple's "dirty snowball" model, which correctly predicted that Halley would be composed of a mixture of volatile ices – such as water, carbon dioxide, ammonia, – and dust. The missions also provided data that substantially reformed and reconfigured these ideas; for instance, now it is understood that the surface of Halley is largely composed of dusty, non-volatile materials, and that only a small portion of it is icy.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Memorial_Day
+  title: Memorial Day
+  extract: |-
+    <p><b>Memorial Day</b> is a federal holiday in the United States for remembering the men and women who died while serving in the country's armed forces. The holiday, which is celebrated every year on the last Monday of May, was formerly known as <b>Decoration Day</b> and originated after the American Civil War to commemorate the Union and Confederate soldiers who died in the war. By the 20th century, Memorial Day had been extended to honor all Americans who have died while in the military service. It typically marks the start of the summer vacation season, while Labor Day marks its end.</p>
+    <p>Many people visit cemeteries and memorials, particularly to honor those who have died in military service. Many volunteers place an American flag on each grave in national cemeteries.</p>
+    <p>Annual Decoration Days for particular cemeteries are held on a Sunday in late spring or early summer in some rural areas of the American South, notably in the mountains. In cases involving a family graveyard where remote ancestors as well as those who were deceased more recently are buried, this may take on the character of an extended family reunion to which some people travel hundreds of miles. People gather on the designated day and put flowers on graves and renew contacts with kinfolk and others. There often is a religious service and a "dinner on the ground," the traditional term for a potluck meal in which people used to spread the dishes out on sheets or tablecloths on the grass. It is believed that this practice began before the American Civil War and thus may reflect the real origin of the "memorial day" idea.</p>
+    <p>Memorial Day is not to be confused with Veterans Day; Memorial Day is a day of remembering the men and women who died while serving, while Veterans Day celebrates the service of all U.S. military veterans.</p>
+
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/One_red_paperclip
+  title: One red paperclip
+  extract: |-
+    <p>The website <b>One red paperclip</b> was created by Canadian blogger Kyle MacDonald, who bartered his way from a single red paperclip to a house in a series of fourteen online trades over the course of a year. MacDonald was inspired by the childhood game <i>Bigger, Better</i>, and the site received a considerable amount of notice for tracking the transactions. "A lot of people have been asking how I've stirred up so much publicity around the project, and my simple answer is: 'I have no idea'", he told the BBC.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones_(season_4)
+  title: Game of Thrones (season 4)
+  extract: |-
+    <p>The fourth season of the fantasy drama television series <i>Game of Thrones</i> premiered on April 6, 2014, on HBO. It is adapted primarily from the second half of <i>A Storm of Swords</i>, along with elements of <i>A Feast for Crows</i> and <i>A Dance with Dragons</i>, all novels from the <i>A Song of Ice and Fire</i> series by George R. R. Martin.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes
+  title: List of Game of Thrones episodes
+  extract: |-
+    <p><i>Game of Thrones</i> is a fantasy drama television series created by David Benioff and D. B. Weiss which premiered on HBO on April 17, 2011. The series is based on the <i>A Song of Ice and Fire</i> novels by author George R. R. Martin. The series takes place on the fictional continents of Westeros and Essos and chronicles the power struggles among the noble families as they fight for control of the Iron Throne of the Seven Kingdoms.</p>
+    <p>As of May 18, 2014, 37 episodes of <i>Game of Thrones</i> have aired.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Game_of_Thrones
+  title: Game of Thrones
+  extract: |-
+    <p><i><b>Game of Thrones</b></i> is an American fantasy drama television series created for HBO by David Benioff and D. B. Weiss. It is an adaptation of <i>A Song of Ice and Fire</i>, George R. R. Martin's series of fantasy novels, the first of which is titled <i>A Game of Thrones</i>. Filmed in a Belfast studio and on location elsewhere in Northern Ireland, Malta, Scotland, Croatia, Iceland and Morocco, it premiered on HBO in the United States on April 17, 2011. Two days after the fourth season premiered in April 2014, HBO renewed <i>Game of Thrones</i> for a fifth and sixth season.</p>
+    <p>The series, set on the fictional continents of Westeros and Essos at the end of a decade-long summer, interweaves several plot lines. The first follows the members of several noble houses in a civil war for the Iron Throne of the Seven Kingdoms; the second covers the rising threat of the impending winter and the mythical creatures of the North; the third chronicles the attempts of the exiled last scion of the realm's deposed dynasty to reclaim the throne. Through its morally ambiguous characters, the series explores the issues of social hierarchy, religion, loyalty, corruption, civil war, crime, and punishment.</p>
+    <p><i>Game of Thrones</i> has attracted record numbers of viewers on HBO and obtained an exceptionally broad and active international fan base. It received widespread acclaim by critics, although its frequent use of nudity, violence and sexual violence has attracted criticism. The series has won numerous awards and nominations, including a Primetime Emmy Award nomination for Outstanding Drama Series in all three seasons, a Golden Globe Award nomination for Best Television Series – Drama, a Hugo Award for Best Dramatic Presentation in both Long Form and Short Form, and a Peabody Award. Among the ensemble cast, Peter Dinklage won the Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series and the Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film for his role as Tyrion Lannister.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Steve_Wozniak
+  title: Steve Wozniak
+  extract: |-
+    <p><b>Stephen Gary</b> "<b>Steve</b>" <b>Wozniak</b> (born August 11, 1950), known as "<b>Woz</b>", is an American inventor, electronics engineer, and computer programmer who co-founded Apple Computer (now Apple Inc.) with Steve Jobs and Ronald Wayne. Wozniak single-handedly designed both the Apple I and Apple II computers in the late 1970s. These computers contributed significantly to the microcomputer revolution.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alive%21
+  title: Alive!
+  extract: |-
+    <ul><li>This is a redirect to a <b>disambiguation page</b>. This redirect is intended for use in links from other articles that need to refer to the disambiguation page, rather than be disambiguated. Therefore, this template should <i>only</i> appear on a redirect page that has "(disambiguation)" in its title. For more information, see the category link.</li>
+    <li>This is a redirect from a title that would <b>not be helpful</b> in a printed version of <i>Wikipedia</i>. For more information follow the category link.</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alive
+  title: Alive
+  extract: |
+    <p><b>Alive</b> may refer to:</p>
+    <ul><li>Life</li>
+    </ul>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/X-Men_(film_series)
+  title: X-Men (film series)
+  extract: |-
+    <p>The <i><b>X-Men</b></i> film series consists of superhero films based on the Marvel Comics superhero team of the same name. 20th Century Fox obtained the film rights to the characters in 1994, and after numerous drafts, Bryan Singer was hired to direct <i>X-Men</i> (2000) and its sequel, <i>X2</i> (2003). Singer left the potential third and fourth films, leaving Brett Ratner to direct <i>X-Men: The Last Stand</i> (2006). <i>X-Men</i> and <i>X2</i> were met with positive reviews for their dark, realistic tone and subtexts dealing with discrimination and intolerance, while <i>X-Men: The Last Stand</i> was met with mixed reviews.</p>
+    <p>After each film earned higher box-office grosses than its predecessor, three spin-off films were released. <i>X-Men Origins: Wolverine</i> (2009), directed by Gavin Hood, features Wolverine's origin story. <i>X-Men: First Class</i> (2011), directed by Matthew Vaughn, focuses on the origins of Professor X and Magneto. <i>The Wolverine</i> (2013), directed by James Mangold, follows Wolverine after the events of <i>The Last Stand</i>. <i>X-Men Origins: Wolverine</i> was met with negative reviews from critics, while <i>X-Men: First Class</i> and <i>The Wolverine</i> were received more positively.</p>
+    <p>The seventh film, <i>X-Men: Days of Future Past</i> (2014) featured the return of the original trilogy cast and Singer as the director. Serving as a dual sequel to both <i>X-Men: The Last Stand</i> and <i>X-Men: First Class</i>, it was met with critical acclaim.</p>
+    <p>With seven films released, the <i>X-Men</i> film series is the 13th highest-grossing film franchise of all-time, having grossed over $2.5 billion worldwide. It is set to continue with <i>X-Men: Apocalypse</i> (2016), a sequel to <i>Days of Future Past</i> and a third <i>Wolverine</i> film (2017).</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Apocalypse_(comics)
+  title: Apocalypse (comics)
+  extract: |-
+    <p><b>Apocalypse</b> is a fictional character who is an ancient mutant that appears in comic books published by Marvel Comics. The character first appeared in <i>X-Factor</i> #5 (May 1986), created by writer Louise Simonson and designed by artist Jackson Guice. The character is not to be confused with the Marvel Comics villain Harbinger of Apocalypse.</p>
+    <p>Debuting in the Modern Age of Comic Books, the character has appeared in a number of <i>X-Men</i> titles including spin-offs and several limited series. The character has also featured in associated Marvel merchandise including animated television series, toys, trading cards, and games.</p>
+    <p>In 2008, Apocalypse was ranked #3 at Marvel.com on their list of Top 10 X-Men villains.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Alabama_Great_Southern_Railroad
+  title: Alabama Great Southern Railroad
+  extract: |-
+    <p>The <b>Alabama Great Southern Railroad</b> (reporting mark <b>AGS</b>) is a railroad in the U.S. states of Alabama, Georgia, Louisiana, Mississippi, and Tennessee. It is an operating subsidiary of the Norfolk Southern Corporation (NS), running southwest from Chattanooga (where it connects with the similarly owned Cincinnati, New Orleans and Texas Pacific Railway) to New Orleans through Birmingham and Meridian. The AGS also owns about a 30% interest in the Kansas City Southern-controlled Meridian-Shreveport Meridian Speedway.</p>
+    <p>In 1970 AGS reported 3854 million net ton-miles of revenue freight and 10.5 million passenger miles; at the end of that year it operated 528 miles of road and 1084 miles of track. (Those totals do not include Class II subsidiary Louisiana Southern.)</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Peter_Rodger
+  title: Peter Rodger
+  extract: <p><b>Peter Rodger</b> is a British-American filmmaker and photographer,
+    known for his 2009 documentary film <i>Oh My God</i>, as well as his work as an
+    assistant director on <i>The Hunger Games</i>. Rodger has won a number of awards,
+    including from the Houston International Film Festival, the Chicago International
+    Film Festival, the Telly Awards, the Mobius Awards and the US International Film
+    and Video Festival.</p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/47_Ronin_(2013_film)
+  title: 47 Ronin (2013 film)
+  extract: |-
+    <p><i><b>47 Ronin</b></i> is a 2013 Japanese-American fantasy action film depicting a fictional account of the forty-seven Ronin, a real-life group of Ronin (masterless samurai) in 18th-century Japan who avenged the death of their lord (stories, plays and other dramatic performances of the 47 Ronin story are commonly referred to as <i>Chūshingura</i> in Japan). Produced by Universal Studios, the film was directed by Carl Rinsch and stars Keanu Reeves and Hiroyuki Sanada. Filming started in Budapest in March 2011; it moved to Shepperton Studios in London and was concluded in Japan.</p>
+    <p>Although it grossed close to $155 million worldwide on the strength of overseas receipts, the movie failed to break even and Variety reported the film as a costly box office disaster which left Universal Studios deeply in the red for 2013.</p>
+    <p></p>
+- !ruby/object:Page
+  url: http://en.wikipedia.org/wiki/Narendra_Modi
+  title: Narendra Modi
+  extract: |-
+    <p><b>Narendra Damodardas Modi</b> ( pronunciation , born 17 September 1950) is the 15th Prime Minister of the Republic of India. Modi, a leader of the Bharatiya Janata Party (BJP), was Chief Minister of Gujarat from 2001 to 2014.</p>
+    <p>Modi was a key strategist for the BJP in the successful 1995 and 1998 Gujarat state election campaigns. He became Chief Minister of Gujarat in October 2001 and served longer by far in that position than anyone else to date. He was a major campaign figure in the 2009 general election, which the BJP led National Democratic Alliance lost to the Congress-led United Progressive Alliance (UPA). He led the BJP in the April–May 2014 general election, which resulted in a majority for the BJP in the Lok Sabha.</p>
+    <p>Modi was also a member of the Rashtriya Swayamsevak Sangh (RSS). He is a controversial figure both within India as well as internationally as his administration has been criticised for the incidents surrounding the 2002 Gujarat riots. He has been praised for his economic policies, which are credited with creating an environment for a high rate of economic growth in Gujarat. However, his administration has also been criticised for failing to make a significant positive impact upon the human development of the state.</p>
+    <p></p>
